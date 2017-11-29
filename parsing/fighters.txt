@@ -1,0 +1,2984 @@
+1;Tom Aaron;;;70;;;5;3;0;|
+2;Danny Abbadi;The Assassin;1.8;70;;Orthodox;4;6;0;|
+3;David Abbott;Tank;1.83;120;;Switch;10;14;0;|
+4;Shamil Abdurakhimov;Abrek;1.91;107;193;Orthodox;16;4;0;|
+5;Hiroyuki Abe;Abe Ani;1.68;66;;Orthodox;8;14;3;|
+6;Daichi Abe;;1.8;77;180;Orthodox;6;0;0;|
+7;Papy Abedi;Makambo;1.8;84;188;Southpaw;9;3;0;|
+8;Ricardo Abreu;Demente;1.8;84;185;Orthodox;5;3;0;|
+9;Daniel Acacio;;1.73;82;;Orthodox;26;12;0;|
+10;Scott Adams;;1.83;102;;Southpaw;8;1;0;|
+11;Sam Adkins;The Experience;1.91;102;;Orthodox;7;20;2;|
+12;Nick Agallar;;1.73;70;;Orthodox;24;6;0;|
+13;Marcelo Aguiar;;1.78;77;;Orthodox;2;3;1;|
+14;Edwin Aguilar;Tigre;1.78;84;;;22;16;0;|
+15;Jessica Aguilar;Jag;1.6;52;160;Orthodox;19;6;0;|
+16;Mike Aina;Iron;1.75;70;;Orthodox;12;6;1;|
+17;Hitomi Akano;Girlfight Monster;1.63;61;;Southpaw;18;8;0;|
+18;Omari Akhmedov;Wolverine;1.83;77;185;Orthodox;17;4;0;|
+19;Yoshihiro Akiyama;;1.78;77;185;Orthodox;14;6;0;|
+20;Razak Al-Hassan;;1.88;93;;Orthodox;11;5;0;|
+21;Mostapha Al-Turk;;1.88;111;196;Orthodox;6;6;0;|
+22;Javi Alanis;;1.68;61;;;0;3;0;|
+23;Brett Albee;;;102;;;3;1;0;|
+24;John Albert;Prince;1.73;61;173;;7;5;0;|
+25;Junior Albini;Baby;1.91;120;188;Orthodox;14;2;0;|
+26;Wes Albritton;;1.78;85;;Orthodox;0;1;0;|
+27;Alexandra Albu;Stitch;1.57;52;160;Orthodox;7;0;0;|
+28;Israel Albuquerque;;;84;;Orthodox;0;3;0;|
+29;Juan Alcain;;;;;;1;2;0;|
+30;Iuri Alcantara;Marajo;1.75;61;180;Southpaw;34;8;0;|
+31;Ildemar Alcantara;Marajo;1.88;84;198;Orthodox;21;8;0;|
+32;Alfonso Alcarez;;1.6;66;;;1;3;1;|
+33;Gilbert Aldana;El Peligro;1.85;113;;Orthodox;6;2;0;|
+34;Irene Aldana;;1.75;61;173;Orthodox;7;4;0;|
+35;Jose Aldo;Junior;1.7;66;178;Orthodox;26;3;0;|
+36;JJ Aldrich;;1.65;52;170;Southpaw;5;2;0;|
+37;Jim Alers;The Beast;1.75;66;180;Orthodox;13;3;0;|
+38;John Alessio;The Natural;1.78;70;183;Orthodox;34;16;0;|
+39;Houston Alexander;The Assassin;1.83;93;183;Orthodox;13;8;1;|
+40;Kenneth Alexander;The Machine;1.75;70;;Orthodox;5;5;0;|
+41;Marcio Alexandre Junior;Lyoto;1.83;77;190;Southpaw;13;3;0;|
+42;Olaf Alfonso;;1.88;77;;Orthodox;8;11;0;|
+43;Pablo Alfonso;The Hurricane;1.73;66;;;6;5;0;|
+44;Levi Alford;;;;;;1;4;0;|
+45;Royce Alger;;1.78;90;;Orthodox;3;2;0;|
+46;Sultan Aliev;;1.8;77;188;Orthodox;14;2;0;|
+47;George Allen;;1.88;93;;Open;13;19;2;|
+48;Arnold Allen;Almighty;1.73;66;178;Southpaw;12;1;0;|
+49;Benny Alloway;Blanco;1.8;77;190;Orthodox;13;6;0;|
+50;Ricardo Almeida;Big Dog;1.83;77;188;Orthodox;13;5;0;|
+51;Magno Almeida;;1.83;70;;;9;3;0;|
+52;Thomas Almeida;Thominhas;1.7;61;178;Southpaw;22;2;0;|
+53;Ericka Almeida;;1.68;52;173;;7;2;0;|
+54;Mauricio Alonso;;1.88;77;;;13;7;0;|
+55;Rico Altamirano;;1.78;77;;;3;2;0;|
+56;Mike Altman;;1.78;84;;Orthodox;1;4;0;|
+57;Sean Alvarez;;1.83;107;;Orthodox;4;3;0;|
+58;Eddie Alvarez;The Underground King;1.75;70;175;Orthodox;28;5;0;|
+59;Jaime Alvarez;;1.73;57;175;Orthodox;6;1;0;|
+60;Thiago Alves;Pitbull;1.75;77;178;Orthodox;27;11;0;|
+61;Anthony Alves;;;;;;1;3;0;|
+62;Amilcar Alves;;1.83;77;;Southpaw;11;4;0;|
+63;Warlley Alves;;1.8;77;183;Orthodox;12;2;0;|
+64;Sam Alvey;Smile'N;1.88;84;190;Southpaw;31;10;0;|
+65;Andre Amado;Dida;1.83;70;;Orthodox;6;4;1;|
+66;Adlan Amagov;Borz;1.88;77;193;Orthodox;13;2;1;|
+67;Chris Amarante;;;84;;;2;0;0;|
+68;Jimmy Ambriz;The Titan;1.88;143;;Southpaw;15;18;1;|
+69;JJ Ambrose;;1.78;77;;Orthodox;17;3;0;|
+70;Makwan Amirkhani;Mr. Finland;1.78;66;183;Southpaw;13;3;0;|
+71;Bertrand Amoussou;;1.73;86;;Orthodox;1;1;0;|
+72;Karl Amoussou;The Psycho;1.8;84;;Orthodox;12;4;2;|
+73;Eryk Anders;Ya Boi;1.85;84;190;Southpaw;8;0;0;|
+74;Matt Andersen;;1.88;104;;Southpaw;14;8;1;|
+75;Andy Anderson;The Hammer;1.68;109;;;0;1;0;|
+76;Lowell Anderson;;1.68;73;;Orthodox;0;1;0;|
+77;Corey Anderson;Overtime;1.91;93;201;Orthodox;10;3;0;|
+78;Derek Anderson;Barbaric;1.83;70;;;14;3;0;|
+79;Megan Anderson;;1.83;66;;;8;2;0;|
+80;Alex Andrade;El Toro;1.8;91;;Orthodox;10;5;0;|
+81;Jessica Andrade;Bate Estaca;1.55;52;157;Orthodox;17;6;0;|
+82;Viscardi Andrade;;1.8;77;190;Orthodox;19;7;0;|
+83;Jermaine Andre;;1.7;91;;Orthodox;14;4;0;|
+84;Dylan Andrews;The Villain;1.85;84;185;Switch;18;8;0;|
+85;Reese Andy;Riptide;1.83;93;;Orthodox;7;3;0;|
+86;Yoji Anjo;Mr. 200%;1.8;93;;Orthodox;0;5;1;|
+87;Nina Ansaroff;The Strina;1.65;52;163;Orthodox;7;5;0;|
+88;Gadzhimurad Antigulov;;1.8;93;178;Orthodox;20;4;0;|
+89;Adam Antolin;Captain Chaos;1.65;57;160;Orthodox;12;3;0;|
+90;Angelo Antonio;;;93;;Orthodox;1;3;0;|
+91;Zu Anyanwu;8th Wonder;1.85;114;196;Orthodox;14;5;0;|
+92;Shinsho Anzai;Animal;1.7;77;178;Orthodox;10;2;0;|
+93;Shinya Aoki;Tobikan Judan;1.8;70;;Southpaw;30;5;0;|
+94;Erik Apple;;1.83;77;;Orthodox;10;3;0;|
+95;Kenji Arai;;1.78;66;;Southpaw;15;15;5;|
+96;Romie Aram;;1.78;77;;Orthodox;7;1;0;|
+97;Felipe Arantes;Sertanejo;1.73;66;185;Orthodox;18;9;1;|
+98;Igor Araujo;;1.85;77;196;Orthodox;25;8;0;|
+99;Julio Arce;;1.7;66;;Southpaw;13;2;0;|
+100;Art Arciniega;King Arthur;1.73;66;;;15;7;0;|
+101;Tristan Arenal;;;70;;;4;1;0;|
+102;Andrei Arlovski;The Pitbull;1.91;109;196;Orthodox;25;15;0;|
+103;Joey Armstrong;;;;;;5;2;0;|
+104;Austin Arnett;Golden Boy;1.83;66;188;Orthodox;15;2;0;|
+105;Ricardo Arona;The Brazilian Tiger;1.8;93;;Orthodox;14;5;0;|
+106;Chalid Arrab;Die Faust;1.8;93;;Orthodox;7;3;0;|
+107;Akbarh Arreola;El Caballero;1.78;70;180;Southpaw;23;10;1;|
+108;Matt Arroyo;No Regard;1.78;77;183;Orthodox;3;3;0;|
+109;Gilles Arsene;;1.75;86;;Southpaw;1;1;0;|
+110;Veta Arteaga;;1.7;57;;;3;1;0;|
+111;Cesar Arzamendia;Goku;1.8;70;180;;7;4;0;|
+112;Cyril Asker;Silverback;1.83;112;188;Orthodox;8;3;0;|
+113;Scott Askham;;1.91;84;190;Southpaw;14;4;0;|
+114;Junior Assuncao;;1.75;66;183;Orthodox;13;4;0;|
+115;Raphael Assuncao;;1.65;61;168;Orthodox;25;5;0;|
+116;Bazigit Atajev;Volk;1.85;104;;Orthodox;17;1;0;|
+117;Rich Attonito;The Raging Bull;1.78;77;183;Orthodox;10;5;0;|
+118;Olivier Aubin-Mercier;The Quebec Kid;1.75;70;178;Southpaw;11;2;0;|
+119;Pat Audinwood;Awesomely Awesome;1.83;70;;Orthodox;9;2;1;|
+120;Marcus Aurelio;Maximus;1.78;70;188;Orthodox;21;10;0;|
+121;David Avellan;;1.75;84;;Orthodox;2;1;0;|
+122;Blas Avena;The Disciple;1.83;77;188;Orthodox;7;6;0;|
+123;Levi Avera;;1.85;77;;;16;10;0;|
+124;Anthony Avila;;1.7;66;;;6;1;0;|
+125;Chris Avila;;1.78;66;183;Orthodox;5;4;0;|
+126;Saad Awad;Assassin;1.8;70;;;9;5;0;|
+127;Javy Ayala;Eye Candy;1.85;120;;;10;5;0;|
+128;Jessin Ayari;Abacus;1.83;77;185;Orthodox;16;4;0;|
+129;Abu Azaitar;Gladiator;1.78;84;;;13;1;1;|
+130;Luiz Azeredo;;1.75;70;;Orthodox;15;10;0;|
+131;Luciano Azevedo;;1.91;73;;Orthodox;16;9;1;|
+132;Niklas Backstrom;;1.85;66;188;Orthodox;8;2;0;|
+133;Seth Baczynski;The Polish Pistola;1.91;77;188;Orthodox;18;11;0;|
+134;Ryan Bader;Darth;1.88;93;188;Orthodox;23;5;0;|
+135;Izabela Badurek;;1.65;52;;Orthodox;5;3;0;|
+136;Ali Bagautinov;Puncher;1.63;57;165;Orthodox;14;5;0;|
+137;Mehdi Baghdad;The Sultan;1.85;70;190;Orthodox;11;4;0;|
+138;Siyar Bahadurzada;The Great;1.8;84;183;Orthodox;23;6;1;|
+139;Shamar Bailey;;1.75;70;190;;12;5;0;|
+140;Jordan Bailey;;1.75;66;;;6;3;0;|
+141;Scott Baker;;1.83;95;;;1;1;0;|
+142;Bryan Baker;The Beast;1.91;84;;Orthodox;16;3;0;|
+143;Oluwale Bamgbose;Holy War Angel;1.8;84;198;Switch;6;3;0;|
+144;Stephen Banaszak;;1.83;66;;;5;5;0;|
+145;Marcin Bandel;Bomba;1.78;70;178;Orthodox;13;4;0;|
+146;Humberto Bandenay;;1.8;66;;Southpaw;14;4;0;|
+147;Tae Hyun Bang;The Korean Cowboy;1.75;70;180;Switch;18;10;0;|
+148;Yohan Banks;;;;;;2;1;0;|
+149;Antonio Banuelos;;1.65;61;160;Orthodox;19;7;1;|
+150;Renan Barao;The Baron;1.68;64;178;Orthodox;36;5;0;|
+151;Junior Barata;;1.78;77;;Orthodox;8;3;1;|
+152;Bryan Barberena;Bam Bam;1.83;77;183;Southpaw;13;5;0;|
+153;Edson Barboza;Junior;1.8;70;190;Orthodox;19;4;0;|
+154;Raoni Barcelos;;1.7;66;;;11;1;0;|
+155;Luke Barnatt;The Bigslow;1.98;84;196;Orthodox;8;3;0;|
+156;James Barnes;;1.73;66;;;7;2;0;|
+157;Nick Barnes;;1.8;77;;;11;2;0;|
+158;Josh Barnett;The Warmaster;1.91;113;198;Orthodox;35;8;0;|
+159;Chris Barnhizer;;;;;;1;3;0;|
+160;David Baron;;1.68;70;;Switch;17;3;1;|
+161;Phil Baroni;The New York Bad Ass;1.75;77;183;Orthodox;14;15;0;|
+162;Dan Barrera;The Fireman;1.75;77;;Orthodox;3;1;0;|
+163;Carlos Barreto;;1.93;104;;Orthodox;14;9;0;|
+164;Jose Barreto;;;84;;Southpaw;0;1;0;|
+165;David Barrios;;1.68;66;;;4;5;0;|
+166;Alexandre Barros;Baixinho;1.75;77;;Southpaw;18;8;0;|
+167;Ricardo Barros;;1.85;93;;;2;2;0;|
+168;Francimar Barroso;Bodao;1.85;93;190;Orthodox;19;6;0;|
+169;Pat Barry;HD;1.8;107;188;Orthodox;8;7;0;|
+170;Enrique Barzola;El Fuerte;1.7;66;178;;14;3;1;|
+171;Stephen Bass;Bigfish;1.75;66;;;10;1;0;|
+172;Sean Bassett;;;70;;;0;4;0;|
+173;Ryan Bastianelli;Relentless;1.65;61;;;5;2;0;|
+174;Shayna Baszler;The Queen of Spades;1.7;61;170;Orthodox;15;10;0;|
+175;Chris Beal;Real Deal;1.7;57;175;Orthodox;10;3;0;|
+176;Rudy Bears;;1.8;77;;Southpaw;13;11;0;|
+177;Salvador Becerra;;1.75;70;;;5;2;0;|
+178;Jeff Bedard;Little Popeye;1.68;66;;Orthodox;13;3;0;|
+179;Eric Bedard;Lucky Strikes;1.88;108;;;6;7;0;|
+180;Johnny Bedford;Brutal;1.78;61;180;Orthodox;19;13;1;|
+181;Chase Beebe;;1.7;61;170;Orthodox;19;8;1;|
+182;Lyle Beerbohm;Fancy Pants;1.78;70;;Southpaw;15;2;0;|
+183;Mirsad Bektic;;1.73;66;178;Orthodox;11;1;0;|
+184;Alan Belcher;The Talent;1.88;84;185;Orthodox;17;7;0;|
+185;Vitor Belfort;The Phenom;1.83;84;188;Southpaw;26;13;0;|
+186;Joey Beltran;The Mexicutioner;1.85;84;190;Orthodox;15;9;0;|
+187;Marco Beltran;Psycho;1.73;57;175;Orthodox;8;7;0;|
+188;Joseph Benavidez;;1.63;57;165;Southpaw;24;4;0;|
+189;Mike Bencic;Batman;1.83;98;;Orthodox;1;2;0;|
+190;Dave Beneteau;Dangerous;1.88;113;;Orthodox;6;5;1;|
+191;Karla Benitez;;1.6;51;;;6;2;1;|
+192;Gabriel Benitez;Moggly;1.73;66;180;;19;7;0;|
+193;Charles Bennett;Krazy Horse;1.73;70;;Orthodox;25;23;2;|
+194;Josh Bennett;;1.93;117;;Orthodox;12;13;0;|
+195;Lance Benoist;;1.8;77;185;Southpaw;7;2;0;|
+196;Joe Benoit;;1.75;77;;Orthodox;11;4;0;|
+197;Ryan Benoit;Baby Face;1.65;57;173;Orthodox;9;5;0;|
+198;Pat Benson;;1.75;70;;;3;6;2;|
+199;Len Bentley;;1.75;70;;;9;4;0;|
+200;Steve Berger;The Red Nosed Pitbull;1.8;77;;Orthodox;21;22;2;|
+201;Bret Bergmark;The Angry Hick;1.75;77;;;6;1;1;|
+202;Keith Berish;Sha Bang Bang;1.83;93;185;Orthodox;5;1;0;|
+203;Dennis Bermudez;The Menace;1.68;66;168;Orthodox;17;7;0;|
+204;Dave Berry;;;;;;0;1;0;|
+205;Keith Berry;;1.85;84;;;10;9;1;|
+206;Dieusel Berto;;1.75;91;;;0;3;0;|
+207;Edson Berto;Little Tiger;1.68;70;;Orthodox;16;9;1;|
+208;Allen Berube;Monstah Lobstah;1.73;70;;Orthodox;4;3;0;|
+209;Anton Berzin;The Body Snatcher;1.88;93;;Orthodox;5;1;0;|
+210;Scott Bessac;;1.93;111;;;4;6;0;|
+211;Matt Bessette;The Mangler;1.78;66;178;Orthodox;22;7;0;|
+212;Fernando Bettega;;;77;;;7;5;0;|
+213;Arjan Bhullar;;1.85;111;193;Orthodox;7;0;0;|
+214;Magomed Bibulatov;Chaborz;1.65;57;165;Orthodox;14;1;0;|
+215;David Bielkheden;;1.78;70;180;Orthodox;16;9;0;|
+216;Jeremiah Billington;;1.75;93;;Orthodox;11;2;0;|
+217;Scott Bills;;1.78;77;;;8;9;1;|
+218;Anthony Birchak;El Toro;1.73;61;175;Orthodox;13;3;0;|
+219;Michael Bisping;The Count;1.85;84;190;Orthodox;31;7;0;Champion Belt|
+220;Amaury Bitetti;;1.75;84;;Orthodox;5;2;0;|
+221;Jan Blachowicz;;1.88;93;198;Orthodox;20;7;0;|
+222;Jason Black;The Black Legion;1.73;70;;Orthodox;23;4;1;|
+223;Brad Blackburn;Bad Brad;1.78;77;185;Orthodox;18;13;1;|
+224;Jason Blackford;;;;;;2;3;0;|
+225;Tom Blackledge;;;93;;;10;7;0;|
+226;Maximo Blanco;Maxi;1.73;66;180;Orthodox;12;8;1;|
+227;David Blanco;;1.7;66;;;2;0;0;|
+228;Curtis Blaydes;Razor;1.93;120;203;Orthodox;7;1;0;|
+229;Arlene Blencowe;Angerfist;1.65;66;;;9;6;0;|
+230;Byron Bloodworth;;1.73;61;175;Orthodox;6;3;0;|
+231;Dan Bobish;;1.88;156;;Southpaw;17;9;0;|
+232;Mark Bocek;;1.73;70;190;Orthodox;12;5;0;|
+233;Kyle Bochniak;Crash;1.7;66;178;Orthodox;7;2;0;|
+234;James Bochnovic;;1.93;93;206;Orthodox;8;2;0;|
+235;Jeremy Boczulak;;;;;;0;2;0;|
+236;Tim Boetsch;The Barbarian;1.83;84;188;Orthodox;21;11;0;|
+237;Galore Bofando;;1.8;77;183;Switch;5;2;0;|
+238;Jay Bogan;;;66;;;6;6;0;|
+239;Derek Bohi;Marshmallow;1.93;118;;;8;5;0;|
+240;Jerry Bohlander;;1.8;90;;Orthodox;11;4;0;|
+241;Kotetsu Boku;;1.75;70;;Orthodox;18;7;2;|
+242;Kyle Bolt;;1.88;84;;;8;4;0;|
+243;Luc Bondole;;1.88;93;;;5;2;2;|
+244;Tony Bonello;The Gun;1.88;84;;;16;2;1;|
+245;Jesse Bongfeldt;Water;1.83;84;;Orthodox;15;5;1;|
+246;Marcos Bonilla;Murder Marx;1.78;66;;;4;4;0;|
+247;Stephan Bonnar;The American Psycho;1.93;93;198;Orthodox;17;8;0;|
+248;Ray Borg;The Tazmexican Devil;1.63;57;160;Orthodox;11;3;0;|
+249;Igor Borisov;;1.83;107;;Orthodox;1;1;0;|
+250;Steve Bosse;The Boss;1.8;93;183;Orthodox;12;2;0;|
+251;Marcus Bossett;The Grasshopper;1.85;98;;Orthodox;1;3;0;|
+252;Chris Bostick;;;;;;6;3;0;|
+253;Poliana Botelho;;1.73;57;;Orthodox;6;1;0;|
+254;Francois Botha;White Buffalo;1.88;118;;Orthodox;0;1;0;|
+255;Gregory Bouchelaghem;;1.88;83;;Switch;5;4;0;|
+256;Roy Boughton;Black Dynamite;1.83;93;;;14;8;0;|
+257;Rich Bouphanouvong;;1.7;77;;;1;4;0;|
+258;Mike Bourke;The Rhino;1.83;125;;Orthodox;10;16;1;|
+259;Jess Bouscal;;;70;;;3;2;0;|
+260;Tai Bowden;;1.8;104;;;1;1;0;|
+261;Melton Bowen;The Punisher;1.83;102;;Orthodox;0;1;0;|
+262;Brian Bowles;;1.7;61;178;Orthodox;10;3;0;|
+263;Roger Bowling;Relentless;1.75;70;173;Orthodox;11;5;0;|
+264;Blake Bowman;;1.88;77;;;2;4;0;|
+265;Ashe Bowman;The Archer;1.75;70;;;9;10;0;|
+266;Kyle Bradley;;1.75;70;180;Orthodox;15;8;0;|
+267;Paul Bradley;The Gentleman;1.75;77;;Orthodox;18;3;0;|
+268;Ebenezer Fontes Braga;Pitbull;1.83;90;;Orthodox;13;7;2;|
+269;Joe Brammer;The South Side Strangler;1.73;70;;Orthodox;7;3;1;|
+270;David Branch;;1.85;84;198;Orthodox;21;4;0;|
+271;Diego Brandao;DB;1.7;66;173;Orthodox;24;11;0;|
+272;Michael Bravo;;;70;;;7;4;0;|
+273;Martin Bravo;El Toro;1.73;66;180;Southpaw;12;1;0;|
+274;Tom Breese;;1.91;84;185;Southpaw;10;1;0;|
+275;Chris Brennan;The Westside Strangler;1.73;77;;Orthodox;19;13;1;|
+276;Charlie Brenneman;The Spaniard;1.78;70;183;Orthodox;19;8;0;|
+277;Mack Brewer;;;93;;;0;1;0;|
+278;Jason Brilz;Hitman;1.8;93;180;Orthodox;18;5;1;|
+279;Marcus Brimage;The Bama Beast;1.63;61;180;Southpaw;7;5;0;|
+280;Aaron Brink;;1.91;93;;Orthodox;25;21;0;|
+281;Henry Briones;Bure;1.73;61;175;;19;7;1;|
+282;Marcelo Brito;Jungle Boy;1.85;77;;Orthodox;8;5;0;|
+283;Antwain Britt;The Juggernaut;1.85;93;196;;11;5;0;|
+284;Drew Brokenshire;;;;;;4;2;0;|
+285;Mike Bronzoulis;The Greek;1.83;70;;;13;3;1;|
+286;Jonathan Brookins;;1.83;66;185;Southpaw;14;6;0;|
+287;Will Brooks;Ill;1.78;70;183;Orthodox;18;3;0;|
+288;CM Punk;CM Punk;1.85;77;185;Orthodox;0;1;0;|
+289;Jarred Brooks;The Monkey God;1.6;57;157;Switch;13;0;0;|
+290;Rob Broughton;The Bear;1.88;120;188;;15;7;1;|
+291;Lee Brousseau;Manimal;1.85;93;;;5;3;0;|
+292;Matt Brown;The Immortal;1.83;77;190;Orthodox;22;16;0;|
+293;Mike Brown;;1.68;66;178;Orthodox;26;9;0;|
+294;Dominic Brown;;1.8;86;;;14;21;0;|
+295;Todd Brown;Bulldog;1.8;93;;Orthodox;15;4;0;|
+296;Terrell Brown;;;84;;;3;1;0;|
+297;Chris Brown;;;77;;;6;4;0;|
+298;Frederick Brown;;1.83;107;;;3;2;0;|
+299;Randy Brown;Rudeboy;1.91;77;198;Orthodox;9;2;0;|
+300;Damien Brown;Beatdown;1.78;70;173;Orthodox;17;10;0;|
+301;Humberto Brown;El Gato Negro;1.78;66;180;;4;5;0;|
+302;Travis Browne;Hapa;1.98;116;201;Orthodox;18;7;1;|
+303;Junie Browning;;1.75;70;;Orthodox;4;5;0;|
+304;Jules Bruchez;;1.83;93;;Southpaw;1;2;0;|
+305;Justin Bruckmann;Loaf;1.75;77;;Orthodox;7;3;0;|
+306;Steve Bruno;Hollywood;1.78;77;;Orthodox;14;5;0;|
+307;Fernando Bruno;Acougueiro;1.68;66;178;;16;4;0;|
+308;Derek Brunson;;1.85;84;196;Southpaw;17;5;0;|
+309;Josh Bryant;The Beast;1.78;84;;Orthodox;12;1;0;|
+310;Justin Buchholz;;1.83;70;185;Orthodox;12;6;0;|
+311;Zak Bucia;;1.78;77;;;7;4;0;|
+312;Courtney Buck;;1.78;61;;Orthodox;10;5;0;|
+313;Julia Budd;;1.7;66;170;;3;1;0;|
+314;Mike Budnik;;1.75;66;173;Orthodox;11;4;0;|
+315;Francisco Bueno;;1.75;102;;Orthodox;5;2;0;|
+316;Paul Buentello;The Headhunter;1.88;111;196;Orthodox;29;14;0;|
+317;Lee Kwan Bum;;1.88;130;;Orthodox;0;1;0;|
+318;Josh Bumgarner;;1.85;77;;;6;3;0;|
+319;Shawn Bunch;Bunch the Great;1.65;61;;;7;3;0;|
+320;Shane Burgos;Hurricane;1.8;66;190;Orthodox;10;0;0;|
+321;Joshua Burkman;The People's Warrior;1.78;70;183;Orthodox;29;16;0;|
+322;Mads Burnell;;1.73;70;175;Orthodox;8;2;0;|
+323;Mikey Burnett;The Eastside Assassin;1.68;77;;Orthodox;5;2;0;|
+324;Kevin Burns;The Fire;1.78;77;188;Orthodox;9;5;0;|
+325;Gilbert Burns;Durinho;1.78;70;180;Orthodox;12;2;0;|
+326;Josh Burns;The Hammer;1.85;111;;;8;10;0;|
+327;Derrick Burnsed;;;70;;;8;2;3;|
+328;Nah-Shon Burrell;The Rock n Rolla;1.8;77;185;Orthodox;9;3;0;|
+329;Martin Buschkamp;Barracuda;1.75;66;178;Orthodox;9;0;0;|
+330;George Bush;;1.85;93;;;5;2;0;|
+331;Bubba Bush;The Fightin' Texas Aggie;1.83;84;185;Orthodox;8;3;0;|
+332;Murilo Bustamante;;1.88;83;;Orthodox;14;8;1;|
+333;Nick Bustamante;;1.75;77;;;5;3;0;|
+334;Eduardo Bustillos;;1.73;61;;;5;3;0;|
+335;Jason Butcher;;1.91;84;;;10;2;0;|
+336;Todd Butler;;1.85;91;;Southpaw;1;4;0;|
+337;Goldman Butler;;;;;;1;4;0;|
+338;Ian Butler;;1.73;70;;;3;3;0;|
+339;Raphael Butler;The Silencer;1.91;118;;;9;2;1;|
+340;JP Buys;;1.68;57;168;Orthodox;4;1;0;|
+341;Charles Byrd;Kid Dynamite;1.78;84;185;Orthodox;8;4;0;|
+342;Steve Byrnes;The Sergeant;1.83;77;;Orthodox;6;1;0;|
+343;Michael Byrnes;;1.8;70;;;5;2;0;|
+344;Yan Cabral;;1.8;70;185;Orthodox;12;3;0;|
+345;Alvin Cacdac;;1.68;57;;Orthodox;16;11;0;|
+346;Alex Caceres;Bruce Leeroy;1.78;66;185;Southpaw;13;10;0;|
+347;Travis Calanoc;The Dark Knight;1.73;66;;Orthodox;5;1;0;|
+348;Joanne Calderwood;JoJo;1.68;52;165;;11;3;0;|
+349;Darrion Caldwell;The Wolf;1.78;61;;;10;1;0;|
+350;Cynthia Calvillo;;1.63;52;163;Orthodox;6;0;0;|
+351;Joe Camacho;;1.75;70;;Orthodox;13;16;3;|
+352;Frank Camacho;The Crank;1.78;77;185;Orthodox;20;5;0;|
+353;Fabricio Camoes;Morango;1.78;70;185;Orthodox;14;9;1;|
+354;Chris Camozzi;;1.88;84;193;Orthodox;24;13;0;|
+355;Brian Camozzi;Mantis;1.88;77;198;Orthodox;7;4;0;|
+356;Mike Campbell;The Beast;1.75;70;;Southpaw;9;4;0;|
+357;Thomas Campbell;;;;;;2;1;0;|
+358;Shane Campbell;Shaolin;1.83;70;180;Orthodox;12;6;0;|
+359;John Campetella;;1.75;107;;Orthodox;0;1;0;|
+360;Wagner Campos;Galeto;1.68;66;;Southpaw;11;4;0;|
+361;Derek Campos;The Stallion;1.75;70;;;19;6;0;|
+362;Will Campuzano;;1.75;57;178;Orthodox;13;6;0;|
+363;Chico Camus;The King;1.68;57;168;Orthodox;14;7;0;|
+364;Asbel Cancio;;1.78;102;;;0;1;0;|
+365;Carlos Candelario;The Cannon;1.73;57;170;Southpaw;6;0;0;|
+366;Ronaldo Candido;Pacman;1.68;57;;Southpaw;6;0;0;|
+367;Luiz Cane;Banha;1.88;84;196;Southpaw;12;5;0;|
+368;Guido Cannetti;Ninja;1.68;61;173;Southpaw;7;3;0;|
+369;Jared Cannonier;The Killa Gorilla;1.8;93;196;Switch;10;2;0;|
+370;Jose Canseco;;1.93;109;;Orthodox;0;1;0;|
+371;Cody Canterbury;;1.73;70;;;1;10;0;|
+372;Bo Cantrell;Redrum;1.88;107;;Orthodox;10;10;0;|
+373;Steve Cantwell;The Robot;1.88;84;190;Orthodox;7;6;0;|
+374;Frank Caracci;;;;;;2;3;0;|
+375;Gina Carano;Conviction;1.73;66;;Orthodox;7;1;0;|
+376;Dos Caras Jr.;;1.93;102;;Orthodox;9;5;0;|
+377;Bryan Caraway;Kid Lightning;1.73;61;173;Orthodox;21;8;0;|
+378;Remo Cardarelli;;;61;;;7;5;0;|
+379;Phil Cardella;;1.8;70;;;8;5;0;|
+380;Edgar Cardenas;Kitty Katt;;66;;;3;1;0;|
+381;Chris Cariaso;Kamikaze;1.6;57;160;Southpaw;17;8;0;|
+382;Ronald Carillo;;;57;;;2;1;0;|
+383;Rafael Carino;;2.03;111;;Orthodox;2;1;1;|
+384;Don Carlo-Clauss;;;77;;;7;5;0;|
+385;Antonio Carlos Junior;Cara de Sapato;1.88;84;201;Orthodox;9;2;0;|
+386;Francis Carmont;Limitless;1.91;93;198;Orthodox;23;10;0;|
+387;Liz Carmouche;Girlrilla;1.68;61;168;Orthodox;10;5;0;|
+388;Roan Carneiro;Jucao;1.8;77;188;Orthodox;21;11;0;|
+389;Renato Moicano;Moicano;1.8;66;183;Orthodox;11;1;1;|
+390;Gabriel Carrasco;;1.68;61;;;7;0;0;|
+391;Cody Carrillo;;1.78;70;;;11;16;0;|
+392;Cain Carrizosa;The Insane;1.73;70;188;Orthodox;6;2;0;|
+393;Roger Carroll;The Leprechaun;1.78;77;;;16;14;0;|
+394;Jonny Carson;;1.78;70;;;9;5;0;|
+395;Scott Carson;;1.88;98;;;4;2;0;|
+396;Shonie Carter;Mr. International;1.78;77;;Southpaw;50;27;7;|
+397;Bruno Carvalho;;1.73;70;;;6;2;0;|
+398;Antonio Carvalho;Pato;1.75;66;173;Orthodox;15;6;0;|
+399;Rafael Carvalho;;1.91;84;;;14;1;0;|
+400;Shane Carwin;The Engineer;1.88;120;203;Orthodox;12;2;0;|
+401;Johnny Case;Hollywood;1.78;70;183;Orthodox;22;6;0;|
+402;Kevin Casey;King;1.8;84;196;Southpaw;9;5;1;|
+403;Cortney Casey;Cast Iron;1.7;52;170;Orthodox;7;4;0;|
+404;Brandon Cash;Money;1.96;116;;Orthodox;5;3;0;|
+405;Bendy Casimir;;1.65;66;;Southpaw;19;11;2;|
+406;Dwayne Cason;;1.78;96;;Orthodox;1;1;0;|
+407;Joe Cason;;1.91;93;;;8;1;0;|
+408;John Castaneda;Sexy Mexi;1.7;61;178;Switch;13;2;0;|
+409;Eric Castile;;1.73;66;;;3;2;0;|
+410;Gil Castillo;;1.75;77;;Southpaw;8;5;0;|
+411;Danny Castillo;Last Call;1.75;70;180;Orthodox;17;10;0;|
+412;Raul Castillo;;1.8;84;;Orthodox;6;1;0;|
+413;Jenna Castillo;;1.57;57;;;1;0;0;|
+414;Tim Catalfo;Obake;1.8;107;;Orthodox;4;2;0;|
+415;Nick Catone;The Jersey Devil;1.83;84;183;Southpaw;10;4;0;|
+416;Luke Caudillo;Lil' Hulk;1.7;70;;Orthodox;17;16;0;|
+417;Gesias Cavalcante;JZ;1.73;70;180;Orthodox;16;5;1;|
+418;Rafael Feijao;Feijao;1.85;93;185;Orthodox;12;7;0;|
+419;Magnus Cedenblad;Jycken;1.96;84;201;Orthodox;14;5;0;|
+420;Yosdenis Cedeno;Pink Panther;1.73;70;175;Orthodox;10;5;1;|
+421;Henry Cejudo;The Messenger;1.63;57;163;Orthodox;11;2;0;|
+422;Adam Cella;El Naturel;1.88;77;198;;4;2;0;|
+423;Donald Cerrone;Cowboy;1.85;77;185;Orthodox;32;10;0;|
+424;Jared Chaffee;;1.78;70;;;5;2;0;|
+425;Luan Chagas;Tarzan;1.83;77;190;Orthodox;15;2;1;|
+426;Ansar Chalangov;;1.75;77;;Orthodox;14;4;0;|
+427;Alex Chambers;Astro Girl;1.6;52;160;;5;3;0;|
+428;Mike Chandler;;1.73;70;;;9;4;0;|
+429;Donnie Chappell;;1.8;81;;Southpaw;0;1;0;|
+430;Joe Charles;The Ghetto Man;1.85;118;;Southpaw;6;13;0;|
+431;Dan Charles;The Man;1.88;103;;;10;6;1;|
+432;Ernest Chavez;The Mad Titan;1.73;66;178;Orthodox;8;2;0;|
+433;Emilio Chavez;;1.75;66;;;12;9;0;|
+434;Gabriel Checco;Zangief;1.85;84;;Switch;10;2;0;|
+435;Albert Cheng;;1.8;77;;Orthodox;2;4;0;|
+436;Ion Cherdivara;;;93;;;1;1;0;|
+437;Mark Cherico;The Pride of Bloomfield;1.7;66;175;Orthodox;11;1;0;|
+438;Michael Chiesa;Maverick;1.85;70;190;Southpaw;14;3;0;|
+439;Sako Chivitchian;;1.8;70;;;5;1;0;|
+440;Mu Bae Choi;;1.88;104;;Orthodox;9;4;0;|
+441;Hong Man Choi;Techno Goliath;2.18;150;;Orthodox;2;3;0;|
+442;Dooho Choi;The Korean Superboy;1.78;66;178;Orthodox;14;2;0;|
+443;John Cholish;;1.8;70;183;Orthodox;8;3;0;|
+444;Ryo Chonan;Piranah;1.75;77;178;Orthodox;20;12;0;|
+445;Katlyn Chookagian;Blonde Fighter;1.75;61;173;Orthodox;9;1;0;|
+446;Will Chope;The Kill;1.93;66;193;Switch;19;6;0;|
+447;Joachim Christensen;;1.91;93;193;Orthodox;14;6;0;|
+448;Dan Christison;The Sandman;2.03;120;;Orthodox;20;7;0;|
+449;Anthony Christodoulou;;1.75;70;183;Orthodox;12;6;0;|
+450;Murad Chunkaiev;;1.8;84;;Orthodox;8;3;0;|
+451;Steven Ciaccio;Stryker;1.83;77;;;4;4;0;|
+452;Mike Ciesnolevicz;;1.83;107;;Orthodox;19;4;0;|
+453;Branko Cikatic;;1.85;98;;Orthodox;0;2;0;|
+454;Nikolajus Cilkinas;;;;;Orthodox;1;6;0;|
+455;Misha Cirkunov;;1.91;93;196;Orthodox;13;3;0;|
+456;Johnny Cisneros;The Tattooed Terror;1.8;77;;;9;6;0;|
+457;Laverne Clark;;1.8;77;;Orthodox;27;19;1;|
+458;Logan Clark;;1.88;84;;Orthodox;15;5;0;|
+459;Mychal Clark;;1.91;102;;Orthodox;7;12;0;|
+460;Dominic Clark;;1.78;70;;;3;1;0;|
+461;Heather Jo Clark;Hurricane;1.68;52;163;;7;6;0;|
+462;Devin Clark;Brown Bear;1.83;93;190;Orthodox;8;2;0;|
+463;John Clarke;;;77;;;1;1;0;|
+464;Mitch Clarke;Danger Zone;1.78;70;185;Orthodox;11;5;0;|
+465;Rich Clementi;No Love;1.75;70;183;Southpaw;40;20;1;|
+466;Chris Clements;The Menace;1.78;77;178;Orthodox;12;6;0;|
+467;RJ Clifford;;;73;;;3;2;0;|
+468;Josh Clopton;The Gentleman;1.68;66;173;Orthodox;6;2;1;|
+469;Brian Cobb;;1.8;70;;Orthodox;19;6;0;|
+470;Darryl Cobb;;1.75;84;;;5;4;0;|
+471;Dave Cochran;;1.68;70;;;25;28;1;|
+472;Dakota Cochrane;;1.73;70;;;29;12;0;|
+473;Marloes Coenen;;1.75;66;170;;21;5;0;|
+474;Marc Cofer;;;84;;;4;4;0;|
+475;John Cofer;The Potter;1.75;70;185;Southpaw;7;4;0;|
+476;Chris Coggins;;;;;;4;1;0;|
+477;Wayne Cole;;1.85;93;;Orthodox;16;18;0;|
+478;Devin Cole;;1.93;109;;Orthodox;21;9;1;|
+479;Coltin Cole;;;84;;;2;3;0;|
+480;Ivan Cole;JP;1.75;61;;;2;3;0;|
+481;Mark Coleman;The Hammer;1.85;93;190;Orthodox;16;10;0;|
+482;Cortez Coleman;Hollywood;1.85;84;;;7;2;0;|
+483;Clay Collard;Cassius;1.8;66;185;Orthodox;14;7;0;|
+484;Jamie Colleen;;1.6;52;165;Orthodox;3;1;0;|
+485;Jake Collier;The Prototype;1.91;93;198;Orthodox;10;4;0;|
+486;Christian Colombo;Godzilla;1.96;120;203;Orthodox;8;2;1;|
+487;Wes Combs;The Soldier;1.88;93;;Orthodox;19;5;0;|
+488;Carlos Condit;The Natural Born Killer;1.88;77;190;Orthodox;30;10;0;|
+489;Chris Condo;;1.83;152;;Orthodox;0;1;0;|
+490;Jeremiah Constant;;1.85;109;;Orthodox;10;7;0;|
+491;Jonathan Contrestano;JT;;70;;;6;0;0;|
+492;Bob Cook;Crazy;1.75;77;;Orthodox;5;0;0;|
+493;Mike Cook;;1.85;93;;Orthodox;11;9;0;|
+494;Chad Cook;;1.88;93;;;9;9;0;|
+495;TJ Cook;;;93;;;12;4;0;|
+496;Dewey Cooper;The Black Cobra;;93;;;2;1;0;|
+497;Brett Cooper;;1.83;77;;Orthodox;15;7;0;|
+498;Bill Cooper;;;70;;;2;1;0;|
+499;Bobby Cooper;Super Duper;1.85;70;;;12;7;0;|
+500;Amanda Cooper;ABC;1.6;52;163;Switch;3;3;0;|
+501;Kit Cope;Havoc;1.83;77;;Orthodox;4;7;0;|
+502;Chris Cope;C-Murder;1.83;77;183;Orthodox;5;4;0;|
+503;Josh Copeland;Cuddly Bear;1.85;120;190;Orthodox;9;2;0;|
+504;Michael Cora;Kookie Monster;1.85;77;196;Southpaw;4;1;0;|
+505;Akira Corassani;;1.73;66;173;Orthodox;14;7;0;|
+506;Muhsin Corbbrey;;1.78;70;;Orthodox;9;7;0;|
+507;Daniel Cormier;DC;1.8;93;183;Orthodox;19;1;0;Champion Belt|
+508;Clint Coronel;;;70;;;2;5;0;|
+509;Henry Corrales;;1.75;66;;;13;3;0;|
+510;Bethe Correia;Pitbull;1.65;61;163;Orthodox;10;3;1;|
+511;Wesley Correira;Cabbage;1.91;118;;Orthodox;19;14;0;|
+512;Chad Corvin;The Brave Warrior;1.96;116;;;6;0;0;|
+513;Miguel Cosio;;1.93;93;;;1;12;0;|
+514;Jadson Costa;;1.7;70;;Orthodox;10;2;0;|
+515;Guilherme Costa;The Prodigy;;70;;;7;1;0;|
+516;Patrick Cote;The Predator;1.8;77;180;Orthodox;24;11;0;|
+517;JC Cottrell;Superstar;1.75;70;180;Orthodox;17;5;0;|
+518;Rashad Coulter;Daywalker;1.83;111;193;Orthodox;8;2;0;|
+519;Dave Courchaine;;1.73;77;;;5;5;0;|
+520;Randy Couture;The Natural;1.85;93;190;Orthodox;19;11;0;|
+521;Kim Couture;Sugar Free;1.73;61;;Orthodox;3;6;0;|
+522;Ryan Couture;;1.78;70;190;Orthodox;7;3;0;|
+523;Nikk Covert;The Brick;1.73;84;;;3;4;0;|
+524;Colby Covington;Chaos;1.8;77;183;Orthodox;12;1;0;|
+525;Jeff Cox;The Grinder;1.78;70;;Orthodox;10;7;0;|
+526;Nathan Coy;Soulforce;1.78;77;175;Southpaw;15;7;0;|
+527;Andrew Craig;Highlight;1.85;77;193;Orthodox;9;4;0;|
+528;Paul Craig;Bearjew;1.91;93;193;Orthodox;9;2;0;|
+529;Dan Cramer;;1.88;77;;Orthodox;7;3;0;|
+530;Alberto Crane;;1.65;70;;Orthodox;15;5;0;|
+531;Tim Credeur;;1.91;84;190;Orthodox;12;4;0;|
+532;Paul Creighton;;1.68;70;;Southpaw;3;1;0;|
+533;Alexander Crispim;;;66;;;7;2;0;|
+534;Alex Crispin;;;70;;;0;1;0;|
+535;Jeff Crotty;;;70;;;1;1;0;|
+536;Allen Crowder;Pretty Boy;1.91;111;193;Orthodox;8;2;0;|
+537;Daron Cruickshank;Detroit Superstar;1.73;70;183;Switch;16;8;0;|
+538;Richard Crunkilton;Cleat;1.7;70;;Orthodox;19;3;0;|
+539;Marcio Cruz;Pe de Pano;1.93;105;;Orthodox;7;3;0;|
+540;Dominick Cruz;The Dominator;1.73;61;173;Orthodox;22;2;0;|
+541;Chris Culley;;;66;;;11;8;0;|
+542;Abel Cullum;The Silent Assassin;1.7;63;;Orthodox;18;6;0;|
+543;Zak Cummings;;1.83;77;190;Southpaw;21;5;0;|
+544;Everett Cummings;;;93;;;12;0;0;|
+545;Patrick Cummins;Durkin;1.88;93;193;Orthodox;10;4;0;|
+546;Luke Cummo;;1.83;77;188;Orthodox;6;6;0;|
+547;Larry Cureton;;1.88;109;;Orthodox;0;2;0;|
+548;Jeff Curran;Big Frog;1.68;61;175;Orthodox;35;15;1;|
+549;Kailin Curran;;1.63;52;165;Orthodox;4;5;0;|
+550;Pat Curran;Paddy Mike;1.75;66;;;22;7;0;|
+551;Ion Cutelaba;The Hulk;1.85;93;190;Southpaw;13;3;0;|
+552;Sarah D'alelio;The Monster;1.7;66;;;4;2;0;|
+553;Marcos da Matta;Parrumpinha;1.63;66;;;8;2;0;|
+554;Jussier Formiga;Formiga;1.65;57;170;Orthodox;20;5;0;|
+555;Claudio Silva;Hannibal;1.8;77;180;Southpaw;11;1;0;|
+556;Henrique da Silva;Frankenstein;1.91;93;193;Orthodox;12;4;0;|
+557;Sheymon Moraes;;1.73;66;;;9;1;0;|
+558;Nicolas Dalby;Sharpshooter;1.8;77;188;Orthodox;14;2;1;|
+559;Paul Daley;Semtex;1.75;77;193;Orthodox;31;11;2;|
+560;Dave Dalgliesh;;1.88;93;;Orthodox;30;19;2;|
+561;Richard Dalton;;1.85;93;;Orthodox;4;3;1;|
+562;Aisling Daly;Ais the Bash;1.57;52;163;;16;6;0;|
+563;Marko Damiani;;1.83;77;;;0;2;0;|
+564;Rodrigo Damm;;1.7;70;180;Orthodox;12;9;0;|
+565;Carina Damm;Beauty But the Beast;1.63;61;;;17;6;0;|
+566;Cindy Dandois;Battle Cat;1.7;61;173;Orthodox;8;3;0;|
+567;Jarjis Danho;Man Mountain;1.91;120;188;Orthodox;6;1;1;|
+568;Raymond Daniels;;1.88;84;;Southpaw;0;1;0;|
+569;Marques Daniels;;;70;;;5;5;0;|
+570;Alexandre Dantas;Cafe;1.88;108;;Orthodox;0;2;0;|
+571;Eduardo Dantas;Dudu;1.78;61;;;20;4;0;|
+572;Mac Danzig;;1.73;70;178;Orthodox;22;12;1;|
+573;Karen Darabedyan;;1.7;70;173;Orthodox;9;4;0;|
+574;Beneil Dariush;;1.78;70;183;Southpaw;14;3;1;|
+575;Sean Daugherty;;1.83;79;;;0;2;0;|
+576;Brian Davidson;;1.68;66;;;8;3;0;|
+577;Rick Davis;The Flying Squirrel;1.75;70;;Orthodox;3;1;1;|
+578;Marcus Davis;The Irish Hand Grenade;1.78;77;178;Southpaw;20;9;0;|
+579;LC Davis;;1.73;61;175;Southpaw;17;4;0;|
+580;Phil Davis;Mr. Wonderful;1.88;93;201;Orthodox;13;3;0;|
+581;Lemont Davis;;1.73;77;;Orthodox;2;5;0;|
+582;Mike Davis;;;;;;2;0;0;|
+583;Justin Davis;Dangerous;1.8;93;;;14;10;0;|
+584;Alexis Davis;;1.68;61;173;Orthodox;18;7;0;|
+585;Danny Davis;;1.88;77;;;6;5;1;|
+586;Brandon Davis;Killer B;1.78;66;;Orthodox;7;2;0;|
+587;Grant Dawson;KGD;1.78;66;;Switch;11;1;0;|
+588;Jason Day;Dooms;1.83;84;183;Orthodox;19;12;0;|
+589;Martin Day;The Spartan;1.78;57;180;Orthodox;5;1;0;|
+590;Angel De Anda;The Dream;1.75;93;;;18;5;0;|
+591;Philip De Fries;;1.96;113;208;Orthodox;9;3;0;|
+592;Chris de la Rocha;;1.91;113;203;Orthodox;3;2;0;|
+593;Mike de la Torre;El Cucuy;1.8;66;180;Orthodox;14;7;0;|
+594;Rodrigo de Lima;Monstro;1.7;70;190;Orthodox;8;3;1;|
+595;Edilberto de Oliveira;Crocota;1.83;77;;Orthodox;20;8;2;|
+596;Johil de Oliveira;;1.68;77;;Orthodox;16;13;1;|
+597;Jorge de Oliveira;Blade;1.73;70;180;Orthodox;7;2;0;|
+598;Talita Bernardo;;1.63;61;173;Orthodox;5;2;0;|
+599;Germaine de Randamie;The Iron Lady;1.75;61;180;Orthodox;7;3;0;|
+600;Crezio de Souza;;;77;;Orthodox;1;2;0;|
+601;Tom DeBlass;;1.83;84;190;Orthodox;7;2;0;|
+602;Issac DeJesus;;;66;;;9;3;1;|
+603;Shane del Rosario;;1.93;113;201;Southpaw;11;2;0;|
+604;Humberto DeLeon;;;61;;;6;5;0;|
+605;Rolando Delgado;Roli;1.91;70;196;Orthodox;11;5;1;|
+606;Israel Delgado;;1.78;70;;;0;2;0;|
+607;Roland Delorme;;1.75;61;180;Orthodox;9;4;0;|
+608;Jon Delos Reyes;The Heat;1.68;57;170;Orthodox;8;5;0;|
+609;Jason DeLucia;;1.8;86;;Southpaw;33;21;1;|
+610;Justin DeMoney;;;77;;;13;5;1;|
+611;Chris Dempsey;;1.78;84;183;Orthodox;11;4;0;|
+612;Nick Denis;The Ninja of Love;1.7;61;;Orthodox;11;3;0;|
+613;Thomas Denny;The Wildman;1.78;77;;Orthodox;27;19;1;|
+614;Jason Dent;Dynamite;1.78;70;180;Orthodox;21;12;0;|
+615;Booker DeRousse;;1.88;93;;;3;5;0;|
+616;Tony DeSouza;;1.83;77;178;Southpaw;10;4;0;|
+617;Cory Devela;The One;1.52;84;;Orthodox;11;5;0;|
+618;John Devine;;;;;;6;4;0;|
+619;Edwin DeWees;Babyface;1.85;84;;Orthodox;37;15;0;|
+620;Alessio Di Chirico;Manzo;1.83;84;188;Orthodox;10;2;0;|
+621;Cyrille Diabate;The Snake;1.98;93;206;Southpaw;20;10;3;|
+622;Thomas Diagne;;1.85;70;;;5;4;1;|
+623;Marc Diakiese;Bonecrusher;1.78;70;185;Orthodox;12;1;0;|
+624;Eldo Xavier Dias;;1.8;82;;;0;1;0;|
+625;Rafael Dias;;1.75;66;;Orthodox;15;8;2;|
+626;Hacran Dias;Barnabe;1.73;70;175;Orthodox;23;5;1;|
+627;Nick Diaz;;1.85;84;193;Southpaw;26;9;0;|
+628;Nate Diaz;;1.83;77;193;Southpaw;20;11;0;|
+629;Michael Diaz;;;118;;;1;3;0;|
+630;Ryan Diaz;;;66;;;13;13;0;|
+631;Adrian Diaz;;1.78;66;;Southpaw;11;4;1;|
+632;Mark Dickman;Tricky;1.75;66;;;11;3;0;|
+633;Josh Diekmann;The Freight Train;1.63;112;;;15;8;0;|
+634;Kyle Dietz;;1.73;61;;Orthodox;5;2;0;|
+635;Seth Dikun;;1.78;61;175;Orthodox;7;4;0;|
+636;TJ Dillashaw;;1.68;61;170;Orthodox;15;3;0;|
+637;Ralph Dillon;Rage;1.88;93;;Orthodox;0;1;1;|
+638;Drew Dimanlig;;;84;;;3;3;0;|
+639;Rodolfo Marques Diniz;;1.68;61;;;14;1;1;|
+640;Helio Dipp;;1.96;84;;Orthodox;6;3;0;|
+641;John Dixson;Big John;1.83;125;;Orthodox;15;22;0;|
+642;Anthony Do;;1.63;57;;;4;2;0;|
+643;Russell Doane;;1.7;61;178;Orthodox;15;7;0;|
+644;Drew Dober;;1.73;70;178;Southpaw;18;8;0;|
+645;David Dodd;;1.88;91;;Orthodox;4;7;0;|
+646;John Dodson;The Magician;1.6;61;168;Orthodox;20;8;0;|
+647;Joe Doerksen;El Dirte;1.83;84;190;Orthodox;47;16;0;|
+648;Mike Dolce;Skull Cracker;1.8;84;;;5;10;0;|
+649;Cameron Dollar;;1.8;70;;Orthodox;9;4;0;|
+650;CB Dollaway;The Doberman;1.88;93;193;Orthodox;17;9;0;|
+651;Dennis Dombrow;;;66;;;2;2;0;|
+652;OJ Dominguez;;;;;;0;1;0;|
+653;John Donaldson;J.T.;1.73;66;;;2;2;0;|
+654;Cody Donovan;Donnybrook;1.91;93;188;Orthodox;8;5;0;|
+655;Houston Dorr;;1.85;95;;Orthodox;1;2;0;|
+656;Rafael Dos Anjos;;1.73;77;178;Southpaw;27;9;0;|
+657;Junior Dos Santos;Cigano;1.93;108;196;Orthodox;18;5;0;|
+658;Geronimo dos Santos;Mondragon;1.91;120;;Orthodox;31;14;0;|
+659;Antonio Dos Santos;Junior Alpha;1.78;84;183;Orthodox;6;3;0;|
+660;Tiago Trator;Trator;1.75;66;178;Orthodox;20;6;2;|
+661;David Douglas;Tarzan;1.8;70;;;8;3;0;|
+662;Damion Douglas;;;77;;;4;1;0;|
+663;John Dowdy;;;;;;0;2;0;|
+664;Jordan Dowdy;;;77;;;2;3;0;|
+665;Danny Downes;;1.83;70;183;Orthodox;8;3;0;|
+666;Derek Downey;;1.85;84;;Orthodox;11;4;0;|
+667;John Doyle;The Iron Bull;1.8;93;;Orthodox;11;20;0;|
+668;Edson Drago;;1.93;100;;Orthodox;9;4;0;|
+669;Chris Drumm;;1.73;66;;;0;1;0;|
+670;Tomasz Drwal;Gorilla;1.85;93;193;Orthodox;19;4;1;|
+671;Robert Drysdale;;1.91;93;198;Orthodox;6;0;0;|
+672;Hugo Duarte;;1.83;109;;Orthodox;6;3;0;|
+673;Antonio Duarte;Tigre;1.7;61;;;15;4;0;|
+674;Joe Duarte;;;70;;;10;3;0;|
+675;Milana Dudieva;;1.6;61;155;Orthodox;11;5;0;|
+676;Adin Duenas;;1.68;66;;;6;1;0;|
+677;Todd Duffee;;1.91;118;201;Orthodox;9;3;0;|
+678;Joe Duffy;Irish;1.78;70;185;Orthodox;16;2;0;|
+679;Alexis Dufresne;Sneaky Zebra;1.75;61;173;Orthodox;5;4;0;|
+680;Jessamyn Duke;The Gun;1.8;61;185;;3;3;0;|
+681;Kelly Dullanty;Psycho;1.73;70;;Orthodox;4;2;0;|
+682;Evan Dunham;;1.78;70;178;Southpaw;18;6;1;|
+683;Alex Dunworth;;1.73;70;;;2;2;0;|
+684;Tom Duquesnoy;FireKid;1.7;61;173;Orthodox;15;2;0;|
+685;Reuben Duran;;1.7;61;175;Orthodox;8;5;1;|
+686;Luiz Dutra;Besouro;1.8;77;180;Orthodox;11;4;1;|
+687;Bill Duvall;;1.88;84;;Southpaw;1;2;0;|
+688;Merab Dvalishvili;;1.68;61;;;7;2;0;|
+689;Matt Dwyer;;1.93;77;193;Orthodox;8;4;0;|
+690;Rolando Dy;Dy Incredible;1.73;66;175;Orthodox;8;6;1;|
+691;Ben Earwood;;1.73;77;;Orthodox;12;3;0;|
+692;Cody East;The Freight Train;1.91;111;188;Orthodox;12;3;0;|
+693;Marvin Eastman;The Beastman;1.75;84;185;Orthodox;17;14;1;|
+694;Mike Easton;The Hulk;1.68;61;178;Southpaw;13;5;0;|
+695;Maurice Eazel;;1.7;61;;;7;15;0;|
+696;Vincent Eazelle;The Real Deal;1.8;70;;;9;2;0;|
+697;Ross Ebanez;The Boss;1.75;70;;Southpaw;20;8;0;|
+698;Brian Ebersole;Bad Boy;1.83;77;185;Southpaw;51;17;1;|
+699;Mark Eddiva;;1.73;66;173;Orthodox;6;3;0;|
+700;Frankie Edgar;The Answer;1.68;66;173;Orthodox;21;5;1;|
+701;Abdul-Kerim Edilov;;1.88;93;198;Orthodox;17;4;0;|
+702;Johnny Eduardo;;1.7;61;180;Orthodox;28;11;0;|
+703;Yves Edwards;;1.75;70;185;Southpaw;42;22;1;|
+704;Justin Edwards;Fast Eddy;1.78;70;178;Orthodox;9;5;0;|
+705;Leon Edwards;Rocky;1.83;77;188;Southpaw;14;3;0;|
+706;Tom Egan;;1.8;77;;Orthodox;5;3;0;|
+707;Justin Eilers;The Hammer;1.85;107;;Orthodox;19;7;1;|
+708;Jon Olav Einemo;The Viking;1.98;115;;Orthodox;6;3;0;|
+709;Per Eklund;;1.78;70;183;Orthodox;14;5;1;|
+710;John Elam;;;;;;2;0;0;|
+711;John Paul Elias;;1.93;93;;;3;1;0;|
+712;Saul Elizondo;;1.7;61;;;6;8;0;|
+713;Darren Elkins;The Damage;1.78;66;180;Orthodox;24;5;0;|
+714;Jake Ellenberger;The Juggernaut;1.75;77;180;Orthodox;31;13;0;|
+715;Joe Ellenberger;Excalibur;1.75;70;183;Orthodox;15;2;0;|
+716;Tim Elliott;;1.7;57;168;Southpaw;15;8;1;|
+717;Eddy Ellis;Fast;1.75;77;;Orthodox;16;15;1;|
+718;Lisa Ellis;;1.63;52;157;;15;10;0;|
+719;Anna Elmose;Panda;1.6;52;165;Orthodox;3;2;0;|
+720;Aaron Ely;The Cyborg;1.73;61;;;5;2;0;|
+721;Ramazan Emeev;Gorets;1.78;84;193;Southpaw;16;3;0;|
+722;Aleksander Emelianenko;;1.98;116;;Orthodox;17;4;0;|
+723;Fedor Emelianenko;The Last Emperor;1.83;104;188;Orthodox;34;4;0;|
+724;Rob Emerson;The Saint;1.75;70;178;Orthodox;11;10;0;|
+725;Josh Emmett;;1.68;66;178;Orthodox;12;1;0;|
+726;Marius Enache;;1.8;70;;;3;3;0;|
+727;Kevin Engel;The Hitman;1.88;77;;;4;1;0;|
+728;Oliver Enkamp;The Future;1.83;77;196;Switch;7;1;0;|
+729;Alex Enlund;;1.78;66;185;Orthodox;14;2;0;|
+730;Ian Entwistle;Enty;1.65;61;163;Orthodox;9;3;0;|
+731;Andy Enz;Lionheart;1.91;84;198;Orthodox;8;3;0;|
+732;Won Jin Eoh;;1.7;73;;Orthodox;5;5;1;|
+733;Josh Epps;;;59;;;3;4;0;|
+734;Tom Erikson;The Big Cat;1.91;127;;Orthodox;9;4;1;|
+735;Konstantin Erokhin;The Russian Bear;1.8;104;185;Orthodox;9;3;0;|
+736;Julian Erosa;Juicy J;1.85;66;190;Southpaw;15;4;0;|
+737;Nick Ertl;;1.75;70;;;8;6;0;|
+738;Chel Erwin-Davis;The First Sun;1.83;77;;;2;1;0;|
+739;Bobby Escalante;;;59;;;3;3;0;|
+740;Eric Esch;Butterbean;1.8;159;;Orthodox;14;10;1;|
+741;Pro Escobedo;;;93;;;1;0;0;|
+742;Cole Escovedo;Apache Kid;1.7;61;183;Orthodox;17;8;0;|
+743;Efrain Escudero;Hecho En Mexico;1.75;70;178;Orthodox;25;11;0;|
+744;Evan Esguerra;;;66;;;3;4;0;|
+745;Carla Esparza;Cookie Monster;1.55;52;160;;13;4;0;|
+746;Jordan Espinosa;;1.68;57;180;Orthodox;10;5;0;|
+747;Jodie Esquibel;;1.6;52;163;Orthodox;6;3;0;|
+748;Terry Etim;;1.85;70;185;Orthodox;15;5;0;|
+749;Fred Ettish;;1.83;82;;Southpaw;1;1;0;|
+750;Scott Ettling;;;61;;;4;2;0;|
+751;Billy Evangelista;;1.73;70;173;Orthodox;11;2;0;|
+752;Rashad Evans;Suga;1.83;84;190;Orthodox;24;7;1;|
+753;Doug Evans;;1.75;70;;Orthodox;13;9;0;|
+754;Ashlee Evans-Smith;Rebel Girl;1.73;61;170;Orthodox;5;3;0;|
+755;Dan Evensen;The Viking;1.91;113;;Orthodox;11;4;0;|
+756;Tonya Evinger;Triple Threat;1.7;66;178;Orthodox;19;6;0;|
+757;Neal Ewing;;;84;;;6;0;0;|
+758;Jessica Eye;Evil;1.68;61;168;Orthodox;11;6;0;|
+759;Edward Faaloloto;;;70;178;;2;3;0;|
+760;Urijah Faber;The California Kid;1.68;61;170;Orthodox;34;10;0;|
+761;Wagnney Fabiano;The Silencer;1.68;66;175;Southpaw;14;3;0;|
+762;Bartosz Fabinski;The Butcher;1.83;84;190;Orthodox;13;2;0;|
+763;Ron Faircloth;;1.75;93;;Orthodox;33;20;0;|
+764;Jason Fairn;;1.85;104;;;4;5;0;|
+765;Maiquel Falcao;Big Rig;1.8;84;;Orthodox;28;4;0;|
+766;Brodie Farber;;1.85;77;;Orthodox;14;6;0;|
+767;Joao Paulo Faria;;1.75;70;;;1;1;0;|
+768;Kalindra Faria;;1.7;57;;Switch;18;6;1;|
+769;Chance Farrar;;1.75;66;;Southpaw;8;3;0;|
+770;Kelly Faszholz;;1.73;61;170;Orthodox;3;2;0;|
+771;Rodney Faverus;;1.83;98;;Southpaw;25;19;3;|
+772;Paul Felder;The Irish Dragon;1.8;70;178;Orthodox;14;3;0;|
+773;Carlos Felipe;Boi;1.83;111;;;8;0;0;|
+774;JP Felty;;;77;;;1;2;0;|
+775;Kevin Ferguson;Kimbo Slice;1.88;107;;Orthodox;5;2;0;|
+776;Rhadi Ferguson;;1.7;93;;;3;0;0;|
+777;Tony Ferguson;El Cucuy;1.8;70;193;Orthodox;24;3;0;Champion Belt|
+778;Josh Ferguson;Taz;1.65;57;168;Orthodox;7;5;0;|
+779;CJ Fernandes;;1.88;77;;;14;8;3;|
+780;Bibiano Fernandes;;1.7;63;;Orthodox;10;3;0;|
+781;Alexandre Ferreira;Cacareco;1.7;93;;Orthodox;18;6;0;|
+782;Cezar Ferreira;Mutante;1.85;84;198;Southpaw;12;6;0;|
+783;Diego Ferreira;;1.75;70;188;Orthodox;12;2;0;|
+784;Scott Ferrozzo;The Pitbull;1.8;147;;Orthodox;4;2;0;|
+785;Drew Fickett;The Master;1.78;70;178;Orthodox;41;16;0;|
+786;Scott Fiedler;;1.93;107;;Orthodox;0;1;0;|
+787;Ron Fields;Killing;1.88;91;;Orthodox;25;30;1;|
+788;Deiveson Figueiredo;Deus da Guerra;1.65;57;173;Orthodox;12;0;0;|
+789;Anthony Figueroa;;1.63;61;;Orthodox;5;6;1;|
+790;Edwin Figueroa;El Feroz;1.7;61;175;Orthodox;9;4;0;|
+791;Paulo Filho;;1.73;84;;Southpaw;22;4;2;|
+792;Andre Fili;Touchy;1.8;66;188;Orthodox;17;5;0;|
+793;Mirko Cro Cop;Cro Cop;1.88;104;185;Southpaw;31;11;2;|
+794;Brady Fink;;1.83;83;;Orthodox;2;3;0;|
+795;Jesse Finney;;1.83;77;;;6;1;0;|
+796;Jan Finney;Cuddles;1.73;61;;Orthodox;8;10;0;|
+797;Luigi Fioravanti;;1.73;77;178;Orthodox;22;11;0;|
+798;Luiz Firmino;Buscape;1.68;70;;Orthodox;13;6;0;|
+799;Spencer Fisher;The King;1.7;70;178;Southpaw;25;9;0;|
+800;Bryanna Fissori;;1.63;66;;;2;4;0;|
+801;Jon Fitch;;1.83;77;193;Orthodox;27;5;1;|
+802;Colin Fletcher;The Freakshow;1.88;70;198;Orthodox;9;3;0;|
+803;Luke Flores;Luke;1.83;70;;Southpaw;7;1;0;|
+804;Kenny Florian;KenFlo;1.78;66;188;Southpaw;14;6;0;|
+805;Cody Floyd;;;;;;2;0;0;|
+806;Bobby Flynn;;;77;;;6;4;0;|
+807;Caros Fodor;The Future;1.75;70;193;Orthodox;7;3;0;|
+808;Mal Foki;Twin Tiger;1.7;100;;Orthodox;5;5;0;|
+809;Matt Foki;Twin Tiger;1.7;100;;Orthodox;5;4;0;|
+810;AJ Fonseca;;1.63;66;;;5;4;0;|
+811;Rob Font;;1.73;61;180;Orthodox;14;2;0;|
+812;Claudionor Fontinelle;;1.65;84;;Orthodox;9;13;1;|
+813;Jesse Forbes;Kid Hercules;1.88;84;190;Southpaw;15;5;0;|
+814;Sterling Ford;;1.78;70;;;13;5;0;|
+815;Codale Ford;Crunch Time;1.75;77;;;11;9;0;|
+816;Renee Forte;;1.7;70;180;Orthodox;8;4;0;|
+817;Marcel Fortuna;Maozinha;1.85;100;188;Orthodox;9;2;0;|
+818;Brian Foster;The Foster Boy;1.75;77;180;Orthodox;18;5;0;|
+819;Xavier Foupa-Pokam;Professor X;1.85;84;;Open;21;16;0;|
+820;Mason Fowler;;1.8;77;;;2;0;0;|
+821;Brandon Foxworth;;1.8;66;;Orthodox;18;4;0;|
+822;Hermes Franca;;1.68;70;180;Orthodox;22;12;0;|
+823;Glaico Franca;Nego;1.83;70;196;;14;5;0;|
+824;Francisco France;Kiko;1.83;93;;;7;3;1;|
+825;John Franchi;;1.68;66;170;Orthodox;6;2;0;|
+826;Rich Franklin;Ace;1.85;84;190;Southpaw;29;7;0;|
+827;Zoila Frausto;Warrior Princess;1.63;61;;Orthodox;11;1;0;|
+828;Zane Frazier;Nasty;1.96;113;;Orthodox;4;11;0;|
+829;Gary Frazier;;1.83;111;;Orthodox;1;2;0;|
+830;Ian Freeman;The Machine;1.8;102;;Orthodox;19;7;1;|
+831;Jason Freeman;;1.88;102;;;6;4;0;|
+832;Willamy Freire;Chiquerim;1.73;70;;;19;5;0;|
+833;Patricio Freire;Pitbull;1.65;66;165;;26;4;0;|
+834;Patricky Freire;Pitbull;1.7;70;180;;17;8;0;|
+835;Rafael Freitas;Capoeira;;93;;Orthodox;4;6;0;|
+836;Donavon Frelow;;1.7;61;;Orthodox;6;3;0;|
+837;Clay French;;1.7;73;;Southpaw;19;6;0;|
+838;Mike French;;1.78;66;;;8;9;0;|
+839;Matt Frevola;The Steamrolla;1.75;70;;Orthodox;5;0;0;|
+840;Don Frye;The Predator;1.85;99;;Orthodox;20;9;1;|
+841;Tony Fryklund;The Freak;1.83;84;;Orthodox;14;9;1;|
+842;Jesse Fujarczyk;The Ronin;1.93;102;;Southpaw;3;2;0;|
+843;Katsuhisa Fujii;Shamoji;1.83;93;;Orthodox;9;18;1;|
+844;Megumi Fujii;Mega Megu;1.6;51;;;26;3;0;|
+845;Kazuyuki Fujita;Ironhead;1.83;107;;Orthodox;15;9;0;|
+846;Keisuke Fujiwara;;1.68;63;;Switch;11;4;4;|
+847;Riki Fukuda;;1.83;84;185;Southpaw;19;7;0;|
+848;Masio Fullen;Lobo;1.78;66;178;Orthodox;10;6;0;|
+849;Travis Fulton;The Ironman;1.83;109;;Orthodox;127;49;10;|
+850;Sam Fulton;;;;;;0;2;0;|
+851;Masakatsu Funaki;;1.83;84;;Southpaw;39;13;1;|
+852;Ricardo Funch;Golden Boy;1.78;77;193;Southpaw;8;4;0;|
+853;Katsuaki Furuki;;1.83;76;;;1;1;0;|
+854;James Gabert;;;81;;;6;4;0;|
+855;Claudia Gadelha;Claudinha;1.63;52;160;Orthodox;15;3;0;|
+856;Alavutdin Gadjiev;;1.88;84;;Orthodox;18;12;1;|
+857;Justin Gaethje;The Highlight;1.8;70;;Orthodox;18;0;0;|
+858;Sheila Gaff;The German Tank;1.65;61;157;Orthodox;10;6;1;|
+859;Mitch Gagnon;;1.65;61;165;Southpaw;12;4;0;|
+860;Brandon Gaines;;1.91;84;;;5;16;0;|
+861;Travis Galbraith;The Gladiator;1.83;77;;Orthodox;18;7;0;|
+862;Dave Galera;Scarecrow;1.8;61;;Orthodox;5;1;0;|
+863;Zelg Galesic;Benkei;1.88;84;;Orthodox;10;6;0;|
+864;Mickey Gall;;1.88;77;188;Switch;4;0;0;|
+865;Daniel Gallemore;Big Kansas;1.96;120;;;7;3;0;|
+866;Tom Gallicchio;Da Tank;1.78;77;185;Southpaw;19;11;0;|
+867;Turrell Galloway;;1.6;66;;;5;2;0;|
+868;Eric Galvan;;;70;;;0;0;0;|
+869;Andre Galvao;;1.7;76;;Orthodox;5;2;0;|
+870;Marcos Galvao;Louro;1.7;61;;Orthodox;11;5;1;|
+871;Lucas Gamaza;;;77;;;5;2;0;|
+872;Joey Gambino;The Raging Warrior;1.7;66;;Orthodox;9;2;0;|
+873;Manvel Gamburyan;The Anvil;1.65;61;170;Orthodox;18;11;0;|
+874;Ariel Gandulla;;1.8;93;;Orthodox;6;6;0;|
+875;Sean Gannon;The Cannon;1.91;120;;Southpaw;2;1;0;|
+876;Cody Garbrandt;No Love;1.73;61;165;Orthodox;11;0;0;Champion Belt|
+877;Leonard Garcia;Bad Boy;1.78;66;175;Orthodox;19;11;1;|
+878;Edgar Garcia;;1.78;77;180;Orthodox;14;5;0;|
+879;Alejandro Garcia;Alex;1.7;66;;;14;5;0;|
+880;Alex Garcia;The Dominican Nightmare;1.75;77;183;Orthodox;14;4;0;|
+881;Nick Garcia;Nitro;1.63;57;;;8;3;0;|
+882;Steve Garcia;Mean Machine;1.83;61;;;7;2;0;|
+883;Rulon Gardner;;1.91;120;;Orthodox;1;0;0;|
+884;David Gardner;;1.8;70;;Orthodox;18;19;0;|
+885;Pablo Garza;The Scarecrow;1.85;66;185;Orthodox;13;4;0;|
+886;Azamat Gashimov;;1.68;57;168;Orthodox;10;3;0;|
+887;Brian Gassaway;;1.85;77;;Orthodox;29;20;2;|
+888;Kelvin Gastelum;;1.75;84;180;Southpaw;14;3;0;|
+889;Willie Gates;Whoop Ass;1.73;57;178;Orthodox;12;7;0;|
+890;Louis Gaudinot;Goodnight;1.6;57;160;Orthodox;6;4;0;|
+891;Charlene Gellner;Princess;1.57;57;;;0;2;0;|
+892;Chad George;Savage;1.68;61;173;Southpaw;13;6;0;|
+893;Paul Georgieff;;1.88;77;;Orthodox;6;2;0;|
+894;Brian Geraghty;Duke;1.7;70;;Orthodox;24;17;1;|
+895;Derek Getzel;The Pretzel;1.83;70;;;3;2;0;|
+896;Darrel Gholar;;1.73;88;;Orthodox;5;6;0;|
+897;Tiki Ghosn;;1.78;77;;Orthodox;10;7;1;|
+898;Christos Giagos;The Spartan;1.78;70;180;Orthodox;11;4;0;|
+899;Nick Gibbons;;1.78;70;;;2;1;0;|
+900;James Giboo;;1.8;77;;Orthodox;13;5;0;|
+901;Lance Gibson;Fearless;1.75;84;;Orthodox;4;5;0;|
+902;Lee Gibson;Lethal;1.7;70;;;12;3;0;|
+903;Cody Gibson;The Renegade;1.78;61;180;Orthodox;12;6;0;|
+904;Kenny Giddens;;1.8;70;;;12;7;0;|
+905;Joe Gigliotti;Capo;1.8;84;175;Orthodox;7;2;0;|
+906;Joey Gilbert;;1.8;70;;Orthodox;2;3;0;|
+907;Trevin Giles;;1.83;93;188;Orthodox;10;0;0;|
+908;Kultar Gill;Black Mamba;1.83;70;;Orthodox;10;8;0;|
+909;Jesse Gillespie;;;84;;;3;2;0;|
+910;Gregor Gillespie;The Gift;1.75;70;180;Orthodox;10;0;0;|
+911;Jason Gilliam;;1.83;77;;Orthodox;14;5;0;|
+912;Krishaun Gilmore;;;;;;0;1;0;|
+913;Bob Gilstrap;;1.91;91;;Orthodox;5;6;0;|
+914;Demetrius Gioulacos;;1.8;84;;;0;1;0;|
+915;Billy Giovanella;Wolverine;1.73;57;;;9;5;0;|
+916;He-Man Gipson;;;;;;1;2;0;|
+917;Israel Giron;El Rojo;1.73;70;;;19;5;0;|
+918;Brandon Girtz;Cold Roll;1.7;70;;;14;7;0;|
+919;Jason Glaza;;1.83;104;;;3;2;0;|
+920;Mike Glenn;;;93;;;5;6;0;|
+921;Rick Glenn;The Gladiator;1.83;66;178;Southpaw;20;4;1;|
+922;Mark Godbeer;The Hand Of;1.93;109;196;Orthodox;12;3;0;|
+923;Clint Godfrey;;1.68;61;;Southpaw;12;3;0;|
+924;Jason Godsey;;1.88;104;;Orthodox;16;16;0;|
+925;Allan Goes;;1.83;93;;Orthodox;10;5;2;|
+926;Jonny Goh;;1.8;70;;;3;4;0;|
+927;Marcelo Golm;;1.91;113;190;Orthodox;5;0;0;|
+928;Sergio Gomez;;1.68;70;;Orthodox;10;3;0;|
+929;Frank Gomez;;1.78;61;170;Orthodox;10;4;0;|
+930;Alan Gomez;;;70;;;2;0;0;|
+931;David Gomez;;;70;;;1;2;0;|
+932;Ulysses Gomez;Useless;1.68;57;168;Orthodox;9;4;0;|
+933;Joey Gomez;KO King;1.78;61;185;Orthodox;6;2;0;|
+934;Luis Gomez;Tiger Junior;1.7;66;173;Orthodox;4;1;0;|
+935;Takanori Gomi;The Fireball Kid;1.7;70;178;Southpaw;35;14;0;|
+936;Akihiro Gono;;1.7;77;173;Switch;32;16;7;|
+937;Gabriel Gonzaga;Napao;1.88;110;193;Orthodox;17;11;0;|
+938;Fernando Gonzalez;The Menifee Maniac;1.75;77;173;Southpaw;19;11;0;|
+939;Nick Gonzalez;The Ghost;1.68;70;;Orthodox;17;9;0;|
+940;Fabian Gonzalez;;1.78;61;;;2;1;0;|
+941;Lewis Gonzalez;Lethal;1.78;77;185;Orthodox;10;2;0;|
+942;Jason Gonzalez;Nicoya;1.88;70;188;Southpaw;11;4;0;|
+943;Pearl Gonzalez;;1.63;52;173;Orthodox;6;3;0;|
+944;Kier Gooch;;;70;;;2;7;0;|
+945;Lyman Good;Cyborg;1.83;77;188;Orthodox;19;4;0;|
+946;Gary Goodridge;Big Daddy;1.91;113;;Orthodox;23;22;1;|
+947;Jordan Goodwin;;;70;;;0;0;0;|
+948;Gerard Gordeau;;1.96;98;;Orthodox;2;2;0;|
+949;Eddie Gordon;Truck;1.83;84;193;Orthodox;8;4;0;|
+950;Jared Gordon;Flash;1.75;70;173;Orthodox;13;1;0;|
+951;Tim Gorman;The Psycho;1.65;61;173;Southpaw;9;4;0;|
+952;Chase Gormley;;1.91;120;;Orthodox;7;4;0;|
+953;Jonathan Goulet;The Road Warrior;1.83;77;185;Orthodox;23;12;0;|
+954;Thibault Gouti;GT;1.78;70;183;Orthodox;12;3;0;|
+955;Wilson Gouveia;;1.85;84;193;Orthodox;12;8;0;|
+956;Todd Gouwenberg;;1.85;93;;Orthodox;9;5;0;|
+957;Hugo Govea;;;;;;0;1;0;|
+958;Justin Governale;The Therapist;;66;;;5;5;0;|
+959;Damian Grabowski;The Polish Pitbull;1.85;109;190;Orthodox;20;5;0;|
+960;Royce Gracie;;1.85;79;;Southpaw;14;2;3;|
+961;Crosley Gracie;;1.75;86;;Orthodox;2;2;0;|
+962;Daniel Gracie;;1.88;102;;Orthodox;5;4;1;|
+963;Ralph Gracie;;1.75;83;;Orthodox;6;1;0;|
+964;Renzo Gracie;;1.78;84;;Orthodox;14;6;1;|
+965;Rickson Gracie;;1.78;84;;Switch;11;0;0;|
+966;Rodrigo Gracie;;1.83;83;;Orthodox;6;2;1;|
+967;Royler Gracie;;1.73;68;;Southpaw;5;5;1;|
+968;Ryan Gracie;;1.75;91;;Orthodox;5;2;0;|
+969;Ralek Gracie;;1.88;95;;Orthodox;3;1;0;|
+970;Rolles Gracie;;1.93;110;;Orthodox;5;1;0;|
+971;Cesar Gracie;;1.78;82;;Orthodox;0;1;0;|
+972;Roger Gracie;;1.93;84;201;Orthodox;6;2;0;|
+973;Igor Gracie;;1.8;77;;;4;2;0;|
+974;Neiman Gracie;;1.83;77;;;6;0;0;|
+975;Steven Graham;;1.85;132;;Orthodox;2;1;0;|
+976;Scott Graham;;1.93;84;;Orthodox;3;1;0;|
+977;TJ Grant;;1.78;70;183;Orthodox;21;5;0;|
+978;Davey Grant;Dangerous;1.73;61;175;;10;3;0;|
+979;Alexa Grasso;;1.65;52;168;Orthodox;10;1;0;|
+980;Michael Graves;;1.78;77;180;;6;0;1;|
+981;Shelton Graves;The Gravedigger;1.88;116;193;Southpaw;7;3;0;|
+982;James Gray;The Phenom;1.75;61;;Orthodox;4;1;0;|
+983;Kevin Gray;Pocket Herc;1.63;57;170;Orthodox;9;4;0;|
+984;Sam Greco;;1.88;93;;Orthodox;3;1;1;|
+985;Bobby Green;King;1.78;70;180;Orthodox;23;8;1;|
+986;Desmond Green;The Predator;1.78;70;185;Southpaw;20;6;0;|
+987;Matt Grice;The Real One;1.73;66;178;Orthodox;15;5;0;|
+988;Forrest Griffin;;1.91;93;196;Orthodox;19;7;0;|
+989;Tyson Griffin;;1.68;66;173;Orthodox;15;6;0;|
+990;Max Griffin;Pain;1.8;77;193;Orthodox;13;3;0;|
+991;Chad Griggs;The Grave Digger;1.85;93;185;Orthodox;11;3;0;|
+992;Chuck Grigsby;The Reverend;1.98;93;;Orthodox;19;8;0;|
+993;Rodrigo Gripp de Sousa;Riscado;1.8;93;;Orthodox;7;9;0;|
+994;Josh Grispi;The Fluke;1.8;66;188;Orthodox;14;5;0;|
+995;Garrett Gross;;1.83;70;;;10;6;0;|
+996;Kendall Grove;Da Spyder;1.98;84;201;Orthodox;13;10;0;|
+997;Neil Grove;Goliath;1.98;120;;Orthodox;11;5;1;|
+998;Chris Gruetzemacher;Gritz;1.73;70;173;Orthodox;13;2;0;|
+999;Vik Grujic;The Spartan;1.8;77;185;Orthodox;7;6;0;|
+1000;Wang Guan;The Dongbei Tiger;1.8;66;;;15;1;1;|
+1001;Nandor Guelmino;The Hun;1.91;104;193;;11;5;1;|
+1002;Fabricio Guerreiro;;1.78;66;;;21;5;0;|
+1003;Shannon Gugerty;;1.78;70;180;Orthodox;14;6;0;|
+1004;Clay Guida;The Carpenter;1.7;70;178;Orthodox;33;14;0;|
+1005;Melvin Guillard;The Young Assassin;1.75;70;173;Orthodox;48;15;3;|
+1006;Chris Guillen;;1.83;109;;Orthodox;13;12;0;|
+1007;Marcelo Guimaraes;Magrao;1.83;84;185;Orthodox;9;2;1;|
+1008;Leonardo Augusto Leleco;Leleco;1.83;84;185;Orthodox;11;3;0;|
+1009;Brad Gumm;;1.8;77;;Orthodox;10;6;1;|
+1010;John Gunderson;Quick Guns;1.75;70;175;Orthodox;32;12;2;|
+1011;Jorge Gurgel;;1.7;70;175;Orthodox;14;9;0;|
+1012;Fabio Gurgel;;1.83;93;;Orthodox;3;2;0;|
+1013;Andre Gusmao;;1.83;93;;Orthodox;6;3;0;|
+1014;Alexander Gustafsson;The Mauler;1.96;93;201;Orthodox;18;4;0;|
+1015;Justin Guthrie;;1.85;77;;;18;9;0;|
+1016;Horacio Gutierrez;The Punisher;1.78;66;175;;3;3;0;|
+1017;Mike Guymon;The Joker;1.83;77;188;Orthodox;12;5;1;|
+1018;Keith Hackney;The Giant Killer;1.8;91;;Sideways;2;2;0;|
+1019;Steve Hadsel;;1.73;77;;;3;0;0;|
+1020;Damir Hadzovic;The Bosnian Bomber;1.75;70;178;Orthodox;11;3;0;|
+1021;Tim Hague;The Trashing Machine;1.93;118;193;Orthodox;13;5;0;|
+1022;Stoney Hale;The Skuller;1.83;;;;4;2;0;|
+1023;Kevin Haley;The North Woods Nightmare;1.88;93;;;6;4;0;|
+1024;Mark Hall;;1.83;86;;Orthodox;5;6;0;|
+1025;Uriah Hall;Prime Time;1.83;84;201;Orthodox;14;8;0;|
+1026;Ryan Hall;The Wizard;1.78;66;180;;6;1;0;|
+1027;Dennis Hallman;Superman;1.75;70;183;Orthodox;67;14;2;|
+1028;Piotr Hallmann;Pletwal;1.75;70;180;Orthodox;15;5;0;|
+1029;Tony Halme;;1.91;136;;Orthodox;0;4;0;|
+1030;Brandon Halsey;Bull;1.83;84;;;9;3;0;|
+1031;John Halverson;The Hurricane;1.75;70;;Southpaw;16;7;0;|
+1032;Seohee Ham;;1.57;52;157;Southpaw;16;8;0;|
+1033;Frank Hamaker;;;;;;1;0;0;|
+1034;Kazuhiro Hamanaka;;1.83;84;;Southpaw;5;7;1;|
+1035;Matt Hamill;The Hammer;1.85;93;193;Orthodox;12;5;0;|
+1036;Jeremy Hamilton;Hawk;;84;;;8;1;0;|
+1037;Anthony Hamilton;Freight Train;1.96;118;193;Orthodox;15;8;0;|
+1038;CJ Hamilton;The Autobot;1.7;57;173;Switch;11;4;0;|
+1039;Jared Hamman;The Messenger;1.91;84;190;Orthodox;13;6;0;|
+1040;James Hammortree;The Sledge;1.91;84;;Orthodox;6;2;0;|
+1041;Dean Hancock;The Hammer;;70;;;2;1;0;|
+1042;Joachim Hansen;Hellboy;1.7;68;;Southpaw;22;11;1;|
+1043;Nasrat Haqparast;;1.78;70;183;Southpaw;8;2;0;|
+1044;Janay Harding;Hollowpoint;;61;;;3;2;0;|
+1045;Antoni Hardonk;;1.93;111;198;Orthodox;8;6;0;|
+1046;Dan Hardy;The Outlaw;1.83;77;188;Orthodox;25;10;0;|
+1047;Baru Harn;Seiryu;;120;;;1;2;0;|
+1048;Scott Harper;;1.83;84;;Orthodox;12;7;0;|
+1049;Gerry Harris;;2.03;122;;Orthodox;1;4;0;|
+1050;Gerald Harris;;1.8;84;196;Southpaw;19;4;0;|
+1051;Phil Harris;Billy;1.63;57;163;Orthodox;22;12;0;|
+1052;Walt Harris;The Big Ticket;1.96;113;196;Southpaw;10;6;0;|
+1053;Dhafir Harris;Dada 5000;;117;;;2;0;0;|
+1054;Collin Hart;;1.85;84;193;Orthodox;4;2;1;|
+1055;Dale Hartt;;1.78;70;175;Orthodox;6;3;0;|
+1056;Luke Hartwig;;;;;;0;1;0;|
+1057;Clay Harvison;Bushwacker;1.85;77;188;;9;3;0;|
+1058;Hidehiko Hasegawa;;1.75;77;;;19;15;6;|
+1059;Chris Haseman;The Hammer;1.8;93;;Orthodox;20;16;0;|
+1060;Takayo Hashi;;1.63;61;;Orthodox;13;4;1;|
+1061;Tomohiko Hashimoto;;1.83;113;;Orthodox;1;4;0;|
+1062;Justin Haskins;;1.78;77;;Orthodox;7;6;0;|
+1063;Hayder Hassan;Hulk;1.78;77;178;;6;3;0;|
+1064;Daiki Hata;DJ Taiki;1.68;63;;Orthodox;11;9;4;|
+1065;John Hathaway;The Hitman;1.85;77;190;Orthodox;17;2;0;|
+1066;Phil Hawes;Megatron;1.85;84;178;Orthodox;4;1;0;|
+1067;Chris Hawk;;1.85;93;;;4;8;0;|
+1068;Del Hawkins;The Filipino Delight;1.65;61;;Orthodox;22;15;0;|
+1069;Tommy Hayden;Wild Card;1.75;66;183;Southpaw;8;2;0;|
+1070;Mike Hayes;;1.93;104;;Orthodox;16;4;1;|
+1071;Ryan Hayes;;;;;;2;2;0;|
+1072;Gerric Hayes;;1.78;;;;7;8;0;|
+1073;Josh Haynes;Bring the Pain;1.75;77;;Orthodox;14;11;0;|
+1074;Dustin Hazelett;McLovin;1.85;77;193;Orthodox;12;7;0;|
+1075;James Head;;1.85;77;185;Orthodox;9;4;0;|
+1076;Pat Healy;Bam Bam;1.83;70;188;Orthodox;31;19;0;|
+1077;Ryan Healy;The Irish Assassin;1.85;70;;Orthodox;19;9;1;|
+1078;Spencer Hearns;;1.8;84;;;1;0;0;|
+1079;David Heath;;1.8;93;183;Orthodox;16;7;0;|
+1080;Chris Heatherly;Stump;1.75;70;173;Orthodox;9;3;0;|
+1081;Jake Hecht;Hitman;1.83;77;193;Orthodox;11;4;0;|
+1082;Nick Hein;Sergeant;1.68;70;168;Southpaw;14;2;0;|
+1083;Marcin Held;;1.75;70;180;Orthodox;23;7;0;|
+1084;Delson Heleno;Pe De Chumbo;1.8;84;;Orthodox;23;7;0;|
+1085;Matt Helm;;;70;;;1;1;0;|
+1086;Elisha Helsper;Knuckles;1.68;61;;Orthodox;0;2;0;|
+1087;Dan Henderson;Hendo;1.8;84;188;Orthodox;32;15;0;|
+1088;Benson Henderson;Smooth;1.75;77;178;Southpaw;23;5;0;|
+1089;Ron Henderson;;1.78;57;;;4;3;0;|
+1090;Josh Hendricks;;1.88;107;;Southpaw;18;7;0;|
+1091;Johny Hendricks;Bigg Rigg;1.75;84;175;Southpaw;18;7;0;|
+1092;Cory Hendricks;;1.91;93;;;3;1;0;|
+1093;Luis Henrique;KLB;1.88;110;188;Orthodox;10;4;0;|
+1094;Paulo Borrachinha;Borrachinha;1.85;84;183;;10;0;0;|
+1095;Danny Henry;The Hatchet;1.83;70;185;Orthodox;11;2;0;|
+1096;TJ Hepburn;The Carnivore;1.7;70;;;4;2;0;|
+1097;Ed Herman;Short Fuse;1.85;93;196;Orthodox;24;13;0;|
+1098;Dave Herman;;1.93;110;193;Orthodox;21;6;0;|
+1099;Jack Hermansson;The Joker;1.85;84;196;Orthodox;16;3;0;|
+1100;Noe Hernandez;;;;;Orthodox;5;5;0;|
+1101;Joe Hernandez;;;;;;0;1;0;|
+1102;Junior Hernandez;Hot Handed;1.75;61;175;Orthodox;14;6;0;|
+1103;Paul Herrera;The Bone Crusher;1.78;84;;Orthodox;1;1;0;|
+1104;Chris Herrera;The Crusher;1.78;84;;;3;2;1;|
+1105;Geane Herrera;The Revolutionary;1.65;57;168;Orthodox;9;3;0;|
+1106;Alvaro Herrera;Chango;1.83;77;188;;9;5;0;|
+1107;Felice Herrig;Lil Bulldog;1.63;52;165;Orthodox;13;6;0;|
+1108;Heath Herring;The Texas Crazy Horse;1.93;113;198;Orthodox;28;14;0;|
+1109;Jon Hess;;2.01;134;;;1;1;0;|
+1110;Clint Hester;Headbussa;1.88;93;196;Orthodox;11;6;0;|
+1111;Brandon Hester;The Beast;1.85;93;;;3;0;0;|
+1112;Jimy Hettes;The Kid;1.75;66;180;Southpaw;11;3;0;|
+1113;Conor Heun;Hurricane;1.78;70;;Orthodox;9;4;0;|
+1114;Marcus Hicks;The Wrecking Ball;1.68;70;163;Southpaw;9;3;0;|
+1115;Jay Hieron;The Thoroughbred;1.83;77;190;Orthodox;23;7;0;|
+1116;Lee Higgins;;;70;;;2;1;0;|
+1117;Jason High;The Kansas City Bandit;1.73;70;180;Southpaw;19;5;0;|
+1118;Richie Hightower;The Dirty Samurai;1.73;77;;Orthodox;8;4;0;|
+1119;Alex Higley;;1.78;66;;;4;3;0;|
+1120;Corey Hill;;1.93;70;203;Orthodox;4;4;0;|
+1121;Isaiah Hill;;1.78;70;;;5;7;1;|
+1122;Angela Hill;Overkill;1.6;52;163;Orthodox;7;3;0;|
+1123;Branden Lee Hinkle;The Iron Lion;1.91;107;;Orthodox;15;11;0;|
+1124;Hatsu Hioki;;1.8;66;178;Orthodox;27;9;2;|
+1125;Alan Hiro;Yamaniha;1.65;61;;Orthodox;11;4;4;|
+1126;Kuniyoshi Hironaka;;1.78;76;178;Orthodox;19;8;0;|
+1127;Mizuto Hirota;Pugnus;1.7;66;170;Orthodox;19;8;2;|
+1128;Yuji Hisamatsu;;1.78;84;;;15;19;6;|
+1129;Kwan Ho Kwak;;1.65;61;178;Switch;9;2;0;|
+1130;Matt Hobar;The Crowbar;1.78;61;178;Southpaw;9;3;0;|
+1131;Bobby Hoffman;The Truth;1.88;111;;Orthodox;36;10;1;|
+1132;Sam Hoger;The Alaskan Assassin;1.88;93;;Orthodox;10;4;0;|
+1133;Andrew Holbrook;;1.8;70;178;Southpaw;12;3;0;|
+1134;Sean Holden;;1.78;77;;;5;2;0;|
+1135;Chris Holdsworth;Holds it Down;1.8;61;180;;7;0;0;|
+1136;Roger Hollett;The Hulk;1.8;93;178;Orthodox;13;5;0;|
+1137;Max Holloway;Blessed;1.8;66;175;Orthodox;18;3;0;Champion Belt|
+1138;Gabrielle Holloway;Gabanator;1.6;66;;;6;5;0;|
+1139;Jeremie Holloway;Hit Em;1.83;77;;;8;3;0;|
+1140;Holly Holm;The Preacher's Daughter;1.73;61;175;Southpaw;11;3;0;|
+1141;Rex Holman;Big Dog;1.91;93;;Southpaw;4;2;0;|
+1142;Kurt Holobaugh;;1.8;66;185;Orthodox;17;4;0;|
+1143;Paddy Holohan;The Hooligan;1.78;57;175;Orthodox;12;2;1;|
+1144;Ben Holscher;The Teacher;1.8;70;;;4;0;0;|
+1145;Mark Holst;Boots;1.83;70;;Orthodox;9;3;0;|
+1146;Scott Holtzman;Hot Sauce;1.75;70;175;Orthodox;10;2;0;|
+1147;Sabah Homasi;The Problem;1.83;77;183;Orthodox;11;6;0;|
+1148;Mark Hominick;The Machine;1.73;66;173;Orthodox;20;12;0;|
+1149;Chris Honeycutt;The Cutt;1.78;77;185;;9;1;0;|
+1150;Satoshi Honma;;1.85;93;;Orthodox;4;6;3;|
+1151;David Hood;;1.83;91;;;1;3;0;|
+1152;Lorenzo Hood;The Samoan Silverback;1.91;120;;;9;4;0;|
+1153;Dan Hooker;The Hangman;1.83;66;190;Switch;15;7;0;|
+1154;Darrell Horcher;The Saint;1.78;70;178;Southpaw;13;2;0;|
+1155;Moti Horenstein;;1.93;104;;Orthodox;1;6;0;|
+1156;Kyoji Horiguchi;;1.65;57;168;Orthodox;18;2;0;|
+1157;Jeremy Horn;Gumby;1.85;84;188;Orthodox;88;21;5;|
+1158;Matt Horning;Horndog;1.63;57;;;20;25;0;|
+1159;Chris Horodecki;The Polish Hammer;1.75;70;175;Orthodox;18;3;1;|
+1160;Matt Horwich;Suave;1.85;84;;Orthodox;26;19;1;|
+1161;John Hosman;;1.78;61;;Southpaw;18;8;1;|
+1162;Saeed Hosseini;;;;;;0;1;0;|
+1163;Jeff Hougland;Hellbound;1.7;61;173;Orthodox;10;6;0;|
+1164;Trey Houston;;1.8;84;;;7;4;0;|
+1165;Jamie Houston;;;84;;;3;0;0;|
+1166;Brian Houston;B-Hue;1.88;84;198;Orthodox;4;2;0;|
+1167;Harold Howard;;1.88;109;;Orthodox;1;3;0;|
+1168;John Howard;Doomsday;1.7;77;180;Orthodox;23;12;0;|
+1169;Shane Howell;;1.73;57;175;Orthodox;13;9;0;|
+1170;Alex Huddleston;The Shaved Gorilla;2.01;115;;;6;2;0;|
+1171;Roger Huerta;El Matador;1.75;70;178;Orthodox;21;5;1;|
+1172;Casey Huffman;Hellbent;1.91;84;;;3;1;0;|
+1173;Matt Hughes;;1.75;77;185;Switch;45;9;0;|
+1174;Mark Hughes;;1.75;93;;Southpaw;6;2;0;|
+1175;David Hulett;Hollywood;1.78;77;;;18;9;0;|
+1176;Bryan Humes;;;120;;;6;2;0;|
+1177;Abongo Humphrey;;1.8;93;;Orthodox;7;3;0;|
+1178;Mark Hunt;Super Samoan;1.78;120;183;Orthodox;13;11;1;|
+1179;Alex Hunter;;1.75;103;;Orthodox;2;0;0;|
+1180;Adam Hunter;Warhammer;1.85;84;185;Orthodox;7;1;0;|
+1181;Joe Hurley;;1.73;70;;;12;5;0;|
+1182;Solomon Hutcherson;King;1.8;84;;Southpaw;11;7;0;|
+1183;Al Iaquinta;Raging;1.75;70;178;Orthodox;13;3;1;|
+1184;Minoki Ichihara;;1.7;81;;Orthodox;0;1;0;|
+1185;Dan Ige;Danimal;1.7;66;;Orthodox;7;1;0;|
+1186;Valeri Ignatov;;1.75;77;;Orthodox;1;2;0;|
+1187;Sergey Ignatov;;1.75;95;;Orthodox;0;1;0;|
+1188;Fabiano Iha;;1.73;70;;Orthodox;9;5;0;|
+1189;Seichi Ikemoto;;1.8;76;;Orthodox;20;17;5;|
+1190;Mikhail Iloukhine;;1.75;93;;Orthodox;30;11;1;|
+1191;Yusuke Imamura;;1.73;100;;Orthodox;2;6;0;|
+1192;Masakazu Imanari;;1.63;63;;Southpaw;24;9;2;|
+1193;Brad Imes;Hillbilly Heartthrob;2.01;120;;Orthodox;13;7;0;|
+1194;Chris Indich;The Savage;1.78;77;185;;5;3;0;|
+1195;Chris Inman;;;;;;1;0;0;|
+1196;Guto Inocente;;1.91;93;196;Orthodox;6;4;0;|
+1197;Enson Inoue;Yamato Damashii;1.78;95;;Orthodox;12;8;0;|
+1198;Egan Inoue;;1.75;86;;Southpaw;13;8;0;|
+1199;Katsuya Inoue;;1.75;76;;Southpaw;19;9;4;|
+1200;Takeshi Inoue;Lion;1.73;66;;;20;5;0;|
+1201;Naoki Inoue;;1.75;57;180;Orthodox;11;0;0;|
+1202;Jorge Interiano;;1.85;93;;;3;3;0;|
+1203;Jason Ireland;The Irish Tornado;1.75;73;;Southpaw;18;8;1;|
+1204;James Irvin;The Sandman;1.88;93;190;Orthodox;15;9;0;|
+1205;Eric Irvin;;1.73;70;;;11;4;0;|
+1206;Mitsuhiro Ishida;The Endless Warrior;1.68;70;;Southpaw;20;7;1;|
+1207;Teruto Ishihara;Yashabo;1.7;66;175;Southpaw;11;4;2;|
+1208;Satoshi Ishii;;1.8;109;;Orthodox;4;1;1;|
+1209;Yuki Ishikawa;;1.8;93;;Orthodox;0;2;0;|
+1210;Eiji Ishikawa;;1.78;77;;;22;17;3;|
+1211;Tokimitsu Ishizawa;Kendo Ka Shin;1.83;84;;Orthodox;1;5;1;|
+1212;Wallid Ismail;;1.7;93;;Orthodox;9;3;0;|
+1213;Leandro Issa;Brodinho;1.7;61;175;Orthodox;13;6;0;|
+1214;Tomomi Iwama;;1.6;70;;Orthodox;9;5;1;|
+1215;Tatsuya Iwasaki;;1.75;93;;Orthodox;0;1;0;|
+1216;Yoislandy Izquierdo;Cuba;1.8;70;;Southpaw;6;2;0;|
+1217;Hiroshi Izumi;;;93;;Orthodox;4;2;0;|
+1218;Yves Jabouin;Tiger;1.7;61;173;Orthodox;20;11;0;|
+1219;Kevin Jackson;;1.78;90;;Switch;4;2;0;|
+1220;Eugene Jackson;The Wolf;1.73;84;;Orthodox;15;9;1;|
+1221;Rampage Jackson;Rampage;1.85;93;185;Orthodox;36;11;0;|
+1222;Jeremy Jackson;Scorpion;1.78;77;;Orthodox;9;5;0;|
+1223;Damon Jackson;The Leech;1.8;66;180;Switch;9;1;1;|
+1224;Kenyon Jackson;;1.83;84;;;4;3;0;|
+1225;Mike Jackson;The Truth;1.88;77;;;0;1;0;|
+1226;Jason Jackson;Jah-Son;1.85;77;198;Orthodox;7;2;0;|
+1227;Eric Jacob;;;70;;;1;9;0;|
+1228;Dustin Jacoby;;1.93;84;198;Orthodox;6;3;0;|
+1229;Justin James;;1.78;70;;Orthodox;13;7;0;|
+1230;Nate James;;1.83;84;;;13;7;1;|
+1231;Ryan Janes;;1.91;84;193;Orthodox;9;3;0;|
+1232;Josh Janousek;;1.8;84;185;Orthodox;8;1;0;|
+1233;Dave Jansen;;1.75;70;185;Orthodox;15;3;0;|
+1234;Jaime Jara;El Cucui;1.85;93;;Southpaw;32;10;0;|
+1235;Keith Jardine;The Dean of Mean;1.88;84;193;Orthodox;17;10;2;|
+1236;Brock Jardine;The Machine;1.8;77;185;Orthodox;9;3;0;|
+1237;Josh Jarvis;;;;;;1;3;0;|
+1238;Rony Jason;;1.7;66;178;Orthodox;15;7;0;|
+1239;Louis Jauregui;;1.7;77;;;4;2;0;|
+1240;Joanna Jedrzejczyk;;1.68;52;165;Orthodox;14;0;0;Champion Belt|
+1241;Trent Jenkins;;1.88;84;;;0;4;0;|
+1242;Bubba Jenkins;The Highlight Kid;1.7;66;;;11;4;0;|
+1243;Adrienna Jenkins;AJ;1.73;66;;;19;6;0;|
+1244;Steve Jennum;;1.78;98;;Orthodox;2;3;0;|
+1245;Ryan Jensen;;1.85;84;193;Orthodox;15;8;0;|
+1246;Kyle Jensen;;1.75;77;;Orthodox;40;11;2;|
+1247;Chanmi Jeon;Ottogi Girl;1.65;52;170;Orthodox;5;2;0;|
+1248;Maciej Jewtuszko;Irokez;1.83;70;;Southpaw;8;1;0;|
+1249;Ronald Jhun;The Machine Gun;1.8;77;;Orthodox;24;24;2;|
+1250;Gilbert Jimenez;;;70;;;8;12;1;|
+1251;Art Jimmerson;;1.85;89;;Orthodox;0;1;0;|
+1252;Ryan Jimmo;The Big Deal;1.85;93;185;Orthodox;19;5;0;|
+1253;Li Jingliang;The Leech;1.83;77;180;Orthodox;13;4;0;|
+1254;Carls John De Tomas;CJ;1.65;57;180;Southpaw;8;1;0;|
+1255;Phil Johns;;1.57;77;;Southpaw;30;13;1;|
+1256;Brett Johns;The Pikey;1.7;61;180;Orthodox;14;0;0;|
+1257;Anthony Johnson;Rumble;1.88;93;198;Orthodox;22;6;0;|
+1258;DaMarques Johnson;Darkness;1.85;77;190;Orthodox;18;12;0;|
+1259;Devin Johnson;;;;;;1;1;1;|
+1260;Travis Johnson;;;93;;;0;1;0;|
+1261;Ricky Johnson;;1.73;66;;Orthodox;5;4;0;|
+1262;Tony Johnson;;;84;;;4;2;0;|
+1263;Lavar Johnson;Big;1.93;109;208;Orthodox;17;7;0;|
+1264;Demetrious Johnson;Mighty Mouse;1.6;57;168;Orthodox;27;2;1;Champion Belt|
+1265;Michael Johnson;The Menace;1.78;70;185;Southpaw;18;12;0;|
+1266;Deshaun Johnson;;;76;;;6;9;0;|
+1267;Kajan Johnson;Ragin';1.8;70;190;Orthodox;22;12;1;|
+1268;Dashon Johnson;Flyboy;1.7;66;178;Orthodox;9;2;0;|
+1269;Tim Johnson;;1.91;120;196;Southpaw;11;4;0;|
+1270;Tony Johnson;;1.85;120;;;11;3;0;|
+1271;Jordan Johnson;;1.88;93;201;Orthodox;8;0;0;|
+1272;Brian Johnston;;1.91;104;;Orthodox;5;5;0;|
+1273;Daniel Jolly;The Werewolf of Texas;1.85;93;190;Orthodox;5;2;0;|
+1274;Paul Jones;;1.75;90;;Orthodox;11;1;1;|
+1275;Jon Jones;Bones;1.93;93;213;Orthodox;22;1;0;|
+1276;Nathan Jones;;2.11;156;;Orthodox;0;1;0;|
+1277;Marcus Jones;The Darkness;1.98;120;;Orthodox;4;2;0;|
+1278;Carlton Jones;;1.85;102;;Orthodox;1;4;0;|
+1279;Jesse Jones;;1.75;77;;;2;1;0;|
+1280;Tito Jones;;1.73;66;;Southpaw;7;6;0;|
+1281;Roy Jones;;;93;;;6;2;0;|
+1282;Justin Jones;Lazybones;1.8;84;198;Orthodox;9;2;0;|
+1283;Ben Jones;Blitzkrieg;;84;;;4;4;0;|
+1284;Victor Jones;;;66;;;1;3;0;|
+1285;Chris Jones;Lionheart;1.75;68;;;10;5;0;|
+1286;Roshaun Jones;;1.73;61;;;2;6;0;|
+1287;Jamelle Jones;The Beast;1.83;93;190;Orthodox;7;5;0;|
+1288;Jocelyn Jones-Lybarger;;1.7;52;163;Orthodox;6;4;0;|
+1289;Kevin Jordan;The Shaman;1.91;111;;Orthodox;11;9;0;|
+1290;Joe Jordan;;1.68;70;;Orthodox;49;13;2;|
+1291;Shawn Jordan;The Savage;1.83;118;190;Southpaw;18;7;0;|
+1292;Ivan Jorge;Batman;1.75;70;185;Orthodox;26;5;0;|
+1293;Scott Jorgensen;Young Guns;1.65;61;168;Orthodox;15;12;0;|
+1294;Gareth Joseph;;;93;;;9;4;0;|
+1295;Jeff Joslin;The Inferno;1.83;77;;Orthodox;5;3;0;|
+1296;Krzysztof Jotko;;1.85;84;196;Southpaw;19;3;0;|
+1297;Alan Jouban;Brahma;1.83;77;185;Southpaw;15;6;0;|
+1298;Mike Joy;;1.68;70;;Southpaw;10;6;0;|
+1299;Tony Juarez;;;70;;;1;7;0;|
+1300;Jesse Juarez;;1.85;77;;Orthodox;16;8;0;|
+1301;Steve Judson;;1.8;104;;Orthodox;0;2;0;|
+1302;Luke Jumeau;The Jedi;1.8;77;183;Orthodox;12;4;0;|
+1303;Bu-Kyung Jung;;1.7;70;;Orthodox;0;4;0;|
+1304;Chan Sung Jung;The Korean Zombie;1.7;66;183;Orthodox;14;4;0;|
+1305;Young Sam Jung;;1.73;63;;Orthodox;4;4;0;|
+1306;Scott Junk;;1.85;120;;Orthodox;8;3;1;|
+1307;Myles Jury;Fury;1.78;66;185;Orthodox;16;2;0;|
+1308;Cris Cyborg;Cyborg;1.73;66;173;Orthodox;18;1;0;Champion Belt|
+1309;Emily Peters Kagan;;1.6;52;168;;3;3;0;|
+1310;Sirwan Kakai;Zohan;1.65;61;168;Orthodox;12;3;0;|
+1311;Geza Kalman;;1.85;91;;;4;9;0;|
+1312;Bryson Kamaka;;1.8;77;;Orthodox;12;18;1;|
+1313;Martin Kampmann;The Hitman;1.83;77;183;Orthodox;20;7;0;|
+1314;Hiromitsu Kanehara;;1.78;91;;Orthodox;19;24;3;|
+1315;Masanori Kanehara;;1.7;61;170;Orthodox;25;13;5;|
+1316;Ken Kaneko;;1.83;73;;Orthodox;0;3;0;|
+1317;Denis Kang;;1.8;84;196;Orthodox;34;15;2;|
+1318;Kyung Ho Kang;Mr. Perfect;1.75;61;183;Orthodox;13;7;0;|
+1319;David Kaplan;Diamond;1.7;70;;Orthodox;3;4;0;|
+1320;Georgi Karakhanyan;Insane;1.73;66;;;24;4;1;|
+1321;Alex Karalexis;The Assassin;1.73;70;168;Orthodox;10;6;0;|
+1322;Nadia Kassem;187;;57;;;4;0;0;|
+1323;Yusuke Kasuya;;1.7;70;170;Southpaw;9;3;2;|
+1324;Tetsuji Kato;;;70;;Orthodox;20;10;0;|
+1325;Hisaki Kato;;1.83;84;;;8;2;0;|
+1326;Calvin Kattar;The Boston Finisher;1.8;66;183;Orthodox;17;2;0;|
+1327;Sarah Kaufman;;1.65;61;170;Orthodox;17;4;0;|
+1328;Yusuke Kawaguchi;;1.83;116;;;13;4;0;|
+1329;Tatsuya Kawajiri;The Crusher;1.7;66;175;Orthodox;35;10;2;|
+1330;Ryo Kawamura;;1.8;93;;Orthodox;12;6;4;|
+1331;Doug Kay;;;;;;0;0;0;|
+1332;Julie Kedzie;;1.65;61;163;Orthodox;16;13;0;|
+1333;Ryan Keenan;;1.78;77;;;4;2;0;|
+1334;CJ Keith;;1.83;70;;Orthodox;8;2;0;|
+1335;Chris Kelades;The Greek Assassin;1.7;57;173;Orthodox;9;3;0;|
+1336;Brian Kelleher;Boom;1.68;61;168;Switch;18;8;0;|
+1337;Paul Kelly;;1.75;70;178;Orthodox;12;4;0;|
+1338;John Kelly;;1.75;77;;;5;4;0;|
+1339;Daniel Kelly;;1.83;84;178;Southpaw;13;2;0;|
+1340;Tim Kennedy;;1.8;84;188;Orthodox;18;6;0;|
+1341;Steve Kennedy;The Steamrolla;1.8;77;180;Orthodox;22;8;0;|
+1342;Jeremy Kennedy;JBC;1.8;66;180;Orthodox;11;0;0;|
+1343;Waylon Kennell;;1.83;84;;;4;2;0;|
+1344;Casey Kenney;;1.7;57;173;Southpaw;7;1;1;|
+1345;Aurelijus Kerpe;;;;;Orthodox;11;16;0;|
+1346;Mark Kerr;The Smashing Machine;1.91;121;;Switch;15;11;0;|
+1347;Will Kerr;;1.78;70;175;Orthodox;9;3;0;|
+1348;Ron Keslar;;;84;;;7;3;0;|
+1349;Rustam Khabilov;Tiger;1.73;70;185;Orthodox;22;3;0;|
+1350;Adam Khaliev;;1.83;77;;Orthodox;6;0;0;|
+1351;Sergei Kharitonov;;1.83;111;;Orthodox;18;5;0;|
+1352;Alfred Khashakyan;The Fearless;1.73;61;178;Orthodox;8;3;0;|
+1353;Akira Kikuchi;;1.73;70;;Orthodox;16;4;0;|
+1354;Katsunori Kikuno;;1.73;66;168;Orthodox;23;8;2;|
+1355;Sanae Kikuta;;1.75;91;;Orthodox;30;7;3;|
+1356;Dong Hyun Kim;Stun Gun;1.88;77;193;Southpaw;22;4;1;|
+1357;Jin Oh Kim;;1.75;93;;Orthodox;0;3;0;|
+1358;Dae Won Kim;;1.8;82;;Orthodox;11;6;0;|
+1359;Jong Wang Kim;;1.85;109;;;11;21;0;|
+1360;Jong Won Kim;;1.7;63;;Orthodox;0;1;0;|
+1361;Min Soo Kim;;1.85;116;;Southpaw;3;7;0;|
+1362;Jong Man Kim;Special Force;1.7;63;;Orthodox;22;11;3;|
+1363;Dong Hyun Kim;Maestro;1.8;70;178;Orthodox;15;8;3;|
+1364;Ji Yeon Kim;Firefist;1.7;61;183;Orthodox;6;1;2;|
+1365;Jeremy Kimball;Grizzly;1.83;93;183;Switch;15;6;0;|
+1366;Rob Kimmons;The Rosedale Reaper;1.78;84;185;Orthodox;24;8;0;|
+1367;Dustin Kimura;The Diamond;1.7;61;180;Orthodox;12;3;0;|
+1368;Taiei Kin;;1.8;84;;Orthodox;4;3;0;|
+1369;Mike King;;1.91;84;190;;5;1;0;|
+1370;Kyle Kingsbury;Kingsbu;1.93;93;193;Orthodox;11;6;0;|
+1371;Yurij Kiseliov;Playboy;1.73;84;;Orthodox;5;3;0;|
+1372;Justine Kish;;1.65;52;163;Orthodox;6;1;0;|
+1373;Koji Kitao;;2.01;159;;Southpaw;1;2;0;|
+1374;Mitsuharu Kitao;;2.01;177;;;1;2;0;|
+1375;Satoru Kitaoka;;1.68;70;;;29;11;9;|
+1376;Seth Kleinbeck;Mass Destruction;1.88;84;;;8;4;0;|
+1377;Stefan Klever;;;84;;Orthodox;6;1;0;|
+1378;Drakkar Klose;;1.75;70;178;Orthodox;8;0;1;|
+1379;Michael Knaap;Hammer;1.88;100;;Orthodox;18;20;3;|
+1380;Kevin Knabjian;;1.78;77;;Orthodox;10;6;1;|
+1381;Jason Knight;The Kid;1.78;66;180;Orthodox;20;3;0;|
+1382;Isao Kobayashi;;1.73;66;;;21;4;4;|
+1383;Kelly Kobold;Blood Red;1.68;61;;Orthodox;17;3;1;|
+1384;Erik Koch;New Breed;1.78;70;180;Southpaw;15;5;0;|
+1385;Sokun Koh;;1.85;93;;;4;1;0;|
+1386;Shingo Kohara;;1.68;61;;;1;0;0;|
+1387;Brad Kohler;;1.75;100;;Orthodox;11;14;0;|
+1388;Charlie Kohler;;1.75;70;;Orthodox;8;4;1;|
+1389;Tsuyoshi Kohsaka;TK;1.8;102;;Orthodox;26;18;2;|
+1390;John Kolosci;;1.8;84;;Orthodox;15;8;0;|
+1391;Yuki Kondo;;1.8;83;;Southpaw;53;26;8;|
+1392;Syuri Kondo;;1.63;52;168;Orthodox;6;0;0;|
+1393;Cheick Kongo;;1.93;109;208;Orthodox;29;9;2;|
+1394;Andrei Kopylov;;1.88;120;;Orthodox;5;10;0;|
+1395;Andrey Koreshkov;Spartan;1.83;77;;;19;2;0;|
+1396;Josh Koscheck;;1.78;77;185;Orthodox;19;10;0;|
+1397;Naoyuki Kotani;;1.73;70;168;Southpaw;33;13;7;|
+1398;Ilya Kotau;;;77;;;1;2;0;|
+1399;Iouri Kotchkine;;1.88;107;;Orthodox;7;4;1;|
+1400;Matt Kovacs;300;1.83;111;;Orthodox;6;7;0;|
+1401;Marcus Kowal;;;61;;;3;1;1;|
+1402;Karolina Kowalkiewicz;;1.6;52;165;Orthodox;11;2;0;|
+1403;Steve Kozola;;;70;;;8;0;0;|
+1404;James Krause;The;1.88;77;185;Orthodox;24;7;0;|
+1405;Pascal Krauss;Panzer;1.85;77;183;Orthodox;11;2;0;|
+1406;Rene Kronvold;;1.73;77;;Orthodox;5;1;0;|
+1407;Jorgen Kruth;The Last Viking;1.88;93;;;5;0;0;|
+1408;Nikita Krylov;The Miner;1.91;93;196;Orthodox;21;5;0;|
+1409;Junya Kudo;;;61;;Orthodox;8;4;2;|
+1410;John Kuhner;;;77;;;1;2;0;|
+1411;Michael Kuiper;;1.83;84;185;Orthodox;12;3;0;|
+1412;Anton Kuivanen;;1.73;70;183;Orthodox;17;6;0;|
+1413;Maiju Kujala;;;61;;;6;3;0;|
+1414;Keigo Kunihara;;1.83;107;;Orthodox;3;2;0;|
+1415;Kiichi Kunimoto;Strasser;1.78;77;180;Orthodox;18;7;2;|
+1416;Leo Kuntz;The Lion;1.78;70;188;Orthodox;17;3;1;|
+1417;Tsuyoshi Kurihara;;1.78;84;;Orthodox;6;7;2;|
+1418;Eldari Kurtanidze;;1.68;107;;Orthodox;0;1;0;|
+1419;Kyle Kurtz;;;77;;;7;5;0;|
+1420;Lina Kvokov;;1.75;61;;Orthodox;0;3;0;|
+1421;Kaleo Kwan;Leo Boy;1.7;70;;;10;13;0;|
+1422;Mike Kyle;MAK;1.93;93;196;Orthodox;19;9;1;|
+1423;Achmed Labasanov;;1.91;98;;Orthodox;8;5;0;|
+1424;Josh LaBerge;;1.78;66;;;8;5;0;|
+1425;Jeremiah Labiano;The Kid;1.78;61;;;11;5;0;|
+1426;Kemran Lachinov;;;77;;;3;2;0;|
+1427;Aspen Ladd;;1.68;61;168;Orthodox;6;0;0;|
+1428;Ryan LaFlare;;1.85;77;188;Southpaw;13;2;0;|
+1429;Ben Lagman;Bad News;1.88;84;;;6;2;0;|
+1430;Noad Lahat;Neo;1.75;66;175;Orthodox;9;2;0;|
+1431;Tina Lahdemaki;Jelly Bean;1.57;52;157;Orthodox;5;1;0;|
+1432;Tim Lajcik;The Bohemian;1.85;102;;Orthodox;7;6;1;|
+1433;Todd Lally;;1.7;66;;Orthodox;2;1;0;|
+1434;Ricardo Lamas;The Bully;1.73;66;180;Orthodox;18;5;0;|
+1435;Jason Lambert;The Punisher;1.91;84;190;Orthodox;25;12;0;|
+1436;Jose Landi-Jons;Pele;1.8;77;;Orthodox;27;14;0;|
+1437;Aaron Lanfranco;;;70;;;5;1;0;|
+1438;Jeremy Lang;;1.8;93;;Southpaw;21;2;0;|
+1439;Lionel Lanham;;;93;;;3;1;0;|
+1440;Lina Lansberg;Elbow Queen;1.7;61;165;Orthodox;7;3;0;|
+1441;Taylor Lapilus;Double Impact;1.68;61;185;Southpaw;11;2;0;|
+1442;Chad Laprise;The Disciple;1.78;77;180;;13;2;0;|
+1443;Anthony Lapsley;The Recipe;1.75;77;180;Southpaw;25;7;0;|
+1444;Icho Larenas;;1.91;107;;Orthodox;5;4;0;|
+1445;Lorenz Larkin;The Monsoon;1.8;77;183;Orthodox;18;5;0;|
+1446;Jeremy Larsen;;1.78;66;178;Orthodox;8;5;0;|
+1447;Brock Larson;;1.8;77;180;Southpaw;33;6;0;|
+1448;Ryan Larson;;;77;;;6;2;0;|
+1449;Bobby Lashley;;1.91;116;198;Orthodox;7;1;0;|
+1450;Ilir Latifi;The Sledgehammer;1.78;93;185;Orthodox;14;5;0;|
+1451;Sione Latu;;1.83;98;;;1;0;0;|
+1452;Jenel Lausa;The Demolition Man;1.65;57;173;Orthodox;7;3;0;|
+1453;Joe Lauzon;J-Lau;1.78;70;180;Orthodox;27;14;0;|
+1454;Dan Lauzon;The Upgrade;1.78;70;;Orthodox;15;4;0;|
+1455;Chatt Lavender;;1.73;77;;;9;7;0;|
+1456;Muhammed Lawal;King Mo;1.83;93;198;Southpaw;9;1;0;|
+1457;Robbie Lawler;Ruthless;1.8;77;188;Southpaw;28;11;0;|
+1458;Tom Lawlor;Filthy;1.83;93;188;Southpaw;10;6;0;|
+1459;Justin Lawrence;The American Kidd;1.73;66;170;Orthodox;5;2;0;|
+1460;Eric Lawson;;1.83;84;;Orthodox;9;4;0;|
+1461;Valmir Lazaro;Bidu;1.83;70;185;Orthodox;13;4;0;|
+1462;Cung Le;;1.75;84;175;Southpaw;9;3;0;|
+1463;Thanh Le;;1.75;66;188;Orthodox;6;1;0;|
+1464;Jerome LeBanner;;1.91;120;;Southpaw;3;2;0;|
+1465;Chris Leben;The Crippler;1.8;84;188;Southpaw;22;11;0;|
+1466;Mickael Lebout;Ragnar;1.8;70;185;Orthodox;14;5;1;|
+1467;Stephen Ledbetter;;1.75;66;;Orthodox;8;3;0;|
+1468;Justin Ledet;El Blanco;1.93;109;203;Orthodox;9;0;0;|
+1469;James Lee;;1.8;93;;Southpaw;14;3;0;|
+1470;David Lee;;1.78;70;;Orthodox;9;7;0;|
+1471;Jackie Lee;;;;;;0;1;0;|
+1472;Eun Soo Lee;;1.85;98;;Orthodox;15;3;0;|
+1473;Tae Hyun Lee;;1.98;134;;Orthodox;1;2;0;|
+1474;Tommy Lee;;1.7;66;;Orthodox;25;6;0;|
+1475;Matt Lee;;1.8;70;;Orthodox;13;10;1;|
+1476;Imani Lee;;;;;Orthodox;2;3;0;|
+1477;Vaughan Lee;;1.68;57;168;Orthodox;14;11;1;|
+1478;Kevin Lee;The Motown Phenom;1.75;70;196;Orthodox;16;3;0;|
+1479;Rocky Lee;;1.75;66;173;Orthodox;3;2;0;|
+1480;Ricky Legere Jr.;IE Bad Boy;1.73;77;;;14;4;0;|
+1481;Sherron Leggett;Rob Roy;1.73;70;;Southpaw;21;6;0;|
+1482;Cheyden Leialoha;Steadfast;1.73;61;185;Orthodox;6;0;0;|
+1483;Thales Leites;;1.85;84;198;Orthodox;27;8;0;|
+1484;Stefan Leko;Blitz;1.88;98;;Orthodox;0;3;0;|
+1485;Gabe Lemley;;1.73;70;;Orthodox;13;9;0;|
+1486;Amanda Lemos;Amandinha;1.63;61;165;Southpaw;6;1;1;|
+1487;Christophe Leninger;;1.83;91;;Southpaw;3;4;0;|
+1488;Jesse Lennox;The Ox;1.75;77;183;Orthodox;15;3;0;|
+1489;Jean Francois Lenogue;;1.83;84;;Orthodox;15;14;3;|
+1490;Nik Lentz;The Carny;1.73;70;173;Orthodox;29;8;2;|
+1491;Alberta Cerra Leon;;1.73;108;;;0;1;0;|
+1492;Anthony Leone;;1.68;61;;Orthodox;9;5;0;|
+1493;Chad Leonhardt;The Boss;1.83;77;;;8;3;0;|
+1494;Kimo Leopoldo;;1.91;107;;Orthodox;10;7;1;|
+1495;Michael Lerma;;;;;;0;1;0;|
+1496;Lukasz Les;;;77;;;7;3;0;|
+1497;Brock Lesnar;;1.91;120;206;Orthodox;5;3;0;|
+1498;Frank Lester;;1.8;77;;Orthodox;6;6;0;|
+1499;Valerie Letourneau;Trouble;1.7;52;173;Orthodox;8;6;0;|
+1500;Justin Levens;The Executioner;1.8;84;;Orthodox;9;8;0;|
+1501;Marcus LeVesseur;The Prospect;1.75;70;178;Southpaw;22;7;0;|
+1502;David Levicki;;1.96;125;;;1;3;0;|
+1503;Kyle Levinton;;;;;;0;3;0;|
+1504;John Lewis;;1.83;70;;Southpaw;3;4;3;|
+1505;Derrick Lewis;The Black Beast;1.91;118;201;Orthodox;18;5;0;|
+1506;Bevon Lewis;;1.91;84;201;Orthodox;3;0;0;|
+1507;Jess Liaudin;The Joker;1.75;77;183;Orthodox;19;11;0;|
+1508;Chuck Liddell;The Iceman;1.88;93;193;Orthodox;21;8;0;|
+1509;Sam Liera;;;;;;4;3;0;|
+1510;Zach Light;;1.73;77;;Orthodox;8;11;0;|
+1511;Scott Lighty;;1.88;93;;;6;2;0;|
+1512;Chris Liguori;;1.75;84;;Orthodox;13;9;0;|
+1513;Donnie Liles;;1.75;77;;Orthodox;13;5;0;|
+1514;Jae Suk Lim;;1.75;77;;Orthodox;15;5;0;|
+1515;Hyun Gyu Lim;The Ace;1.91;77;196;Orthodox;13;7;1;|
+1516;Juliana Lima;Ju Thai;1.65;52;165;Orthodox;9;4;0;|
+1517;Dhiego Lima;;1.88;77;188;Orthodox;14;6;0;|
+1518;Douglas Lima;The Phenom;1.85;77;;;29;6;0;|
+1519;Miguel Linares;;;;;;2;4;0;|
+1520;Matt Lindland;The Law;1.83;84;188;Southpaw;22;9;0;|
+1521;Jake Lindsey;The Librarian;1.8;70;180;Switch;9;3;0;|
+1522;John Lineker;Hands of Stone;1.6;61;170;Orthodox;29;8;0;|
+1523;Lucio Linhares;;1.88;84;;Orthodox;15;7;0;|
+1524;Philipe Lins;Monstro;1.88;93;;;10;2;0;|
+1525;Dean Lister;The Boogeyman;1.85;84;190;Orthodox;11;7;0;|
+1526;Wesley Little;;1.93;93;;;4;6;0;|
+1527;Abner Lloveras;Skullman;1.8;70;180;;19;8;1;|
+1528;Brian Lo-A-Njoe;;1.7;70;;Orthodox;6;9;3;|
+1529;John Lober;The Machine;1.8;90;;Orthodox;5;9;4;|
+1530;Artem Lobov;The Russian Hammer;1.75;66;165;Southpaw;14;14;1;|
+1531;Sean Loeffler;The Destroyer;1.91;84;;Orthodox;25;5;0;|
+1532;David Loiseau;The Crow;1.83;84;193;Orthodox;20;10;0;|
+1533;Hector Lombard;Showeather;1.75;84;180;Southpaw;34;8;1;|
+1534;Rocky Long;;;66;;;19;27;1;|
+1535;Thomas Longacre;;1.75;66;;Orthodox;6;1;0;|
+1536;Lucas Lopes;;1.88;84;;;19;13;0;|
+1537;Dileno Lopes;;1.65;61;165;;19;3;0;|
+1538;Ivan Lopez;;1.68;61;;Southpaw;8;1;1;|
+1539;Steve Lopez;;1.8;70;;Orthodox;12;6;1;|
+1540;Federico Lopez;Kiko;1.63;63;;Orthodox;5;5;0;|
+1541;Jorge Lopez;;1.78;77;;Orthodox;11;3;0;|
+1542;Christopher Lopez;;1.78;77;;;9;1;0;|
+1543;Matthew Lopez;;1.7;61;175;Southpaw;10;1;0;|
+1544;Benito Lopez;Golden Boy;1.78;61;185;Switch;7;0;0;|
+1545;Brendan Loughnane;;1.75;70;180;;5;2;0;|
+1546;Nate Loughran;;1.88;84;;Orthodox;9;1;0;|
+1547;Rashard Lovelace;;;70;;;4;1;0;|
+1548;Ian Loveland;The Barn Owl;1.73;66;;Orthodox;14;9;0;|
+1549;Jakob Lovstad;The Striking Viking;1.91;93;;Orthodox;11;4;0;|
+1550;Waylon Lowe;;1.7;66;;Southpaw;11;5;0;|
+1551;Brandon Lowe;;;70;;;2;1;0;|
+1552;Robert Lucarelli;;1.88;111;;;0;1;0;|
+1553;Matt Lucas;Luke Duke;1.85;93;;;14;2;0;|
+1554;Cleber Luciano;;1.68;70;;;14;6;0;|
+1555;Duane Ludwig;Bang;1.78;77;178;Orthodox;29;14;0;|
+1556;Mike Lullo;;1.73;66;;Orthodox;8;3;0;|
+1557;Alexandru Lungu;;1.83;175;;Orthodox;8;2;0;|
+1558;Vicente Luque;The Silent Assassin;1.8;77;190;;11;6;1;|
+1559;Thaddeus Luster;;1.91;95;;;0;1;0;|
+1560;Travis Lutter;The Serial Killer;1.8;84;190;Orthodox;10;6;0;|
+1561;Stevie Lynch;;1.78;77;;Orthodox;5;2;0;|
+1562;Adam Lynn;;1.78;70;;Orthodox;17;8;0;|
+1563;Chris Lytle;Lights Out;1.8;77;173;Orthodox;31;18;5;|
+1564;William Patolino;Patolino;1.8;77;190;Orthodox;8;3;0;|
+1565;Jason MacDonald;The Athlete;1.91;84;203;Orthodox;26;16;0;|
+1566;Rob MacDonald;Maximus;1.91;93;198;Orthodox;5;4;0;|
+1567;Rory MacDonald;Red King;1.83;77;193;Orthodox;18;4;0;|
+1568;Veronica Macedo;;1.63;61;163;Southpaw;5;1;1;|
+1569;Clayton MacFarlane;;;77;;;4;1;0;|
+1570;Ilima Macfarlane;;1.63;57;;;6;0;0;|
+1571;Lyoto Machida;The Dragon;1.85;84;188;Southpaw;22;7;0;|
+1572;Jon Koppenhaver;War Machine;1.8;77;;Orthodox;11;4;0;|
+1573;Anthony Macias;Mad Dog;1.75;84;;Switch;26;16;0;|
+1574;Reza Madadi;Mad Dog;1.8;70;183;Orthodox;14;6;0;|
+1575;Ryan Madigan;;1.83;77;;Orthodox;5;3;0;|
+1576;Jon Madsen;;1.83;109;183;Orthodox;7;1;0;|
+1577;Yoshiro Maeda;;1.7;63;173;Southpaw;28;12;2;|
+1578;Leonardo Mafra;Macarrao;1.78;70;178;Orthodox;12;3;0;|
+1579;Vinny Magalhaes;Pezao;1.91;93;201;Orthodox;11;7;0;|
+1580;Vinicius Magalhaes;Draculinho;;66;;;2;1;0;|
+1581;Caio Magalhaes;Hellboy;1.85;84;185;Orthodox;9;3;0;|
+1582;Bernardo Magalhaes;Trekko;1.75;70;165;Orthodox;11;3;0;|
+1583;Eric Magana;;;;;;1;1;0;|
+1584;Brandon Magana;;;77;;Orthodox;6;2;0;|
+1585;Angela Magana;Your Majesty;1.55;52;165;;11;8;0;|
+1586;Neil Magny;;1.91;77;203;Orthodox;19;7;0;|
+1587;Ibragim Magomedov;;1.83;113;;Orthodox;22;7;1;|
+1588;Rashid Magomedov;Goretz;1.75;70;178;Orthodox;20;2;0;|
+1589;Ruslan Magomedov;Leopard;1.91;110;198;Orthodox;14;1;0;|
+1590;Zabit Magomedsharipov;;1.85;66;185;Orthodox;13;1;0;|
+1591;John Maguire;The One;1.75;70;175;Southpaw;18;6;0;|
+1592;Lolohea Mahe;;;;;;5;2;1;|
+1593;Michelle Maher;;;66;;;1;2;0;|
+1594;Bill Mahood;The Butcher;1.91;91;;Orthodox;20;7;1;|
+1595;Klayton Mai;;1.75;57;;;8;3;0;|
+1596;Demian Maia;;1.85;77;183;Southpaw;25;7;0;|
+1597;Levan Makashvili;The Hornet;1.73;66;173;Orthodox;10;2;1;|
+1598;John Makdessi;The Bull;1.73;70;173;Orthodox;14;6;0;|
+1599;Islam Makhachev;;1.78;70;178;Orthodox;14;1;0;|
+1600;Aliev Makhmud;;1.68;88;;Southpaw;0;1;0;|
+1601;Zach Makovsky;Fun Size;1.63;57;163;Southpaw;19;8;0;|
+1602;Jeremy Malaterre;;1.8;70;;;4;2;0;|
+1603;Fabio Maldonado;Caipira de Aco;1.85;93;190;Orthodox;22;9;0;|
+1604;Marvin Maldonado;The Bulldog;1.68;61;;;2;4;0;|
+1605;Nazareno Malegarie;El Tigre;1.73;70;178;;28;5;0;|
+1606;Carl Malenko;;1.8;91;;Orthodox;6;4;0;|
+1607;Mike Malott;The Main Attraction;1.83;66;;;5;1;1;|
+1608;Troy Mandaloniz;Rude Boy;1.75;77;;Orthodox;3;2;0;|
+1609;Michael Mangan;;;70;;;0;3;0;|
+1610;Melvin Manhoef;Marvelous;1.75;84;;Orthodox;25;9;1;|
+1611;Melchor Manibusan;Barracuda;1.65;70;;Southpaw;2;4;0;|
+1612;Jon Manley;;1.85;77;190;Orthodox;7;3;0;|
+1613;Steve Mann;;1.85;77;;;12;5;0;|
+1614;Chris Manuel;;1.75;61;;Orthodox;8;3;2;|
+1615;Jimi Manuwa;Poster Boy;1.85;93;201;Orthodox;17;3;0;|
+1616;Cristiano Marcello;;1.75;70;183;Orthodox;13;6;0;|
+1617;Jose Maria;No Chance;1.65;57;;Orthodox;33;5;0;|
+1618;Enrique Marin;Wasabi;1.78;77;188;;9;4;0;|
+1619;Ronny Markes;;1.85;84;190;Orthodox;14;3;0;|
+1620;Rory Markham;;1.83;77;180;Orthodox;16;6;0;|
+1621;Randa Markos;Quiet Storm;1.63;52;160;;7;6;0;|
+1622;Nate Marquardt;The Great;1.83;84;188;Orthodox;38;18;2;|
+1623;Julian Marquez;The Cuban Missle Crisis;1.88;84;190;Orthodox;5;1;0;|
+1624;Carmelo Marrero;The Fury;1.83;93;185;Orthodox;14;5;0;|
+1625;Cesar Marscucci;;;;;;2;2;0;|
+1626;John Marsh;;1.83;120;;Orthodox;8;7;0;|
+1627;CJ Marsh;;;;;;5;1;0;|
+1628;Eliot Marshall;Fire;1.88;93;196;Orthodox;10;4;0;|
+1629;Doug Marshall;The Rhino;1.78;93;;Orthodox;13;5;0;|
+1630;David Marshall;;1.88;77;;;8;3;0;|
+1631;Jack Marshman;The Hammer;1.83;84;185;Orthodox;22;6;0;|
+1632;Terry Martin;;1.73;84;180;Orthodox;22;9;0;|
+1633;Eric Martin;;;;;;0;1;0;|
+1634;Justin Martin;;1.83;84;;;4;3;0;|
+1635;Dave Martin;;1.83;93;;;0;2;0;|
+1636;Joe Martin;;1.75;77;;;6;8;0;|
+1637;Tony Martin;;1.83;70;185;Orthodox;12;4;0;|
+1638;Rainy Martinez;;1.83;90;;Orthodox;0;2;0;|
+1639;Danny Martinez;The Gremlin;1.68;57;170;Orthodox;18;7;0;|
+1640;Alonzo Martinez;Zo Diddy;1.78;70;;;35;16;1;|
+1641;Henry Martinez;Sicario;1.7;70;173;Southpaw;9;3;0;|
+1642;Wagner da Conceicao Martins;Zuluzinho;2.01;177;;Orthodox;8;7;0;|
+1643;Adriano Martins;;1.78;70;183;Southpaw;28;9;0;|
+1644;Lucas Martins;Mineiro;1.83;66;183;Southpaw;16;3;0;|
+1645;Max Martyniouk;Payne;;70;;;1;1;0;|
+1646;Bristol Marunde;;1.85;77;180;Orthodox;12;9;0;|
+1647;Shoji Maruyama;;1.7;63;;Orthodox;10;7;1;|
+1648;Mike Massenzio;The Master of Disaster;1.88;84;185;Southpaw;13;6;0;|
+1649;Jameel Massouh;;1.78;66;183;Orthodox;26;9;0;|
+1650;Tiffany Masters;Rainbow Renegade;1.6;52;165;Orthodox;2;1;0;|
+1651;Jorge Masvidal;Gamebred;1.8;77;188;Orthodox;32;12;0;|
+1652;Tateki Matsuda;Tech;1.7;57;165;Orthodox;10;7;0;|
+1653;Daijiro Matsui;;1.75;91;;Orthodox;12;24;5;|
+1654;Koichiro Matsumoto;;1.7;66;;;15;3;1;|
+1655;Naoki Matsushita;;1.68;70;;Orthodox;12;15;11;|
+1656;AJ Matthews;;1.8;84;;;6;1;0;|
+1657;Jake Matthews;The Celtic Kid;1.75;70;183;Orthodox;11;3;0;|
+1658;Claudio Mattos;Popeye;;84;;Orthodox;5;4;0;|
+1659;John Matua;;1.88;181;;Orthodox;1;4;0;|
+1660;Francesco Maturi;;;;;;0;1;0;|
+1661;Vladimir Matyushenko;The Janitor;1.83;93;188;Orthodox;26;7;0;|
+1662;Elaina Maxwell;Beef;1.73;66;;Orthodox;6;4;0;|
+1663;Jeremy May;;1.85;84;;;9;8;0;|
+1664;Jack May;The Outlaw;2.03;116;201;Switch;7;2;0;|
+1665;Don'Tale Mayes;King Kong;1.98;118;208;Orthodox;3;1;0;|
+1666;Gray Maynard;;1.75;66;178;Orthodox;14;7;1;|
+1667;Brooke Mayo;The Bully;1.7;57;;;0;1;0;|
+1668;Gina Mazany;Danger;1.68;61;173;Southpaw;4;1;0;|
+1669;Scott McAfee;;1.73;70;;Orthodox;10;4;0;|
+1670;Bobby McAndrews;;;;;Orthodox;1;3;0;|
+1671;Michael McBride;;1.85;70;190;Orthodox;8;3;0;|
+1672;Ian McCall;Uncle Creepy;1.65;57;163;Orthodox;13;5;1;|
+1673;Charles McCarthy;Chainsaw;1.78;84;180;Orthodox;10;5;0;|
+1674;Sean McCorkle;;2.01;120;206;Orthodox;13;2;0;|
+1675;Kris McCray;Savage;1.83;77;193;Orthodox;6;3;0;|
+1676;Tamdan McCrory;The Barncat;1.93;84;198;Switch;14;5;0;|
+1677;Rob McCullough;Razor;1.75;70;175;Orthodox;19;8;0;|
+1678;Justin McCully;The Insane One;1.85;102;185;Orthodox;10;5;2;|
+1679;Bubba McDaniel;The Menace;1.91;84;190;Southpaw;21;8;0;|
+1680;Michael McDonald;The Black Sniper;1.8;93;;Orthodox;1;1;0;|
+1681;Scott McDonald;;;;;;1;0;0;|
+1682;Michael McDonald;Mayday;1.75;61;178;Orthodox;17;4;0;|
+1683;Josh McDonald;;;84;;;8;4;0;|
+1684;Miles McDonald;;1.7;52;;;2;1;0;|
+1685;Justin McElfresh;;1.98;93;;Orthodox;6;4;0;|
+1686;Drew McFedries;The Massacre;1.83;84;183;Southpaw;10;6;0;|
+1687;Liam McGeary;;1.98;93;;;12;2;0;|
+1688;Gan McGee;The Giant;2.08;120;;Orthodox;13;5;0;|
+1689;Court McGee;The Crusher;1.8;77;190;Orthodox;19;6;0;|
+1690;Kelly Velasco;Killer;1.75;61;;Orthodox;2;1;0;|
+1691;Ryan McGillivray;The Kid;1.8;77;;;11;5;1;|
+1692;Ryan McGivern;;1.83;84;;Orthodox;13;7;0;|
+1693;Jack McGlaughlin;;;;;Orthodox;1;4;0;|
+1694;Conor McGregor;The Notorious;1.75;77;188;Southpaw;21;3;0;Champion Belt|
+1695;Greg McIntyre;;1.78;70;;Orthodox;6;4;0;|
+1696;Antonio McKee;Mandingo;1.73;70;;Southpaw;26;5;2;|
+1697;AJ McKee;Mercenary;1.78;66;;;8;0;0;|
+1698;Tim McKenzie;;1.83;84;188;Orthodox;13;8;0;|
+1699;Cody McKenzie;;1.83;70;183;Switch;14;4;0;|
+1700;Brian McLaughlin;;1.75;70;;;6;2;0;|
+1701;Jason McLean;;1.65;66;;;6;4;0;|
+1702;Garreth McLellan;Soldier Boy;1.85;84;183;Southpaw;13;6;0;|
+1703;Sara McMann;;1.68;61;168;Orthodox;11;4;0;|
+1704;James McSweeney;The Hammer;1.93;104;196;Switch;6;9;0;|
+1705;Charles McTorry;;;;;;2;0;0;|
+1706;Daniel McWilliams;The Animal;1.85;84;;;9;19;0;|
+1707;Tim Means;The Dirty Bird;1.88;77;190;Orthodox;27;8;1;|
+1708;Yancy Medeiros;The Kid;1.78;70;190;Orthodox;14;4;0;|
+1709;Anistavio Medeiros;Gasparzinho;1.68;66;;Orthodox;15;8;0;|
+1710;Kaline Medeiros;The Dark Angel;1.6;52;;;8;5;0;|
+1711;Todd Medina;El Tiburon;1.78;88;;Southpaw;11;9;0;|
+1712;Jason Medina;;1.75;82;;;21;13;1;|
+1713;Gerald Meerschaert;GM3;1.85;84;196;Southpaw;26;9;0;|
+1714;Frank Megallon;;1.78;84;;Southpaw;2;3;0;|
+1715;Derrick Mehmen;Caveman;1.93;93;;;12;4;0;|
+1716;Miika Mehmet;;;93;;Orthodox;3;4;0;|
+1717;Jordan Mein;Young Gun;1.83;77;185;Orthodox;29;12;0;|
+1718;Bryce Mejia;;1.85;77;;;3;1;0;|
+1719;Brian Melancon;;1.73;77;183;Orthodox;7;3;0;|
+1720;Brandon Melendez;The Murderer;1.8;70;;Southpaw;26;21;0;|
+1721;Gilbert Melendez;El Nino;1.75;66;185;Orthodox;22;7;0;|
+1722;Marcelo Mello;;1.7;77;;Southpaw;1;0;0;|
+1723;Fabio Mello;;1.65;70;;Southpaw;8;6;0;|
+1724;Antonio Mendes;Samurai;1.91;93;196;Southpaw;17;10;0;|
+1725;Chad Mendes;Money;1.68;66;168;Orthodox;17;4;0;|
+1726;Augusto Mendes;Tanquinho;1.68;61;165;Orthodox;6;2;0;|
+1727;Eddie Mendez;;1.78;84;193;;7;2;1;|
+1728;Luis Mendoza;;;70;;;0;1;0;|
+1729;Alonzo Menifield;;1.83;93;193;Orthodox;3;0;0;|
+1730;Ivan Menjivar;The Pride of El Salvador;1.68;66;163;Orthodox;25;12;0;|
+1731;Dave Menne;The Warrior;1.78;77;;Orthodox;44;16;2;|
+1732;Steve Mensing;The Machine;1.8;84;;Orthodox;7;11;2;|
+1733;Buck Meredith;;1.88;84;;;3;3;0;|
+1734;Adam Meredith;;1.88;77;;;3;1;0;|
+1735;Joe Merritt;Joey Slash;1.83;77;185;Orthodox;6;1;0;|
+1736;Jeremiah Metcalf;;1.85;84;;Orthodox;13;7;0;|
+1737;Jonathan Meunier;The French Spider;1.91;77;190;Switch;8;1;0;|
+1738;Yaotzin Meza;;1.75;66;188;Orthodox;21;11;0;|
+1739;Guy Mezger;;1.85;91;;Orthodox;30;14;2;|
+1740;Brandon Michaels;;1.75;84;;;1;4;0;|
+1741;David Michaud;BullDawg;1.75;70;183;Orthodox;8;2;0;|
+1742;Chris Mickle;;1.75;66;;Orthodox;28;16;2;|
+1743;Zachary Micklewright;;1.83;70;188;Southpaw;11;3;0;|
+1744;Kristof Midoux;The Hurricane;1.85;100;;Orthodox;6;10;0;|
+1745;Keith Mielke;;1.73;84;;;0;5;0;|
+1746;Chris Mierzwiak;;1.85;84;;;3;1;0;|
+1747;Gabriel Miglioli;Biel;1.73;77;;;9;9;0;|
+1748;Bojan Mihajlovic;;1.8;93;185;Orthodox;10;6;0;|
+1749;Billy Miles;The Kid;1.78;77;;Orthodox;2;2;0;|
+1750;Pat Miletich;The Croatian Sensation;1.78;77;;Orthodox;29;7;2;|
+1751;Curtis Millender;Curtious;1.88;77;;;11;3;0;|
+1752;Phillip Miller;;1.8;84;;Orthodox;16;0;0;|
+1753;Jason Miller;Mayhem;1.85;84;183;Orthodox;34;10;0;|
+1754;Dan Miller;;1.85;84;188;Orthodox;14;8;0;|
+1755;Jim Miller;A-10;1.73;70;180;Southpaw;28;10;0;|
+1756;Cole Miller;Magrinho;1.85;66;188;Orthodox;21;11;0;|
+1757;Henry Miller;Sentoryu;1.7;122;;Southpaw;6;13;0;|
+1758;Micah Miller;Maverick;1.83;66;;Orthodox;17;4;0;|
+1759;Aaron Miller;Blood Spiller;1.75;66;;;14;10;0;|
+1760;Eddy Millis;;1.85;84;;;0;2;0;|
+1761;Che Mills;Beautiful;1.85;77;193;Orthodox;15;5;0;|
+1762;Adam Milstead;The Prototype;1.91;109;193;Orthodox;8;1;0;|
+1763;Alberto Mina;Soldier of God;1.83;77;196;Orthodox;13;0;0;|
+1764;Vitaly Minakov;;1.88;113;;;20;0;0;|
+1765;Mike Minniger;;;;;;0;0;0;|
+1766;Ikuhisa Minowa;Minowaman;1.75;82;;Orthodox;51;32;8;|
+1767;Stipe Miocic;;1.93;109;203;Orthodox;17;2;0;Champion Belt|
+1768;Frank Mir;;1.91;120;201;Southpaw;18;11;0;|
+1769;Juan Miranda;;;70;;;7;4;0;|
+1770;Mario Miranda;;1.91;84;188;Orthodox;12;3;0;|
+1771;Vitor Miranda;Lex Luthor;1.85;84;196;Orthodox;13;6;0;|
+1772;Damir Mirenic;Wolf;1.83;84;;Orthodox;8;4;0;|
+1773;Kazuo Misaki;Hitman;1.73;83;;Orthodox;24;11;2;|
+1774;Dokonjonosuke Mishima;;1.7;70;;Southpaw;20;7;2;|
+1775;Felix Lee Mitchell;;;;;Orthodox;2;7;0;|
+1776;David Mitchell;Daudi;1.83;77;193;Orthodox;12;4;0;|
+1777;Danny Mitchell;The Cheesecake Assassin;1.88;77;188;Orthodox;14;6;1;|
+1778;Brad Mitchell;;1.8;66;;;4;2;0;|
+1779;Clay Mitchell;;1.88;84;;;1;2;0;|
+1780;Roman Mitichyan;;1.78;77;;Orthodox;7;3;0;|
+1781;Matt Mitrione;;1.91;120;201;Switch;9;5;0;|
+1782;Eiji Mitsuoka;;1.7;66;;Southpaw;18;9;2;|
+1783;Hiromitsu Miura;;1.75;77;180;Orthodox;9;6;0;|
+1784;Tomoya Miyashita;;1.7;63;;Southpaw;17;9;7;|
+1785;Kazuyuki Miyata;;1.73;63;;Orthodox;11;8;0;|
+1786;Motoki Miyazawa;;1.8;76;;Southpaw;7;3;0;|
+1787;Takeya Mizugaki;;1.7;61;173;Orthodox;21;11;2;|
+1788;Tatsuya Mizuno;;1.85;93;;Southpaw;10;7;1;|
+1789;Roxanne Modafferi;The Happy Warrior;1.68;61;;;15;11;0;|
+1790;Bronson Mohika;;;61;;;1;1;0;|
+1791;Nate Mohr;;1.75;70;183;Orthodox;9;7;0;|
+1792;Ashkan Mokhtarian;The Assassin;1.68;57;170;Southpaw;13;2;0;|
+1793;Rudyard Moncayo;;1.78;88;;Orthodox;0;3;0;|
+1794;Hidetaka Monma;;1.83;76;;Orthodox;17;10;4;|
+1795;Jeff Monson;The Snowman;1.75;112;188;Orthodox;43;12;1;|
+1796;Darrell Montague;Mongoose;1.68;57;170;Southpaw;13;5;0;|
+1797;Andrew Montanez;;;84;;;9;12;1;|
+1798;Augusto Montano;Dodger;1.85;77;185;Orthodox;15;3;0;|
+1799;Erick Montano;Perry;1.83;77;185;Orthodox;8;5;0;|
+1800;Steve Montgomery;The Creepy Weasel;1.93;84;190;Southpaw;8;4;0;|
+1801;James Moontasri;Moon Walker;1.78;77;180;Switch;9;5;0;|
+1802;Homer Moore;The Rock;1.78;93;;Orthodox;25;9;2;|
+1803;Todd Moore;;1.75;77;180;Southpaw;14;5;0;|
+1804;Nate Moore;;1.83;77;;;7;3;0;|
+1805;Dustin Moore;;1.63;57;;;0;2;0;|
+1806;Sergio Moraes;The Panther;1.83;77;183;Orthodox;12;4;1;|
+1807;Marlon Moraes;Magic;1.68;61;170;Orthodox;18;5;1;|
+1808;John Moraga;Chicano;1.68;57;168;Orthodox;18;6;0;|
+1809;Ricardo Morais;The Mutant;2.03;122;;Orthodox;10;4;1;|
+1810;Leonardo Morales;Chimy;1.73;61;173;Southpaw;5;2;0;|
+1811;Albert Morales;The Warrior;1.75;61;183;Orthodox;7;2;1;|
+1812;Joseph Morales;;1.68;57;175;Switch;9;0;0;|
+1813;Sarah Moras;Cheesecake;1.7;61;170;;5;3;0;|
+1814;Christian Morecraft;;1.98;118;206;Orthodox;7;3;0;|
+1815;Joe Moreira;;1.8;88;;Southpaw;2;2;0;|
+1816;Richardson Moreira;Rick Monstro;1.88;84;183;Orthodox;7;4;0;|
+1817;Jesse Moreng;Arturo;1.7;66;;Orthodox;9;1;0;|
+1818;Brandon Moreno;The Assassin Baby;1.7;57;178;Orthodox;14;4;0;|
+1819;Sammy Morgan;The Squeeze;1.78;77;;Orthodox;18;12;0;|
+1820;Peggy Morgan;The Daywalker;1.85;61;178;;2;1;0;|
+1821;Alex Morono;The Great White;1.8;77;183;Orthodox;13;4;0;|
+1822;Maryna Moroz;Iron Lady;1.7;52;170;Orthodox;8;2;0;|
+1823;Brad Morris;;1.88;93;;Orthodox;10;6;0;|
+1824;Scott Morris;;1.78;95;;Orthodox;2;1;0;|
+1825;Anthony Morrison;Cheesesteak;1.7;66;;Orthodox;16;10;0;|
+1826;Jack Morrison;;1.8;93;;;0;3;0;|
+1827;Harry Moskowitz;Dirty;1.96;125;;Orthodox;6;12;0;|
+1828;Juan Mott;;1.83;86;;Switch;3;4;0;|
+1829;Flavio Luiz Moura;;1.8;83;;Open;17;7;0;|
+1830;Gegard Mousasi;;1.88;84;193;Orthodox;42;6;2;|
+1831;Kin Moy;Kong;1.65;61;;;8;3;0;|
+1832;Jamie Moyle;;1.55;52;165;Orthodox;4;2;0;|
+1833;Garrett Mueller;;1.75;61;;;3;3;0;|
+1834;Lauren Mueller;Princess Tiger;1.65;61;;Orthodox;3;0;0;|
+1835;Belal Muhammad;Remember the Name;1.8;77;183;Orthodox;12;2;0;|
+1836;Fazlo Mulabitinovic;;;61;;;4;2;0;|
+1837;Quinn Mulhern;;1.91;70;193;Orthodox;18;4;0;|
+1838;James Mulheron;The Juggernaut;1.78;110;185;Orthodox;11;2;0;|
+1839;Jim Mullen;;1.85;98;;Southpaw;0;2;0;|
+1840;Pedro Munhoz;The Young Punisher;1.68;61;163;Orthodox;14;2;0;|
+1841;Mark Munoz;The Filipino Wrecking Machine;1.83;84;183;Orthodox;14;6;0;|
+1842;Andy Murad;The Tooth Fairy;1.75;84;;;15;2;0;|
+1843;Kazunari Murakami;;1.85;100;;Orthodox;5;5;0;|
+1844;Ryuichi Murata;;1.73;83;;Orthodox;8;3;1;|
+1845;Tom Murphy;;1.88;103;;Southpaw;8;0;0;|
+1846;Ian Murphy;;1.85;84;;Orthodox;1;1;0;|
+1847;Jon Murphy;Man of Faith;1.91;118;;Orthodox;6;4;0;|
+1848;Lauren Murphy;Lucky;1.7;61;170;Orthodox;9;3;0;|
+1849;Lee Murray;Lightning;1.91;84;;Orthodox;8;2;1;|
+1850;Azamat Murzakanov;The Professional;1.8;93;;;7;0;0;|
+1851;Nico Musoke;Nico;1.83;77;190;Orthodox;13;5;0;|
+1852;Andre Mussi;;1.91;110;;Orthodox;10;5;0;|
+1853;Magomed Mustafaev;;1.73;70;180;Orthodox;13;2;0;|
+1854;Elvis Mutapcic;The King;1.83;84;183;Orthodox;15;5;1;|
+1855;Fiona Muxlow;;1.63;66;;;6;2;0;|
+1856;Ho Bae Myeon;;1.8;76;;Orthodox;12;5;1;|
+1857;Katsuhiko Nagata;;1.7;70;;Southpaw;6;7;2;|
+1858;Yuji Nagata;;1.83;102;;Orthodox;0;2;0;|
+1859;Greg Nagy;;1.85;95;;Orthodox;1;3;0;|
+1860;Logan Nail;;;84;;;1;1;0;|
+1861;Yukiya Naito;;1.85;93;;Orthodox;15;6;2;|
+1862;Andrews Nakahara;;1.85;84;;Orthodox;3;2;2;|
+1863;Rin Nakai;;1.55;61;152;Orthodox;16;2;1;|
+1864;Kazuhiro Nakamura;Kaz;1.8;93;178;Orthodox;15;11;0;|
+1865;Keita Nakamura;K-Taro;1.8;77;185;Southpaw;33;8;2;|
+1866;Daisuke Nakamura;;1.7;70;;Orthodox;24;13;1;|
+1867;Yusaku Nakamura;;1.65;66;;;3;2;1;|
+1868;Jutaro Nakao;;1.75;77;;Southpaw;23;17;4;|
+1869;Yoshihiro Nakao;Kiss;1.83;100;;Southpaw;9;3;0;|
+1870;Yui Chul Nam;The Korean Bulldozer;1.75;66;175;Orthodox;18;6;1;|
+1871;Rose Namajunas;Thug;1.65;52;165;Orthodox;7;3;0;|
+1872;Yasuhito Namekawa;;1.75;93;;Orthodox;25;16;4;|
+1873;Roger Narvaez;Silverback;1.91;84;201;Southpaw;7;2;0;|
+1874;Fabio Nascimento;Negao;1.78;84;;Orthodox;11;5;0;|
+1875;Bobby Nash;Nashty;1.83;77;188;Orthodox;8;3;0;|
+1876;Reza Nasri;;1.8;93;;Orthodox;2;1;0;|
+1877;Pawel Nastula;;1.83;104;;Southpaw;4;4;0;|
+1878;Rafael Natal;Sapo;1.83;84;193;Orthodox;21;9;1;|
+1879;Danny Navarro;;1.78;70;;;17;7;0;|
+1880;Marcio Navarro;The Locomotive;1.83;70;;;14;14;0;|
+1881;Dustin Neace;The Beast;1.75;66;;;23;18;1;|
+1882;Josh Neal;;1.83;84;;;5;11;0;|
+1883;Joe Neal;Nine Lives;1.68;61;;;6;2;0;|
+1884;Geoff Neal;Handz of Steel;1.8;84;193;Southpaw;7;2;0;|
+1885;Stanislav Nedkov;Stucky;1.8;93;180;Orthodox;12;2;0;|
+1886;Josh Neer;The Dentist;1.8;77;183;Orthodox;33;13;1;|
+1887;Steve Nelmark;The Sandman;1.83;109;;Orthodox;2;1;0;|
+1888;Shane Nelson;Sugar;1.75;70;178;Southpaw;15;5;0;|
+1889;Roy Nelson;Big Country;1.83;119;183;Orthodox;23;14;0;|
+1890;Gunnar Nelson;Gunni;1.8;77;183;Switch;16;3;1;|
+1891;Lissette Neri;;1.57;66;;;6;4;0;|
+1892;Mario Neto;Sukata;1.83;104;;Orthodox;11;5;0;|
+1893;Antonio Braga Neto;;1.91;84;196;Orthodox;9;2;0;|
+1894;Julio Cesar Neves Jr.;Morceguinho;1.73;66;;;33;1;0;|
+1895;Jeff Newton;;1.88;93;;Sideways;4;2;0;|
+1896;Carlos Newton;The Ronin;1.75;77;;Orthodox;16;14;0;|
+1897;Emanuel Newton;The Hardcore Kid;1.85;93;;;26;12;1;|
+1898;Francis Ngannou;The Predator;1.93;113;211;Orthodox;10;1;0;|
+1899;Ben Nguyen;Ten;1.65;57;165;Switch;17;6;0;|
+1900;Alex Nicholson;The Spartan;1.93;84;206;Orthodox;7;4;0;|
+1901;Mike Nickels;;1.93;93;;Orthodox;9;5;0;|
+1902;Matheus Nicolau;;1.68;57;168;;12;2;1;|
+1903;Khomkrit Niimi;The Bumblebee;1.57;57;;;6;10;0;|
+1904;Tom Niinimaki;Stoneface;1.75;66;175;Orthodox;21;8;1;|
+1905;Ramsey Nijem;;1.8;70;190;Orthodox;10;6;0;|
+1906;Hans Nijman;;1.83;113;;Switch;9;6;0;|
+1907;Jack Nilson;;;;;;2;6;0;|
+1908;Mats Nilsson;;1.85;77;188;Orthodox;11;4;1;|
+1909;Ning Guangyou;Smasher;1.63;66;163;Southpaw;6;4;1;|
+1910;Soichi Nishida;;1.8;145;;Orthodox;5;10;1;|
+1911;Yosuke Nishijima;;1.75;93;;Orthodox;0;5;0;|
+1912;Akiyo Nishiura;Wicky Akiyo;1.73;63;;Southpaw;11;7;1;|
+1913;Anthony Njokuani;The Assassin;1.85;70;190;Orthodox;16;9;0;|
+1914;Chidi Njokuani;Chidi Bang Bang;1.91;77;;;17;4;0;|
+1915;Derrick Noble;The Eraser;1.75;77;;Southpaw;26;15;1;|
+1916;Pedro Nobre;The Rock;1.65;61;;;14;1;2;|
+1917;Jacob Noe;Psycho;;93;;;5;1;0;|
+1918;Minotauro Nogueira;Minotauro;1.91;109;196;Orthodox;34;10;1;|
+1919;Rogerio Nogueira;Minotouro;1.88;93;190;Southpaw;22;8;0;|
+1920;Alexandre Franca Nogueira;Pequeno;1.7;66;;Orthodox;13;6;2;|
+1921;Talita Nogueira;Treta;1.78;66;;;6;0;0;|
+1922;Kyle Noke;;1.85;77;193;Southpaw;22;10;1;|
+1923;Nick Nolte;;1.83;77;;;5;3;0;|
+1924;KJ Noons;King;1.78;70;183;Orthodox;12;8;0;|
+1925;Sage Northcutt;Super;1.83;77;180;Orthodox;8;2;0;|
+1926;Jan Nortje;The Giant;1.85;141;;Southpaw;2;6;0;|
+1927;Scott Norton;Hollywood;1.78;77;;Orthodox;7;1;0;|
+1928;Jonatas Novaes;;1.8;77;;;9;3;0;|
+1929;Jason Novelli;Pepsi;1.83;70;190;Orthodox;11;3;1;|
+1930;Phillipe Nover;The Filipino Assassin;1.75;66;183;Orthodox;12;8;1;|
+1931;Diego Nunes;The Gun;1.68;66;170;Orthodox;18;4;0;|
+1932;Amanda Nunes;Lioness;1.73;61;175;Orthodox;15;4;0;Champion Belt|
+1933;Khabib Nurmagomedov;The Eagle;1.78;70;178;Orthodox;24;0;0;|
+1934;Kennedy Nzechukwu;African Savage;1.96;93;208;Southpaw;2;0;0;|
+1935;Jake O'Brien;Irish;1.91;93;193;Orthodox;13;4;0;|
+1936;TJ O'Brien;The Spider;1.88;70;;Orthodox;16;5;0;|
+1937;Sean O'Connell;The Real OC;1.85;93;188;Orthodox;17;9;0;|
+1938;Dan O'Connor;Johnny Irish;1.63;52;;;6;6;0;|
+1939;Sean O'Haire;;1.96;122;;Orthodox;4;2;0;|
+1940;Sean O'Malley;Sugar;1.8;61;183;Switch;7;0;0;|
+1941;Jeremiah O'Neal;;1.73;118;;;13;25;0;|
+1942;Chuck O'Neil;Cold Steel;1.88;77;;;9;4;0;|
+1943;Brendan O'Reilly;Badger;1.7;77;175;Orthodox;6;3;0;|
+1944;Takahiro Oba;;1.73;91;;Southpaw;5;7;1;|
+1945;Nobuhiro Obiya;;1.73;66;;Orthodox;12;5;1;|
+1946;Richard Odoms;The Black Eagle;1.96;120;208;Orthodox;8;1;0;|
+1947;Volkan Oezdemir;No Time;1.88;93;190;Orthodox;15;1;0;|
+1948;Naoya Ogawa;;1.93;116;;Orthodox;7;2;0;|
+1949;Andy Ogle;The Little Axe;1.73;66;175;Orthodox;9;6;0;|
+1950;Michiyoshi Ohara;;1.78;93;;Orthodox;0;2;0;|
+1951;Koji Oishi;;1.73;77;;Orthodox;21;8;8;|
+1952;Takayuki Okada;Giant Ochiai;1.85;132;;Orthodox;3;3;2;|
+1953;Yushin Okami;Thunder;1.88;93;190;Southpaw;34;11;0;|
+1954;JJ Okanovich;The Bosnian Bomber;1.8;70;;;4;1;0;|
+1955;Kazuki Okubo;;1.8;79;;Orthodox;7;9;0;|
+1956;Masakatsu Okuda;;;;;;8;5;0;|
+1957;Aleksei Oleinik;The Boa Constrictor;1.88;109;203;Orthodox;52;10;1;|
+1958;Michael Oleksiejczuk;Lord;1.83;93;;;12;2;0;|
+1959;Rafaello Oliveira;Tractor;1.73;70;180;Orthodox;15;7;0;|
+1960;Charles Oliveira;Do Bronx;1.78;70;188;Orthodox;22;7;0;|
+1961;Jorge Oliveira;;1.85;93;;;5;2;1;|
+1962;Ednaldo Oliveira;Lula;1.96;93;201;Orthodox;13;2;1;|
+1963;Alex Oliveira;Cowboy;1.8;77;193;Orthodox;17;3;1;|
+1964;Wendell Oliveira;The Machine;1.78;77;183;Orthodox;24;9;0;|
+1965;Felipe Olivieri;;1.75;70;183;Orthodox;14;5;0;|
+1966;Andy Ologun;;1.83;70;;Orthodox;3;1;0;|
+1967;Shana Olsen;Rock Solid;1.7;66;;;4;2;0;|
+1968;Casey Olson;The Underdog;1.7;66;;Orthodox;12;3;0;|
+1969;Dennis Olson;;1.83;77;;;14;11;0;|
+1970;Cameron Olson;Cap'n Crunch;1.85;93;190;Orthodox;7;3;0;|
+1971;Alan Omer;;1.78;66;180;Orthodox;18;5;0;|
+1972;Daniel Omielanczuk;;1.83;112;188;Southpaw;19;8;1;|
+1973;Michihiro Omigawa;;1.68;66;173;Orthodox;13;13;1;|
+1974;Charlie Ontiveros;The American Bad Boy;1.88;77;;;8;5;0;|
+1975;Sam Oropeza;;1.88;77;;;5;2;0;|
+1976;Brian Ortega;T-City;1.73;66;175;Switch;12;0;0;|
+1977;Tito Ortiz;The People's Champ;1.91;93;188;Orthodox;17;11;1;|
+1978;Jorge Ortiz;The Naked Man;1.83;84;;Orthodox;16;9;1;|
+1979;Dustin Ortiz;;1.65;57;165;Orthodox;17;7;0;|
+1980;Kenji Osawa;;1.7;61;168;Orthodox;18;10;2;|
+1981;Kurt Osiander;;;84;;;4;1;0;|
+1982;Nick Osipczak;;1.88;77;193;Orthodox;5;3;0;|
+1983;Nissen Osterneck;;1.88;84;;Orthodox;9;3;0;|
+1984;Pedro Otavio;Te Pedro;1.91;111;;Orthodox;19;8;0;|
+1985;Alexander Otsuka;The Diet Butcher;1.85;93;;Orthodox;4;13;0;|
+1986;Takafumi Otsuka;;1.68;63;;Orthodox;12;9;1;|
+1987;Zak Ottow;The Barbarian;1.8;77;183;Orthodox;15;4;0;|
+1988;Artur Oumakhanov;;1.7;70;;Orthodox;9;6;0;|
+1989;Sidney Outlaw;Da Gun;1.73;77;188;Orthodox;8;4;0;|
+1990;Alistair Overeem;The Reem;1.93;120;203;Orthodox;43;15;0;|
+1991;Valentijn Overeem;;1.91;104;;Orthodox;29;26;0;|
+1992;Craig Oxley;;1.75;70;;;0;3;0;|
+1993;Shungo Oyama;;1.8;84;;Southpaw;10;13;0;|
+1994;Alptekin Ozkilic;The Turkish Delight;1.65;57;165;Orthodox;9;4;0;|
+1995;Raquel Pa'aluhi;Rocky;1.7;61;;;3;4;0;|
+1996;Nick Pace;;1.7;61;173;Orthodox;6;3;0;|
+1997;Larissa Pacheco;;1.7;61;175;Orthodox;10;2;0;|
+1998;Teemu Packalen;Pacu;1.85;70;183;Orthodox;8;2;0;|
+1999;George Pacurariu;Constantine;1.7;61;;;10;5;0;|
+2000;Cyrillo Padilha;;1.8;70;;;3;3;0;|
+2001;Gary Padilla;;1.8;93;;;12;6;0;|
+2002;Damacio Page;The Angel of Death;1.68;61;168;Orthodox;12;8;0;|
+2003;Michael Page;Venom;1.88;77;;;12;0;0;|
+2004;Dustin Pague;The Disciple;1.75;61;188;Orthodox;11;10;0;|
+2005;Josh Paiva;;1.68;57;;;8;2;0;|
+2006;Fredson Paixao;;1.68;66;168;Orthodox;10;4;0;|
+2007;Jose Palacios;;1.75;66;;Orthodox;3;2;0;|
+2008;Bart Palaszewski;Bartimus;1.75;66;178;Orthodox;35;17;0;|
+2009;Soa Palelei;The Hulk;1.93;120;206;Orthodox;22;5;0;|
+2010;Rousimar Palhares;Toquinho;1.73;77;180;Orthodox;24;5;0;|
+2011;Tulio Palhares;;;82;;;2;14;0;|
+2012;Stephen Palling;Bozo;1.63;65;;;11;7;1;|
+2013;Eduardo Pamplona;;1.8;77;;;15;3;0;|
+2014;Alexandre Pantoja;The Cannibal;1.65;57;170;Orthodox;18;2;0;|
+2015;Jared Papazian;The Jackhammer;1.73;61;170;Southpaw;14;9;0;|
+2016;Joe Pardo;;1.85;95;;Southpaw;4;6;0;|
+2017;Bryan Pardoe;Pain Inducer;1.85;93;;Orthodox;12;16;0;|
+2018;Remco Pardoel;Grizzly;1.91;118;;Southpaw;9;6;1;|
+2019;Ido Pariente;;1.73;70;;Orthodox;12;5;0;|
+2020;Karo Parisyan;The Heat;1.78;77;183;Orthodox;19;8;0;|
+2021;Won Sik Park;Parky;1.8;70;;Orthodox;9;3;1;|
+2022;Norman Parke;Stormin';1.8;70;178;;22;5;1;|
+2023;Ryan Parker;;1.91;107;;Southpaw;0;1;0;|
+2024;Larry Parker;;1.8;93;;Orthodox;13;6;1;|
+2025;Tyra Parker;;1.65;52;;Orthodox;1;2;0;|
+2026;Willie Parks;Slick;1.78;84;;;4;1;0;|
+2027;Jordan Parsons;Pretty Boy;1.75;66;;;11;2;0;|
+2028;Onassis Parungao;;1.8;91;;;2;1;0;|
+2029;Jorge Patino;Macaco;1.73;77;;Orthodox;25;13;1;|
+2030;Russell Patrick;;1.75;66;;;6;4;0;|
+2031;Claude Patrick;The Prince;1.8;77;190;Orthodox;14;2;0;|
+2032;Alan Patrick;Nuguette;1.8;70;188;Southpaw;14;1;0;|
+2033;Michael Patt;;1.83;93;;Orthodox;12;4;0;|
+2034;Justin Patterson;The Tactician;1.78;77;;;9;3;0;|
+2035;Julio Paulino;The Dominican Demon;1.83;77;;Orthodox;17;4;0;|
+2036;Pawel Pawlak;;1.83;77;185;Orthodox;11;2;0;|
+2037;Estevan Payan;El Terrible;1.78;66;183;Orthodox;14;6;0;|
+2038;Sarah Payant;Soulja;1.63;52;;;1;4;0;|
+2039;Roland Payne;;1.75;93;;Orthodox;0;1;0;|
+2040;Joe Pearson;The Triangular Strangler;1.78;66;;Orthodox;38;17;1;|
+2041;Ross Pearson;The Real Deal;1.73;70;175;Orthodox;21;14;0;|
+2042;Andre Pederneiras;;1.73;70;;Orthodox;1;1;2;|
+2043;Matt Pedro;;;;;;3;1;0;|
+2044;Tyson Pedro;;1.91;93;201;Orthodox;6;1;0;|
+2045;Willie Peeters;;1.75;100;;Orthodox;9;10;1;|
+2046;Filip Pejic;Nitro;1.73;61;178;Orthodox;10;2;1;|
+2047;Kurt Pellegrino;Batman;1.73;70;178;Orthodox;16;6;0;|
+2048;Yan Pellerin;Wild Thing;1.8;93;;Orthodox;9;13;0;|
+2049;Julianna Pena;The Venezuelan Vixen;1.68;61;175;;9;3;0;|
+2050;Sherman Pendergarst;The Tank;1.85;107;;Orthodox;11;18;0;|
+2051;Drew Pendleton;;;66;;;4;0;0;|
+2052;Cathal Pendred;The Punisher;1.85;77;190;Orthodox;17;5;1;|
+2053;BJ Penn;The Prodigy;1.75;66;178;Orthodox;16;12;2;|
+2054;Jessica Penne;;1.65;52;170;;12;6;0;|
+2055;Nick Penner;The Quiet Assassin;1.93;93;196;Southpaw;12;3;0;|
+2056;Justin Pennington;;1.63;;;;2;2;0;|
+2057;Raquel Pennington;Rocky;1.7;61;170;Orthodox;9;6;0;|
+2058;Jerron Peoples;;1.83;77;;;4;3;0;|
+2059;Godofredo Pepey;;1.7;66;185;Orthodox;14;5;0;|
+2060;Ray Perales;Relentless;1.78;77;;Orthodox;13;22;0;|
+2061;Robert Peralta;Problems;1.73;66;180;Orthodox;18;6;0;|
+2062;Viviane Pereira;Sucuri;1.55;52;160;Orthodox;13;0;0;|
+2063;Rolando Perez;;1.73;61;;Orthodox;6;5;2;|
+2064;Philip Perez;;1.65;70;;Southpaw;7;5;1;|
+2065;Erik Perez;Goyito;1.73;61;173;Orthodox;17;6;0;|
+2066;Alejandro Perez;Diablito;1.68;61;170;;19;6;1;|
+2067;Frankie Perez;;1.8;70;185;Orthodox;10;4;0;|
+2068;Jose Perez;;;;;;1;0;0;|
+2069;Alex Perez;;1.68;57;;Orthodox;18;4;0;|
+2070;Anthony Perosh;The Hippo;1.91;93;190;Orthodox;15;10;0;|
+2071;Thiago Perpetuo;Bodao;1.78;77;180;Orthodox;9;4;1;|
+2072;Hernani Perpetuo;;1.83;77;188;Orthodox;17;5;0;|
+2073;Mike Perry;Platinum;1.78;77;180;Orthodox;11;1;0;|
+2074;Viktor Pesta;;1.91;109;196;Orthodox;10;4;0;|
+2075;Leiticia Pestova;;1.68;61;;Orthodox;0;2;0;|
+2076;Tony Petarra;;1.8;89;;Orthodox;2;4;1;|
+2077;Tommy Petersen;;;70;;;2;3;0;|
+2078;Cory Peterson;LA Giant;2.11;181;;Orthodox;2;1;0;|
+2079;Steven Peterson;Ocho;1.78;61;175;Orthodox;15;5;0;|
+2080;Seth Petruzelli;The Silverback;1.83;93;193;Orthodox;14;6;0;|
+2081;Peter Petties;The Joker;1.8;66;183;Southpaw;5;3;0;|
+2082;Anthony Pettis;Showtime;1.78;70;183;Orthodox;20;6;0;|
+2083;Sergio Pettis;The Phenom;1.68;57;175;Orthodox;16;2;0;|
+2084;Forrest Petz;The Meat Cleaver;1.75;77;180;Orthodox;24;9;0;|
+2085;Dino Pezao;;;93;;Orthodox;1;2;0;|
+2086;Cody Pfister;The Fist;1.78;70;185;Orthodox;12;6;1;|
+2087;Nam Phan;;1.68;61;178;Orthodox;18;14;0;|
+2088;Costas Philippou;;1.8;84;185;Orthodox;13;5;0;|
+2089;Wayne Phillips;;;84;;;5;4;0;|
+2090;Dave Phillips;The Rockstar;1.83;84;;Orthodox;7;5;0;|
+2091;Aaron Phillips;The Model;1.75;61;178;Southpaw;8;2;0;|
+2092;Elizabeth Phillips;;1.68;61;165;Orthodox;5;4;0;|
+2093;John Phillips;;;93;;;21;6;0;|
+2094;Kyler Phillips;The Matrix;1.73;61;;Orthodox;4;0;0;|
+2095;Nick Pica;The Silverback;1.78;84;;;5;1;0;|
+2096;Adam Piccolotti;;1.8;70;;;9;0;0;|
+2097;Vinc Pichel;From Hell;1.78;70;183;Orthodox;10;1;0;|
+2098;Brad Pickett;One Punch;1.68;61;173;Orthodox;26;14;0;|
+2099;Jamie Pickett;;1.88;84;203;Southpaw;7;2;0;|
+2100;Oskar Piechota;Imadlo;1.83;84;193;Southpaw;10;0;1;|
+2101;Nick Piedmont;No Limit;1.78;66;;;12;7;1;|
+2102;Mike Pierce;;1.73;77;178;Orthodox;17;7;0;|
+2103;Joao Pierini;;1.85;70;;Switch;4;1;0;|
+2104;Sean Pierson;The Punisher;1.83;77;193;Southpaw;14;6;0;|
+2105;Daniel Pineda;The Pit;1.7;66;175;Orthodox;18;11;0;|
+2106;Dmitry Poberezhets;;1.91;108;;;24;5;1;|
+2107;Ross Pointon;The Gladiator;1.73;77;;Orthodox;6;13;0;|
+2108;Dustin Poirier;The Diamond;1.75;70;183;Southpaw;21;5;0;|
+2109;Igor Pokrajac;The Duke;1.83;93;193;Orthodox;28;13;0;|
+2110;John Polakowski;Buckets of Blood;1.78;70;;Orthodox;2;2;0;|
+2111;Brandon Polcare;;;57;;;1;1;0;|
+2112;Mike Polchlopek;Mike Barton;1.93;129;;Orthodox;1;1;0;|
+2113;Santiago Ponzinibbio;Gente Boa;1.83;77;185;Orthodox;25;3;0;|
+2114;Felipe Portela;Balboa;;77;;;7;1;0;|
+2115;Parker Porter;;;118;;;6;4;0;|
+2116;Ruan Potts;Fangzz;1.88;112;190;Orthodox;8;4;0;|
+2117;Devin Powell;;1.83;70;185;Orthodox;8;3;0;|
+2118;Wagner Prado;Caldeirao;1.83;93;188;Southpaw;8;2;0;|
+2119;Trevor Prangley;;1.85;84;190;Orthodox;23;8;1;|
+2120;Carlo Prater;Neo;1.8;70;183;Switch;30;12;1;|
+2121;Michel Prazeres;Tractor;1.68;70;170;Orthodox;23;2;0;|
+2122;Philip Preece;;1.73;93;;Orthodox;10;14;0;|
+2123;Dorian Price;;1.91;77;;Southpaw;8;4;0;|
+2124;Chris Price;The Exorcist;1.88;84;;Southpaw;18;3;0;|
+2125;Niko Price;The Hybrid;1.83;77;193;Orthodox;10;0;0;|
+2126;Shane Primm;;1.91;93;;Orthodox;6;5;0;|
+2127;Brent Primus;;1.78;70;;;8;0;0;|
+2128;Joe Proctor;;1.78;70;183;Orthodox;11;5;0;|
+2129;Cole Province;;1.75;66;173;Orthodox;6;2;0;|
+2130;Daniel Puder;;1.91;107;;Orthodox;8;0;0;|
+2131;Lucie Pudilova;Bullet;1.73;61;170;Orthodox;7;2;0;|
+2132;Claudio Puelles;El Nino;1.8;70;183;Southpaw;8;2;0;|
+2133;Bubba Pugh;;1.78;84;;;3;3;0;|
+2134;Juan Puig;Fenix;1.75;66;183;Orthodox;11;4;0;|
+2135;Hugh Pulley;;1.83;70;;;6;3;0;|
+2136;Josh Pulsifer;The Platypus;1.78;66;;;16;7;0;|
+2137;Jens Pulver;Little Evil;1.7;66;178;Southpaw;25;15;1;|
+2138;Mike Pyle;Quicksand;1.83;77;188;Orthodox;27;13;1;|
+2139;Bao Quach;;1.6;66;;Orthodox;18;10;1;|
+2140;Gary Quan;;1.73;65;;;3;5;0;|
+2141;Nate Quarry;Rock;1.83;84;183;Open;12;4;0;|
+2142;Vinicius Queiroz;Spartan;2.01;100;;;5;2;0;|
+2143;Jimmy Quinlan;Crash;1.83;84;183;Orthodox;3;1;1;|
+2144;Ryan Quinn;;1.73;66;;;13;7;1;|
+2145;Michel Quinones;El Capo;1.78;66;185;Orthodox;8;2;0;|
+2146;Jose Quinonez;Teco;1.73;61;175;;7;2;0;|
+2147;Benji Radach;Razor;1.78;84;;Orthodox;21;7;0;|
+2148;Jordan Radev;;1.7;84;;Southpaw;23;5;0;|
+2149;Gilbert Rael;;1.73;70;;;1;3;0;|
+2150;Josh Rafferty;;1.83;77;;Orthodox;9;8;0;|
+2151;Amir Rahnavardi;;1.83;93;;Orthodox;11;10;0;|
+2152;Ricky Rainey;The Sniper;1.85;77;;;12;4;0;|
+2153;Aleksandar Rakic;;1.93;93;198;Orthodox;9;1;0;|
+2154;Jessica Rakoczy;The Ragin';1.7;52;173;Orthodox;2;5;0;|
+2155;Thomas Ramirez;;1.85;186;;Sideways;0;1;0;|
+2156;Hector Ramirez;Sick Dog;1.83;93;;Orthodox;9;4;1;|
+2157;Matt Ramirez;The Machine;1.65;57;;;2;3;0;|
+2158;Steve Ramirez;;1.7;57;;;5;2;0;|
+2159;Amador Ramirez;;;61;;;5;4;0;|
+2160;Andrew Ramm;The;1.85;73;;;4;4;0;|
+2161;Ian Rammel;;1.83;84;;;4;3;0;|
+2162;Luis Ramos;Beicao;1.73;77;;Orthodox;19;8;2;|
+2163;Ricardo Ramos;;1.75;61;183;Orthodox;10;1;0;|
+2164;Davi Ramos;Tasmanian Devil;1.73;77;178;Orthodox;6;2;0;|
+2165;Vernon Ramos;;1.68;77;183;Orthodox;3;2;0;|
+2166;Kevin Randleman;The Monster;1.78;93;;Orthodox;17;16;0;|
+2167;Raou Raou;;1.73;88;;Orthodox;0;1;0;|
+2168;David Rasouli;;1.7;70;;;2;3;0;|
+2169;Hussain Rasouli;;1.68;61;;;2;3;0;|
+2170;Ed Ratcliff;9mm;1.78;70;180;Orthodox;7;3;0;|
+2171;Bec Rawlings;Rowdy;1.68;52;163;Orthodox;7;6;0;|
+2172;Gideon Ray;;1.78;84;;Southpaw;17;14;1;|
+2173;Joe Ray;;;77;;;5;3;0;|
+2174;Stevie Ray;Braveheart;1.78;70;178;Southpaw;21;7;0;|
+2175;Keenan Raymond;;;75;;;3;3;0;|
+2176;Iony Razafiarison;;1.6;66;;;2;1;0;|
+2177;Abdul Razak Alhassan;;1.78;77;185;Orthodox;7;1;0;|
+2178;Antony Rea;Wild Thing;1.83;93;;Orthodox;22;13;0;|
+2179;Rafael Rebello;Rafinha;1.65;61;170;Orthodox;7;4;0;|
+2180;Greg Rebello;Ribz;1.83;109;185;Southpaw;22;7;0;|
+2181;Paul Redmond;Redser;1.78;66;178;Orthodox;10;6;0;|
+2182;Dennis Reed;;;93;;Orthodox;43;52;1;|
+2183;Karl Reed;No Worries;1.91;93;198;Orthodox;2;1;0;|
+2184;John Reedy;The Wild Child;1.73;70;;;11;6;0;|
+2185;Johnny Rees;The Hater Hurter;1.83;77;;Orthodox;12;4;0;|
+2186;James Reese;JP;1.75;70;;;5;1;0;|
+2187;Chad Reiner;The Grinder;1.8;77;;Orthodox;28;13;0;|
+2188;Jason Reinhardt;;1.68;61;;Orthodox;20;3;0;|
+2189;Wilson Reis;;1.63;57;165;Southpaw;22;8;0;|
+2190;Ben Reiter;The Hunter;1.91;84;;;17;2;1;|
+2191;Goran Reljic;;1.91;93;206;Southpaw;9;3;0;|
+2192;Leigh Remedios;Bulldog;1.7;70;;Orthodox;17;9;2;|
+2193;Marion Reneau;The Belizean Bruiser;1.68;61;173;Orthodox;8;3;1;|
+2194;John Renken;The Saint;1.83;86;;Orthodox;19;28;3;|
+2195;Herman Renting;;1.83;98;;Switch;1;3;0;|
+2196;Polo Reyes;El Toro;1.8;70;180;;8;4;0;|
+2197;Dominick Reyes;The Devastator;1.93;93;196;Southpaw;7;0;0;|
+2198;Alex Reyes;The Executioner;1.8;77;185;Orthodox;13;3;0;|
+2199;Gaston Reyno;Tonga;1.83;66;;;6;2;0;|
+2200;Johnny Rhodes;;1.83;95;;Orthodox;2;1;0;|
+2201;Mike Rhodes;Biggie;1.85;77;188;Orthodox;6;4;0;|
+2202;Amanda Ribas;;1.63;52;;;6;1;0;|
+2203;Vitor Ribeiro;Shaolin;1.73;70;;Orthodox;20;5;0;|
+2204;Will Ribeiro;;1.73;61;;Orthodox;10;2;0;|
+2205;Mike Ricci;The Martian;1.83;70;196;Southpaw;9;4;0;|
+2206;Alessandro Ricci;;1.8;70;175;Orthodox;10;5;0;|
+2207;Matt Ricehouse;;;70;;;5;1;0;|
+2208;John Richard;;;93;;;3;3;1;|
+2209;Rex Richards;;1.96;120;;;7;2;0;|
+2210;Mike Richman;The Marine;1.73;61;;;18;7;0;|
+2211;Dave Rickels;The Caveman;1.8;70;;;18;4;0;|
+2212;Matthew Riddle;Deep Waters;1.85;77;188;Southpaw;7;3;0;|
+2213;Joe Riggs;Diesel;1.83;84;178;Southpaw;41;17;0;|
+2214;Jeremiah Riggs;;1.83;84;;;7;5;0;|
+2215;Aaron Riley;;1.73;70;175;Southpaw;29;14;1;|
+2216;Jason Riley;The Juggernaut;1.98;111;;;9;6;0;|
+2217;Moise Rimbon;Swamp;1.78;93;;Orthodox;18;9;3;|
+2218;Jordan Rinaldi;All Day;1.78;70;183;Orthodox;13;5;0;|
+2219;Nick Ring;The Promise;1.83;84;188;Southpaw;13;3;0;|
+2220;Mike Rio;The Wolverine;1.78;70;180;Orthodox;9;4;0;|
+2221;Albert Rios;;1.73;66;;;13;6;0;|
+2222;Rafael Rios;;;68;;;3;2;0;|
+2223;Maria Rios;;1.65;57;;;2;3;0;|
+2224;Shannon Ritch;The Cannon;1.75;86;;Orthodox;47;74;0;|
+2225;Diego Rivas;Pitbull;1.73;66;175;Orthodox;7;1;0;|
+2226;Jorge Rivera;El Conquistador;1.85;84;185;Orthodox;19;9;0;|
+2227;Dante Rivera;;1.85;84;;Southpaw;15;6;0;|
+2228;Mario Rivera;;;;;;6;6;0;|
+2229;Francisco Rivera;Cisco;1.73;61;173;Orthodox;11;7;0;|
+2230;Jonathan Rivera;;;70;;;4;2;0;|
+2231;Jimmie Rivera;El Terror;1.63;61;173;Orthodox;21;1;0;|
+2232;Nicdali Rivera-Calanoc;The Night Queen;1.6;48;;;9;10;0;|
+2233;Pedro Rizzo;The Rock;1.85;109;;Orthodox;19;10;0;|
+2234;Justin Robbins;;1.65;61;;;12;10;1;|
+2235;Karl Roberson;Baby K;1.85;93;;Southpaw;4;0;0;|
+2236;Andre Roberts;The Chief;1.88;156;;Orthodox;14;2;1;|
+2237;David Roberts;;1.85;77;;Orthodox;5;8;0;|
+2238;Joey Roberts;;1.88;91;;;4;3;0;|
+2239;Tyrone Roberts;Native Warrior;1.75;84;;Orthodox;39;10;1;|
+2240;Ryan Roberts;;1.68;70;;Orthodox;16;10;1;|
+2241;Taylor Roberts;;1.8;77;;;3;7;0;|
+2242;Daniel Roberts;Ninja;1.78;77;188;Southpaw;12;4;0;|
+2243;Buddy Roberts;;1.88;84;;Orthodox;12;3;0;|
+2244;Danny Roberts;Hot Chocolate;1.85;77;188;Southpaw;14;2;0;|
+2245;Kenny Robertson;;1.78;77;188;Orthodox;15;5;0;|
+2246;Chad Robichaux;Robo;1.63;61;;;11;2;0;|
+2247;Mark Robinson;White Rhino;1.83;120;;Orthodox;1;0;0;|
+2248;Colin Robinson;Big C;1.93;110;;Orthodox;9;10;0;|
+2249;Alvin Robinson;;1.75;70;173;Southpaw;12;6;0;|
+2250;Vagner Rocha;Ceara;1.78;70;185;Orthodox;11;4;0;|
+2251;Carlos Eduardo Rocha;Ta Danado;1.78;77;178;Orthodox;9;2;0;|
+2252;Keith Rockel;Rock;1.83;84;;Orthodox;12;4;1;|
+2253;Luke Rockhold;;1.91;84;196;Southpaw;16;3;0;|
+2254;Kevin Roddy;K-Rod;1.8;66;;;10;13;1;|
+2255;Bruno Korea;Korea;1.68;61;165;;4;2;0;|
+2256;Paul Rodriguez;;1.7;70;;Orthodox;10;8;2;|
+2257;Ricco Rodriguez;Suave;1.93;120;;Orthodox;47;13;0;|
+2258;Manuel Rodriguez;Chalate;1.75;77;173;Orthodox;10;4;0;|
+2259;Yair Rodriguez;El Pantera;1.8;66;180;;11;2;0;|
+2260;Michael Rodriguez;Slo Mike;1.93;93;211;Southpaw;9;2;0;|
+2261;Nick Roehrick;;1.88;93;190;Orthodox;7;1;0;|
+2262;Marcos Rogerio de Lima;Pezao;1.85;93;190;Orthodox;15;6;1;|
+2263;Brett Rogers;The Grim;1.96;120;206;Orthodox;11;4;0;|
+2264;Brian Rogers;The Professional Predator;1.8;84;;;11;8;0;|
+2265;Pete Rogers Jr.;The Heat;1.83;66;;;2;4;0;|
+2266;Shane Roller;;1.78;70;183;Orthodox;11;7;0;|
+2267;Jared Rollins;J-Roc;1.75;77;;Orthodox;8;4;0;|
+2268;Tim Roman;;1.85;77;;;3;4;0;|
+2269;Ricardo Romero;;1.83;93;193;Orthodox;11;3;0;|
+2270;Yoel Romero;Soldier of God;1.83;84;185;Southpaw;12;2;0;|
+2271;Mara Romero Borella;Kunoichici;1.68;57;175;Orthodox;12;4;0;|
+2272;Jesse Ronson;The Body Snatcher;1.78;70;178;Southpaw;13;5;0;|
+2273;George Roop;;1.85;61;183;Orthodox;15;13;1;|
+2274;Joao Roque;;1.68;70;;Orthodox;7;2;4;|
+2275;Aaron Rosa;;1.93;93;198;Orthodox;17;5;0;|
+2276;Charles Rosa;Boston Strong;1.75;66;175;Switch;11;3;0;|
+2277;Jake Rosholt;;1.85;84;;Orthodox;12;3;0;|
+2278;Jared Rosholt;;1.88;120;190;Orthodox;14;3;0;|
+2279;Kevin Rosier;;1.93;125;;Orthodox;2;6;0;|
+2280;Zach Rosol;;;110;;;3;2;0;|
+2281;Nick Rossborough;Leatherface;1.96;93;;;20;15;1;|
+2282;Kristian Rothaermel;;1.83;93;;Open;4;3;0;|
+2283;Ben Rothwell;;1.93;120;198;Orthodox;36;10;0;|
+2284;Rick Roufus;;1.83;94;;Southpaw;4;6;0;|
+2285;Khalil Rountree Jr.;The War Horse;1.85;93;188;Southpaw;7;2;0;|
+2286;Ronda Rousey;Rowdy;1.7;61;173;Orthodox;12;2;0;|
+2287;Ray Routh;;1.73;84;;Orthodox;2;1;0;|
+2288;Roberta Rovel;Crusher;1.73;66;;;4;1;0;|
+2289;Kain Royer;;;84;;;2;2;0;|
+2290;Brad Royster;;;61;;;1;2;0;|
+2291;Mauricio Rua;Shogun;1.85;93;193;Orthodox;25;10;0;|
+2292;Murilo Rua;Ninja;1.8;84;;Orthodox;20;12;1;|
+2293;Marco Ruas;King of the Streets;1.85;95;;Orthodox;9;4;2;|
+2294;Rodrigo Ruas;;1.78;84;;Orthodox;4;5;1;|
+2295;Rodolfo Rubio;Fito;1.65;66;168;Orthodox;12;8;1;|
+2296;Gabe Ruediger;Godzilla;1.78;70;;Orthodox;17;7;0;|
+2297;Eddie Ruiz;;1.7;70;;Orthodox;1;1;0;|
+2298;Anthony Ruiz;El Toro;1.88;93;;Orthodox;27;16;0;|
+2299;Paul Ruiz;;1.68;61;;;7;3;0;|
+2300;Mike Russow;;1.85;116;185;Orthodox;15;3;0;|
+2301;Bas Rutten;El Guapo;1.85;93;;Orthodox;28;4;1;|
+2302;Casey Ryan;;;84;;;3;3;0;|
+2303;Yusup Saadulaev;Maestro;1.68;61;;;8;1;1;|
+2304;Pete Sabala;;;61;;;3;13;0;|
+2305;Amir Sadollah;;1.78;77;188;Orthodox;7;5;0;|
+2306;Frankie Saenz;;1.68;61;168;Orthodox;11;5;0;|
+2307;Saparbek Safarov;;1.85;93;198;Orthodox;8;1;0;|
+2308;Tarec Saffiedine;Sponge;1.78;77;178;Switch;16;7;0;|
+2309;Jason Saggo;;1.8;70;180;Orthodox;12;4;0;|
+2310;Ovince Saint Preux;;1.91;93;203;Southpaw;21;10;0;|
+2311;Lukasz Sajewski;Wookie;1.73;70;180;Orthodox;13;3;0;|
+2312;Yukio Sakaguchi;;1.75;84;;Orthodox;6;6;0;|
+2313;Augusto Sakai;;1.91;116;;;9;1;1;|
+2314;Alessio Sakara;Legionarius;1.83;84;183;Orthodox;19;11;0;|
+2315;Wataru Sakata;;1.75;88;;Southpaw;11;13;0;|
+2316;Gokhan Saki;The Rebel;1.83;93;185;Orthodox;1;1;0;|
+2317;Kazushi Sakuraba;The Gracie Hunter;1.83;84;;Southpaw;26;16;1;|
+2318;Hayato Sakurai;Mach;1.7;76;;Orthodox;36;12;2;|
+2319;Ryuta Sakurai;;1.7;83;;Orthodox;22;16;6;|
+2320;Justin Salas;J-Bomb;1.73;70;178;Southpaw;12;7;0;|
+2321;Ivan Salaverry;;1.83;84;;Orthodox;13;8;0;|
+2322;Roman Salazar;El Gallito;1.7;61;170;Orthodox;9;4;0;|
+2323;John Salgado;Greco;1.78;77;;;4;7;1;|
+2324;Muslim Salikhov;King of Kung Fu;1.8;77;;;12;1;0;|
+2325;Gabriel Salinas-Jones;;1.85;111;;;5;2;1;|
+2326;Brandon Saling;White Steel;1.78;77;;;8;6;0;|
+2327;Sean Salmon;;1.78;84;;Southpaw;18;17;0;|
+2328;Boston Salmon;Boom Boom;1.75;61;175;Southpaw;5;1;0;|
+2329;John Salter;;1.85;84;188;Southpaw;8;2;0;|
+2330;Josh Samman;Anqa;1.91;84;201;Orthodox;12;5;0;|
+2331;Johnny Sampaio;;1.73;77;;Orthodox;3;1;0;|
+2332;Joshua Sampo;The Gremlin;1.63;57;163;Orthodox;11;5;0;|
+2333;Josh San Diego;JSD;1.78;61;;;7;3;0;|
+2334;Diego Sanchez;Lionheart;1.78;70;183;Southpaw;29;10;0;|
+2335;Eddie Sanchez;The Manic Hispanic;1.88;104;188;Orthodox;13;5;0;|
+2336;Julian Sanchez;;1.91;136;;Orthodox;0;1;0;|
+2337;Bobby Sanchez;The Kid;1.7;70;;Orthodox;6;17;0;|
+2338;Donald Sanchez;;1.78;66;;;29;13;0;|
+2339;Joby Sanchez;;1.68;57;173;Orthodox;10;2;0;|
+2340;Emmanuel Sanchez;El Matador;1.75;66;180;;15;3;0;|
+2341;Erick Sanchez;;1.78;66;;;8;3;0;|
+2342;Andrew Sanchez;El Dirte;1.85;84;188;Orthodox;10;3;0;|
+2343;Roberto Sanchez;Little Fury;1.68;57;170;Orthodox;7;1;0;|
+2344;Jesse Sanders;;1.83;77;;Orthodox;22;6;0;|
+2345;Luke Sanders;Cool Hand;1.68;61;170;Southpaw;11;1;0;|
+2346;Jerrod Sanders;J-Reazie;1.73;61;183;Orthodox;15;3;0;|
+2347;Hugo Sandoval;;;61;;;2;2;0;|
+2348;Raul Sandoval;;;59;;;3;3;0;|
+2349;Joseph Sandoval;;1.7;61;;Southpaw;6;2;0;|
+2350;Hector Sandoval;Kid Alex;1.57;57;163;Orthodox;14;4;0;|
+2351;Chris Sanford;;1.8;84;;Orthodox;5;1;0;|
+2352;Roldan Sangcha-an;The Executioner;1.63;57;165;Orthodox;4;2;0;|
+2353;Yuhi Sano;;1.8;110;;Orthodox;0;4;0;|
+2354;Jonathan Santa Maria;;1.75;57;;;3;4;0;|
+2355;Sean Santella;Shorty Rock;1.65;57;;;15;5;1;|
+2356;Jorge Santiago;The Sandman;1.85;77;188;Orthodox;25;11;0;|
+2357;Mike Santiago;Little Bully;1.78;66;175;Orthodox;21;10;0;|
+2358;Jose Santibanez;;;70;;;10;3;0;|
+2359;Art Santore;Pachuco;1.88;84;;;18;8;0;|
+2360;Adriano Santos;;;;;;0;1;0;|
+2361;Paulo Santos;;;;;;0;3;0;|
+2362;Evangelista Santos;Cyborg;1.78;77;193;Orthodox;18;15;0;|
+2363;Luis Santos;;1.85;77;;Southpaw;50;7;1;|
+2364;Iliarde Santos;;1.65;57;168;Orthodox;27;9;1;|
+2365;Leonardo Santos;Nenhum;1.83;70;190;Orthodox;16;4;1;|
+2366;Thiago Santos;Marreta;1.83;84;193;Orthodox;15;5;0;|
+2367;Bruno Santos;Carioca;1.75;84;175;Orthodox;14;2;0;|
+2368;Andre Santos;Chatuba;1.83;77;;;38;10;0;|
+2369;Gleristone Santos;Toninho Furia;1.75;66;;;33;7;0;|
+2370;Nick Sanzo;;1.75;86;;;1;1;0;|
+2371;Bob Sapp;The Beast;1.96;159;;Orthodox;11;8;0;|
+2372;Daniel Sarafian;;1.75;84;185;Orthodox;10;6;0;|
+2373;Diego Saraiva;The Octopus;1.68;70;;Orthodox;21;16;1;|
+2374;Harris Sarmiento;The Hitman;1.75;70;;Orthodox;33;23;0;|
+2375;Alexander Sarnavskiy;Tiger;1.8;70;;;35;6;0;|
+2376;Yuki Sasaki;;1.88;84;;Orthodox;22;19;1;|
+2377;Kyosuke Sasaki;;1.7;83;;Southpaw;3;7;4;|
+2378;Ulka Sasaki;Ulka;1.78;57;180;Southpaw;20;5;2;|
+2379;Paul Sass;;1.83;70;185;Orthodox;13;2;0;|
+2380;Masaaki Satake;;1.85;100;;Orthodox;1;8;1;|
+2381;Takenori Sato;;1.78;77;180;Southpaw;17;10;7;|
+2382;Jeimeson Saudino;The Minion;1.68;61;;;8;5;0;|
+2383;Tom Sauer;;1.85;119;;;24;12;0;|
+2384;Townsend Saunders;;1.65;77;;Orthodox;0;2;0;|
+2385;Ben Saunders;Killa B;1.88;77;196;Orthodox;20;8;2;|
+2386;Chad W. Saunders;;1.78;77;;Orthodox;7;2;0;|
+2387;Chris Saunders;The So Cal Kid;1.73;70;;;9;3;0;|
+2388;Lumumba Sayers;;1.83;84;;;4;3;0;|
+2389;Mark Scanlon;;1.75;77;;Orthodox;7;2;0;|
+2390;Eric Schafer;Red;1.91;84;190;Orthodox;14;7;2;|
+2391;Kerry Schall;Meat Truck;1.88;120;;Orthodox;23;12;0;|
+2392;Eric Schambari;;1.8;84;;Orthodox;15;4;0;|
+2393;Brendan Schaub;Big Brown;1.93;111;198;Orthodox;11;5;0;|
+2394;Antonio Schembri;Nino;1.75;93;;Orthodox;5;5;0;|
+2395;Fabiano Scherner;Pegaleve;1.91;117;;Orthodox;8;8;0;|
+2396;Samy Schiavo;;1.73;70;;Orthodox;10;6;0;|
+2397;Pat Schilling;Thrilling;1.73;66;175;Orthodox;5;2;0;|
+2398;Joe Schilling;;1.91;84;;;2;5;0;|
+2399;Semmy Schilt;Hightower;2.08;120;;Orthodox;26;14;1;|
+2400;Adam Schindler;;1.73;70;;;9;3;0;|
+2401;Daniel Schmitt;;;84;;;1;3;0;|
+2402;Colleen Schneider;;;61;;;1;3;0;|
+2403;Matt Schnell;Danger;1.73;57;178;Orthodox;11;4;0;|
+2404;Alex Schoenauer;;1.91;84;;Orthodox;15;10;0;|
+2405;Darrill Schoonover;The Boss;1.88;100;;Orthodox;11;5;0;|
+2406;Bob Schrijber;Dirty;1.83;109;;Orthodox;20;17;1;|
+2407;Nate Schroeder;;1.85;104;;;11;10;0;|
+2408;Lacey Schuckman;;1.6;57;;;6;4;0;|
+2409;Mark Schultz;;1.75;91;;Orthodox;1;1;0;|
+2410;Brian Schwartz;;1.91;77;;Orthodox;1;1;0;|
+2411;Eric Schwartz;;;93;;;2;0;0;|
+2412;Justin Scoggins;Tank;1.7;57;168;Southpaw;11;4;0;|
+2413;Bradley Scott;Bear;1.85;84;193;;12;5;0;|
+2414;Greg Scott;;1.75;66;;;3;4;0;|
+2415;Mike Seal;Crazy Boy;1.93;84;;Orthodox;13;14;1;|
+2416;Matt Secor;;1.83;77;;;8;4;0;|
+2417;Kenneth Seegrist;;1.83;84;;Orthodox;4;6;0;|
+2418;Neil Seery;2Tap;1.63;57;163;Orthodox;16;13;0;|
+2419;Rony Sefo;;1.75;102;;Orthodox;0;2;0;|
+2420;Ray Sefo;Sugarfoot;1.83;109;;Orthodox;2;1;0;|
+2421;Brendan Seguin;;1.83;84;;;23;17;1;|
+2422;Pete Sell;Drago;1.8;77;190;Orthodox;9;5;0;|
+2423;Andrei Semenov;;1.83;84;;Orthodox;30;9;2;|
+2424;Mackens Semerzier;Da Menace;1.75;66;183;Orthodox;8;4;0;|
+2425;Brandon Sene;;1.8;93;;;2;2;0;|
+2426;Kim In Seok;;1.68;66;;Orthodox;3;5;0;|
+2427;Ray Seraille;;1.91;112;;;8;9;0;|
+2428;Ivan Serati;;1.83;93;;Orthodox;12;4;0;|
+2429;Alex Serdyukov;The Russian Crusher;1.88;77;188;Orthodox;8;5;0;|
+2430;Nicholas Sergiacomi;;;77;;;1;1;0;|
+2431;Matt Serra;The Terra;1.68;77;173;Orthodox;11;7;0;|
+2432;Nick Serra;The Mad Monkey;1.75;77;;Orthodox;7;3;0;|
+2433;Adrian Serrano;;1.73;77;;;56;29;4;|
+2434;Fredy Serrano;El Profe;1.6;57;165;Orthodox;3;2;0;|
+2435;Carl Seumanutafa;;1.85;116;;Orthodox;4;3;0;|
+2436;Dan Severn;The Beast;1.88;113;;Southpaw;100;18;7;|
+2437;Rosi Sexton;The Surgeon;1.6;61;160;Orthodox;13;4;0;|
+2438;Scott Shaffer;;1.7;66;;Orthodox;0;1;0;|
+2439;Kamal Shalorus;Prince of Persia;1.73;70;173;Orthodox;7;3;2;|
+2440;Ken Shamrock;The World's Most Dangerous Man;1.85;93;183;Orthodox;28;16;2;|
+2441;Frank Shamrock;;1.78;84;;Orthodox;22;11;2;|
+2442;Jason Sharp;;;93;;;3;2;0;|
+2443;Eric Shelton;Showtime;1.68;57;173;Orthodox;10;4;0;|
+2444;Sean Sherk;The Muscle Shark;1.68;70;170;Orthodox;36;4;1;|
+2445;Chase Sherman;The Vanilla Gorilla;1.93;113;198;Orthodox;11;3;0;|
+2446;Valentina Shevchenko;Bullet;1.65;61;170;Southpaw;14;3;0;|
+2447;Katsuyori Shibata;;1.83;76;;Orthodox;4;11;1;|
+2448;Jake Shields;;1.83;77;183;Orthodox;29;7;1;|
+2449;Shunichi Shimizu;Rolling Star;1.65;61;168;Orthodox;28;9;10;|
+2450;Wade Shipp;The Nightmare;1.91;111;;Orthodox;10;5;0;|
+2451;Raja Shippen;;1.68;66;;;18;11;1;|
+2452;Yuya Shirai;;1.73;76;;Orthodox;21;10;1;|
+2453;Wes Shivers;;2.03;;;;8;1;0;|
+2454;Alexander Shlemenko;Storm;1.8;84;;;56;9;0;|
+2455;Josh Shockley;;1.85;70;188;Orthodox;11;4;0;|
+2456;Josh Shockman;The War Hammer;1.93;107;;Southpaw;5;3;0;|
+2457;Akira Shoji;;1.73;88;;Orthodox;14;17;5;|
+2458;Landon Showalter;The Show;1.83;84;;;11;19;1;|
+2459;Brandon Shuey;Big Dawg;1.7;70;;Orthodox;7;6;0;|
+2460;Sam Sicilia;;1.73;66;170;Orthodox;15;8;0;|
+2461;Kiril Sidelnikov;;1.8;104;;;7;4;0;|
+2462;Steven Siler;Super;1.8;66;178;Orthodox;23;13;0;|
+2463;Siala Siliga;Mighty Mo;1.85;132;;Orthodox;3;2;0;|
+2464;Xavier Siller;Young Guns;1.65;57;;;5;5;0;|
+2465;Assuerio Silva;;1.78;109;;Orthodox;15;8;0;|
+2466;Anderson Silva;The Spider;1.88;84;196;Southpaw;34;8;0;|
+2467;Wanderlei Silva;The Axe Murderer;1.8;93;188;Orthodox;35;12;1;|
+2468;Thiago Silva;;1.88;93;188;Orthodox;16;3;0;|
+2469;Paulo Cesar Silva;Giant;2.26;175;;Orthodox;2;6;0;|
+2470;Jean Silva;White Bear;1.68;73;;Orthodox;18;11;3;|
+2471;Edson Silva;Paredao;;93;;Orthodox;7;8;0;|
+2472;Sidney Silva;;1.91;77;;Southpaw;8;4;0;|
+2473;Jay Silva;;1.88;84;;Southpaw;7;5;1;|
+2474;Antonio Silva;Bigfoot;1.93;120;203;Orthodox;19;10;1;|
+2475;Fabio Silva;;1.8;93;;Orthodox;11;5;0;|
+2476;Erick Silva;The Tiger;1.83;77;188;Orthodox;19;8;0;|
+2477;Leandro Silva;Buscape;1.75;70;183;Orthodox;19;4;1;|
+2478;Wagner Silva;Wagnao;1.83;77;180;Orthodox;3;3;0;|
+2479;Rafael Silva;Morcego;1.7;61;;;28;6;0;|
+2480;Joaquim Silva;Netto BJJ;1.73;70;175;;10;1;0;|
+2481;Felipe Silva;;1.83;70;196;Orthodox;8;1;0;|
+2482;Douglas Silva de Andrade;D Silva;1.7;61;173;Orthodox;24;2;0;|
+2483;Marcus Silveira;Conan;1.91;110;;Orthodox;6;4;0;|
+2484;Elias Silverio;Xuxu;1.8;70;185;Orthodox;11;2;0;|
+2485;Ricky Simon;;1.68;61;175;Orthodox;10;1;0;|
+2486;Aaron Simpson;A-Train;1.83;77;185;Orthodox;11;4;0;|
+2487;Wes Sims;The Project;2.08;118;;Orthodox;22;13;1;|
+2488;Marlon Sims;;;77;;;3;4;0;|
+2489;Tony Sims;;1.8;70;178;Southpaw;12;4;0;|
+2490;Everett Sims;Sexual Chocolate;1.96;118;196;Southpaw;4;1;0;|
+2491;Lodune Sincaid;;1.75;84;;Orthodox;15;9;0;|
+2492;Rob Sinclair;;1.73;70;;;13;5;0;|
+2493;Rory Singer;Outburst;1.88;84;196;Orthodox;11;9;0;|
+2494;Elvis Sinosic;The King of Rock n' Rumble;1.91;93;196;Orthodox;7;11;2;|
+2495;AJ Siscoe;Let's Go;1.7;61;;;1;2;0;|
+2496;Yokthai Sithoar;;1.7;65;;;0;1;0;|
+2497;Jeri Sitzes;;1.65;57;;;3;1;0;|
+2498;Dennis Siver;;1.68;66;178;Orthodox;23;11;0;|
+2499;Chas Skelly;The Scrapper;1.8;66;183;Orthodox;17;3;0;|
+2500;Matt Skelton;;1.91;120;;Orthodox;0;1;0;|
+2501;Zach Skinner;;1.68;66;;Orthodox;6;8;0;|
+2502;Brian Sleeman;;1.73;84;;;9;9;1;|
+2503;Joe Slick;;1.83;90;;Orthodox;16;5;3;|
+2504;Ray Sloan;;1.85;93;;;8;1;0;|
+2505;Kestutis Smirnovas;;1.78;91;;Orthodox;22;8;1;|
+2506;Maurice Smith;;1.88;100;;Orthodox;12;13;0;|
+2507;Patrick Smith;;1.88;102;;Orthodox;20;15;0;|
+2508;Scott Smith;Hands of Steel;1.83;84;178;Orthodox;17;9;0;|
+2509;Eric Smith;;;;;Southpaw;1;1;0;|
+2510;Josh Smith;;1.83;70;;Orthodox;6;5;0;|
+2511;David Smith;;;70;;;5;1;0;|
+2512;Adam Smith;;;;;;0;2;0;|
+2513;Dillon Smith;;1.83;77;;;0;0;0;|
+2514;Trevor Smith;Hot Sauce;1.91;84;190;Orthodox;15;7;0;|
+2515;Anthony Smith;Lionheart;1.93;84;193;Orthodox;28;12;0;|
+2516;Colton Smith;;1.83;70;180;Orthodox;6;4;0;|
+2517;Gilbert Smith;;1.75;84;190;Southpaw;5;2;0;|
+2518;Leslie Smith;The Peacemaker;1.75;61;168;Orthodox;10;7;1;|
+2519;Walter Smith-Cotito;;1.73;61;;;4;5;0;|
+2520;Justin Smitley;;;66;;;10;7;1;|
+2521;Dmitrii Smoliakov;The Lifeguard;1.88;115;188;Switch;8;2;0;|
+2522;Louis Smolka;Da Last Samurai;1.75;57;173;Orthodox;11;4;0;|
+2523;Denis Sobolev;;1.91;98;;Orthodox;4;7;0;|
+2524;Peter Sobotta;;1.83;77;190;Southpaw;17;5;1;|
+2525;Renato Sobral;Babalu;1.85;93;190;Orthodox;36;9;0;|
+2526;Rameau Thierry Sokoudjou;The African Assassin;1.78;93;198;Orthodox;12;10;0;|
+2527;Joe Son;;1.63;107;;Orthodox;0;4;0;|
+2528;Paul Song;;;84;;;2;1;0;|
+2529;Chael Sonnen;;1.85;93;188;Southpaw;29;14;1;|
+2530;Cody Sons;;1.75;93;;;3;7;0;|
+2531;Emiliano Sordi;He-Man;1.88;84;;;16;6;0;|
+2532;Sean Soriano;;1.75;66;178;Orthodox;8;3;0;|
+2533;Dmitry Sosnovskiy;Wicked Machine;1.91;109;;;10;0;0;|
+2534;Krzysztof Soszynski;The Polish Experiment;1.85;93;196;Open;26;12;1;|
+2535;George Sotiropoulos;;1.78;70;180;Orthodox;14;6;0;|
+2536;Greg Soto;;1.8;77;185;Orthodox;8;2;0;|
+2537;Alex Soto;Extremo;1.73;61;180;Southpaw;6;2;1;|
+2538;Joe Soto;One Bad Mofo;1.68;61;165;Orthodox;18;5;0;|
+2539;Mario Soto;Dr. Mario;1.83;66;;;7;2;0;|
+2540;Andre Soukhamthath;The Asian Sensation;1.75;61;178;Orthodox;11;5;0;|
+2541;Bobby Southworth;;1.88;93;;Orthodox;10;6;0;|
+2542;Jacare Souza;Jacare;1.85;84;183;Orthodox;24;5;0;|
+2543;Kevin Souza;Kevin;1.83;66;188;Orthodox;19;4;0;|
+2544;Charon Spain;;1.75;70;;;6;7;0;|
+2545;Chris Spang;The Kiss;1.88;77;;Orthodox;5;2;0;|
+2546;Andreas Spang;Sweet Swede;1.85;84;;;6;1;0;|
+2547;Ryan Spann;Superman;1.96;84;;;10;4;0;|
+2548;Ron Sparks;The Monster;1.96;120;;;8;1;0;|
+2549;Tommy Speer;;1.78;77;180;Orthodox;19;5;0;|
+2550;Patrick Speight;;1.85;77;;Orthodox;7;3;0;|
+2551;Sean Spencer;Black Magic;1.78;77;190;;12;6;0;|
+2552;Sam Spengler;The Ram;1.8;84;;Orthodox;4;2;0;|
+2553;Nick Sperling;;;61;;;3;4;0;|
+2554;Mario Sperry;Zen Machine;1.88;93;;Orthodox;13;4;0;|
+2555;Eric Spicely;Zebrinha;1.85;84;185;Orthodox;10;3;0;|
+2556;Waachiim Spiritwolf;Native Warrior;1.73;77;;;9;8;1;|
+2557;Daniel Spitz;The Daddy Long Legs;2.01;111;208;Orthodox;6;1;0;|
+2558;Daniel Spohn;Dragon;1.93;93;201;Southpaw;15;6;0;|
+2559;Pete Spratt;The Secret Weapon;1.75;77;;Orthodox;23;21;0;|
+2560;Georges St-Pierre;Rush;1.8;77;193;Orthodox;25;2;0;|
+2561;Bobby Stack;;1.75;70;;Orthodox;8;2;0;|
+2562;Andreas Stahl;Real Steel;1.8;77;185;Orthodox;9;2;0;|
+2563;Ron Stallings;The Choir Boy;1.88;77;190;Southpaw;13;8;0;|
+2564;Cody Stamann;The Spartan;1.68;61;163;Orthodox;16;1;0;|
+2565;Cristina Stanciu;Barbie;1.6;52;163;Orthodox;5;2;0;|
+2566;Brian Stann;All American;1.85;93;188;Orthodox;12;6;0;|
+2567;Josh Stansbury;The Sandman;1.88;93;188;;8;5;0;|
+2568;Dion Staring;Soldier;1.85;107;;Orthodox;24;8;0;|
+2569;Lucas Stark;;;70;;;2;5;0;|
+2570;Clifford Starks;;1.83;84;196;Orthodox;8;2;0;|
+2571;Kalib Starnes;;1.91;84;188;Orthodox;12;7;1;|
+2572;Damian Stasiak;Webster;1.65;61;178;Orthodox;10;5;0;|
+2573;Adam Steele;;;77;;;0;1;0;|
+2574;Dominique Steele;Non-Stop Action-Packed;1.78;77;188;Orthodox;14;9;0;|
+2575;Eric Steenberg;;;70;;;5;1;0;|
+2576;Steve Steinbeiss;The Hooligan;1.91;84;190;Orthodox;7;4;0;|
+2577;Ray Steinbeiss;Ipswitch Cobra;1.8;77;;Orthodox;14;7;0;|
+2578;Dmitri Stepanov;;1.91;98;;Orthodox;0;1;0;|
+2579;Jeremy Stephens;Lil' Heathen;1.73;66;180;Orthodox;26;14;0;|
+2580;Aljamain Sterling;Funk Master;1.7;64;180;Orthodox;14;2;0;|
+2581;Marc Stevens;;1.75;70;;;14;6;0;|
+2582;Joe Stevenson;Daddy;1.7;66;178;Orthodox;31;14;0;|
+2583;Josh Stewart;;1.75;73;;;1;4;0;|
+2584;Luke Stewart;;1.8;77;;Orthodox;6;3;0;|
+2585;Darren Stewart;The Dentist;1.83;93;188;Orthodox;7;1;0;|
+2586;Kyle Stewart;Gunz Up;1.83;77;193;Orthodox;7;0;0;|
+2587;Alex Stiebling;The Brazilian Killa;1.88;93;;Southpaw;18;11;1;|
+2588;Tyler Stinson;The Evolution;1.91;77;;;22;8;0;|
+2589;Dan Stittgen;The Anvil;1.85;77;;Orthodox;7;3;0;|
+2590;Lazar Stojadinovic;The Bronx Bomber;1.7;66;173;Southpaw;12;5;0;|
+2591;Denis Stojnic;;1.83;111;;Orthodox;9;3;0;|
+2592;Ken Stone;;1.73;61;180;;11;4;0;|
+2593;Ryan Stonitsch;;1.75;77;;Southpaw;8;1;0;|
+2594;George Stork;;1.78;84;;;6;4;0;|
+2595;Rick Story;The Horror;1.75;77;180;Southpaw;19;9;0;|
+2596;Greg Stott;Ranger;1.7;100;;Southpaw;0;1;0;|
+2597;Curtis Stout;;1.85;84;;Southpaw;11;12;1;|
+2598;Sam Stout;Hands of Stone;1.75;70;178;Orthodox;21;12;1;|
+2599;Tim Stout;;1.8;84;;;12;10;0;|
+2600;Gennaro Strangis;;;;;;0;1;0;|
+2601;Dave Strasser;;1.78;77;;Orthodox;25;8;4;|
+2602;Daniel Straus;;1.7;66;180;;24;7;0;|
+2603;Gerald Strebendt;The Finishing Machine;1.75;70;;Orthodox;9;7;0;|
+2604;Sean Strickland;Tarzan;1.85;77;193;Orthodox;18;2;0;|
+2605;Hans Stringer;;1.91;93;185;Orthodox;22;7;3;|
+2606;Stefan Struve;Skyscraper;2.11;120;213;Orthodox;32;9;0;|
+2607;Mike Stumpf;;1.78;77;180;;11;4;0;|
+2608;Kyle Sturgeon;;1.91;102;;Switch;0;1;0;|
+2609;Tatiana Suarez;;1.65;52;170;;5;0;0;|
+2610;Masanori Suda;;1.75;83;;Orthodox;22;11;3;|
+2611;Genki Sudo;Neo-Samurai;1.75;70;;Orthodox;15;4;2;|
+2612;Daisuke Sugie;Amazon;1.68;73;;Orthodox;10;8;1;|
+2613;Takashi Sugiura;;1.8;102;;Southpaw;1;3;0;|
+2614;Naho Sugiyuma;Sugi Rock;1.55;48;;;12;5;0;|
+2615;George Sullivan;The Silencer;1.83;77;185;Orthodox;17;5;0;|
+2616;Amar Suloev;;1.75;83;;Orthodox;24;7;0;|
+2617;Magomed Sultanakhmedov;;1.88;84;;Southpaw;16;5;0;|
+2618;Aji Susilo;;1.78;70;;;6;4;0;|
+2619;Jason Suttie;Nobunaga;1.83;95;;Orthodox;0;1;0;|
+2620;Joel Sutton;;1.8;93;;Orthodox;2;4;1;|
+2621;Chad Sutton;;1.85;84;;;2;2;0;|
+2622;Martin Svensson;Big Swede;1.85;70;183;;14;6;0;|
+2623;Cub Swanson;;1.73;66;178;Orthodox;25;7;0;|
+2624;Mike Swick;Quick;1.85;77;196;Orthodox;15;6;0;|
+2625;Floyd Sword;;1.83;84;;Orthodox;12;3;0;|
+2626;Bentley Syler;Dr. Bolivia;1.63;57;173;Orthodox;5;1;0;|
+2627;Leo Sylvest;Lethal;1.8;93;;Orthodox;10;26;0;|
+2628;Tony Sylvester;;1.85;102;;Southpaw;11;3;0;|
+2629;Tim Sylvia;The Maine-iac;2.03;120;203;Orthodox;30;7;0;|
+2630;Osamu Tachihikari;;1.96;136;;Orthodox;0;4;0;|
+2631;Amber Tackett;;;52;;;1;3;0;|
+2632;Eugenio Tadeu;;1.73;73;;Orthodox;2;3;0;|
+2633;Joe Taimanglo;The Juggernaut;1.63;61;;;23;7;1;|
+2634;Mairbek Taisumov;Beckan;1.75;70;185;Orthodox;26;5;0;|
+2635;Nobuhiko Takada;;1.83;100;;Southpaw;2;6;2;|
+2636;Yoshiki Takahashi;Kazuo;1.8;90;;Southpaw;29;25;3;|
+2637;Yoko Takahashi;;1.73;68;;;15;12;2;|
+2638;Daiju Takase;;1.83;77;;Southpaw;9;13;2;|
+2639;Hiroyuki Takaya;Streetfight Bancho;1.68;63;;Orthodox;16;10;1;|
+2640;Yoshihiro Takayama;;1.96;127;;Orthodox;1;4;0;|
+2641;Makoto Takimoto;;1.7;93;;Southpaw;6;5;0;|
+2642;Oleg Taktarov;The Russian Bear;1.83;95;;Orthodox;17;5;2;|
+2643;Nordine Taleb;;1.85;77;188;Orthodox;13;4;0;|
+2644;Tsuyoshi Tamakairiki;;1.83;100;;Orthodox;0;3;0;|
+2645;Eli Tamez;Tomahawk;1.7;61;;;10;0;0;|
+2646;Kiyoshi Tamura;;1.8;84;;Southpaw;32;13;3;|
+2647;Akitoshi Tamura;The Ironman;1.75;61;178;Orthodox;16;11;2;|
+2648;Issei Tamura;;1.65;61;160;Orthodox;7;4;0;|
+2649;Jason Tan;;1.78;77;;Orthodox;5;3;0;|
+2650;Akihito Tanaka;Kinniku Mantaro;;;;Southpaw;2;2;0;|
+2651;Michinori Tanaka;;1.65;61;170;Orthodox;11;3;0;|
+2652;Evan Tanner;;1.83;84;188;Orthodox;32;8;0;|
+2653;Manny Tapia;The Mangler;1.65;61;170;Orthodox;11;4;1;|
+2654;Gary Tapusoa;;1.7;84;;;6;2;0;|
+2655;Miesha Tate;Cupcake;1.68;61;165;Orthodox;18;7;0;|
+2656;Deividas Taurosevicius;;1.75;66;173;Southpaw;13;5;0;|
+2657;Thiago Tavares;;1.7;66;173;Orthodox;24;7;1;|
+2658;Jeremy Tavares;;;61;;;1;5;0;|
+2659;Brad Tavares;;1.85;84;188;Orthodox;16;5;0;|
+2660;Paul Taylor;Relentless;1.83;70;183;Orthodox;11;6;1;|
+2661;Jesse Taylor;JT Money;1.83;77;185;Orthodox;33;15;0;|
+2662;Torrance Taylor;;1.7;70;;;10;7;1;|
+2663;Louis Taylor;BeastMode;1.8;84;188;Orthodox;11;3;0;|
+2664;Anthony Taylor;Pretty Boy;1.7;66;;;1;3;0;|
+2665;Danielle Taylor;Dynamite;1.52;52;152;Orthodox;9;2;0;|
+2666;James Te Huna;;1.88;84;190;Orthodox;18;9;0;|
+2667;Glover Teixeira;;1.88;93;193;Orthodox;26;6;0;|
+2668;John Teixeira;Macapa;1.7;66;;Orthodox;14;1;1;|
+2669;Ewerton Teixeira;;1.85;110;;;3;1;0;|
+2670;Tra Telligman;Trauma;1.88;106;;Orthodox;7;5;1;|
+2671;Herman Terrado;;;77;;;8;2;1;|
+2672;Dave Terrel;The Bionic;1.73;77;;Southpaw;7;6;0;|
+2673;David Terrell;The Soul Assassin;1.85;84;;Southpaw;6;2;0;|
+2674;James Terry;Intensity;1.78;77;;Orthodox;16;8;0;|
+2675;David Teymur;;1.75;70;185;;6;1;0;|
+2676;Daniel Teymur;Kid Dynamite;1.65;70;175;Orthodox;6;1;0;|
+2677;Motonobu Tezuka;;1.7;61;168;Southpaw;19;6;4;|
+2678;Jason Thacker;;1.78;84;;Orthodox;0;1;0;|
+2679;Brandon Thatch;Rukus;1.88;77;188;Switch;11;5;0;|
+2680;Elias Theodorou;The Spartan;1.85;84;190;Orthodox;14;2;0;|
+2681;Nik Theotikos;;;84;;Orthodox;6;2;0;|
+2682;Paulo Thiago;;1.8;77;185;Orthodox;15;8;0;|
+2683;Din Thomas;Dinyero;1.75;70;;Orthodox;25;8;0;|
+2684;Ryan Thomas;The Tank Engine;1.83;77;;Orthodox;12;7;0;|
+2685;Noah Thomas;;1.75;61;;Orthodox;14;7;0;|
+2686;Treston Thomison;;1.73;66;;;10;6;0;|
+2687;Nick Thompson;The Goat;1.85;77;188;Orthodox;38;14;1;|
+2688;James Thompson;The Colossus;1.96;120;;Orthodox;16;14;0;|
+2689;Oli Thompson;;1.85;110;190;Orthodox;9;4;0;|
+2690;Stephen Thompson;Wonderboy;1.83;77;190;Orthodox;13;2;1;|
+2691;Josh Thomson;The Punk;1.78;70;180;Orthodox;21;8;0;|
+2692;Simeon Thoresen;The Grin;1.85;77;201;Orthodox;17;4;1;|
+2693;Josh Thornburg;;1.83;77;;;7;5;0;|
+2694;Gleison Tibau;;1.78;70;180;Southpaw;40;12;0;|
+2695;Chris Tickle;BadBoy;1.75;70;;;7;5;0;|
+2696;Nolan Ticman;;1.68;57;175;Orthodox;4;3;0;|
+2697;Darren Till;;1.83;77;188;Southpaw;16;0;1;|
+2698;Brett Tillis;;;66;;;0;0;0;|
+2699;Ryan Tobar;;;70;;;3;3;0;|
+2700;Andrew Todhunter;The Sniper;1.83;77;183;Switch;7;0;0;|
+2701;Hideo Tokoro;;1.7;61;;Orthodox;30;25;1;|
+2702;Anatoly Tokov;;1.78;84;;;25;2;0;|
+2703;Kazuki Tokudome;;1.8;70;185;Southpaw;12;6;1;|
+2704;Tyler Toner;;1.73;66;178;Orthodox;12;3;0;|
+2705;James Toney;Lights Out;1.75;100;;Orthodox;0;1;0;|
+2706;Masanori Tonooka;;1.73;84;;Orthodox;1;2;0;|
+2707;Carl Toomey;;;;;;3;3;0;|
+2708;Anthony Torres;The Crush;1.73;77;;Orthodox;5;2;0;|
+2709;Miguel Torres;;1.75;61;193;Orthodox;39;5;0;|
+2710;Ronys Torres;;1.7;70;;Orthodox;22;4;0;|
+2711;Haven Torres;;;57;;;0;0;0;|
+2712;Tecia Torres;The Tiny Tornado;1.55;52;152;Orthodox;9;1;0;|
+2713;Alex Torres;Rolo;1.78;66;178;Orthodox;2;2;0;|
+2714;Abram Torres;;1.78;77;;;4;3;0;|
+2715;Salim Touahri;Grizzly;1.78;77;183;Orthodox;10;2;0;|
+2716;Minoru Toyonaga;;1.8;88;;Southpaw;2;5;0;|
+2717;Roberto Traven;Spider;1.91;103;;Orthodox;6;4;1;|
+2718;Bryan Travers;;;70;;;14;3;0;|
+2719;Alexander Trevino;;;77;;;5;2;0;|
+2720;Francisco Trevino;Sitkayan;1.75;70;178;Orthodox;12;2;0;|
+2721;Frank Trigg;Twinkle Toes;1.75;77;180;Southpaw;21;9;0;|
+2722;Francisco Trinaldo;Massaranduba;1.75;70;178;Southpaw;21;5;0;|
+2723;Damien Trites;The Omen;1.8;75;;;7;6;0;|
+2724;Tor Troeng;The Hammer;1.88;84;196;Orthodox;16;7;1;|
+2725;Aaron Trujillo;;1.65;57;;;0;1;0;|
+2726;Reynaldo Trujillo;The Truth;1.75;70;;;8;7;0;|
+2727;Abel Trujillo;Killa;1.73;70;178;Orthodox;15;7;0;|
+2728;Chris Tuchscherer;The Crowbar;1.88;117;193;Orthodox;21;4;0;|
+2729;Jon Tuck;Super Saiyan;1.8;70;185;Orthodox;10;4;0;|
+2730;Gavin Tucker;Guv'Nor;1.68;66;168;Southpaw;10;1;0;|
+2731;Jumabieke Tuerxun;Leopard;1.7;61;170;Orthodox;17;3;1;|
+2732;Tom Tuggle;The Law;1.88;113;;Orthodox;0;3;0;|
+2733;Blair Tugman;;1.83;61;;;10;6;0;|
+2734;Tai Tuivasa;Bam Bam;1.88;120;;;5;0;0;|
+2735;Zubaira Tukhugov;Warrior;1.73;66;173;Orthodox;18;4;0;|
+2736;Teila Tuli;;1.83;195;;Orthodox;0;1;0;|
+2737;Albert Tumenov;Einstein;1.8;77;185;Orthodox;17;4;0;|
+2738;Ricky Turcios;Pretty;1.75;61;180;Orthodox;8;1;0;|
+2739;Courtney Turner;;1.88;77;;;0;3;0;|
+2740;Marcin Tybura;Tybur;1.91;113;198;Orthodox;16;2;0;|
+2741;Alberto Uda;;1.91;84;196;Orthodox;9;2;0;|
+2742;Ryuki Ueyama;;1.8;82;;Southpaw;11;13;5;|
+2743;Christian Uflacker;;1.8;77;;;3;0;0;|
+2744;Andy Uhrich;;1.83;77;;;6;3;0;|
+2745;Gasan Umalatov;Cobra;1.8;77;180;Orthodox;15;5;1;|
+2746;Jeremy Umphries;;;73;;;5;2;0;|
+2747;Zach Underwood;;1.88;84;;;8;4;0;|
+2748;Caol Uno;Uno Shoten;1.7;70;178;Southpaw;26;15;5;|
+2749;Kengo Ura;Uraken;1.75;75;;;10;8;2;|
+2750;Hector Urbina;El Toro;1.8;77;185;Orthodox;25;10;1;|
+2751;Elias Urbina;;1.91;84;196;Southpaw;3;1;0;|
+2752;Nick Urso;;1.68;57;168;Southpaw;10;3;0;|
+2753;Yasuhiro Urushitani;;1.65;57;;Southpaw;19;6;6;|
+2754;Kamaru Usman;The Nigerian Nightmare;1.83;77;193;Switch;11;1;0;|
+2755;Darren Uyenoyama;BC;1.68;57;163;Orthodox;8;5;0;|
+2756;Richie Vaculik;Vas;1.68;57;175;Orthodox;10;5;0;|
+2757;Egidijus Valavicius;;1.83;91;;Orthodox;20;9;0;|
+2758;Charlie Valencia;;1.6;61;163;Orthodox;12;7;0;|
+2759;Victor Valenzuela;Joe Boxer;1.78;70;;;11;6;2;|
+2760;Victor Valimaki;The Matrix;1.83;93;;Orthodox;16;8;0;|
+2761;Andrew Valladerez;;;61;;;2;4;0;|
+2762;Isaac Vallie-Flagg;;1.73;70;173;Orthodox;14;6;1;|
+2763;Mike van Arsdale;;1.88;93;;Switch;8;5;0;|
+2764;Matt Van Buren;Gutter;1.96;93;193;;7;4;0;|
+2765;Ron van Clief;The Black Dragon;1.78;86;;Orthodox;0;1;0;|
+2766;Lloyd Van Dams;;1.85;109;;Southpaw;0;1;0;|
+2767;Chad Vance;;1.83;84;;Orthodox;6;5;0;|
+2768;Lando Vannata;Groovy;1.75;70;180;Orthodox;9;2;1;|
+2769;Paige VanZant;12 Gauge;1.63;52;165;Orthodox;7;3;0;|
+2770;Paul Varelans;The Polar Bear;2.03;136;;Orthodox;9;9;0;|
+2771;Jamie Varner;;1.73;70;183;Orthodox;21;11;1;|
+2772;Guilherme Vasconcelos;Bomba;1.83;84;188;Orthodox;3;2;0;|
+2773;Linton Vassell;The Swarm;1.93;93;;;18;5;0;|
+2774;Billy Vaughan;;1.68;70;;;11;9;0;|
+2775;Yuri Vaulin;;1.93;89;;Southpaw;0;1;0;|
+2776;Javier Vazquez;Showtime;1.7;66;175;Southpaw;16;5;0;|
+2777;Manny Vazquez;;1.78;57;183;Orthodox;11;2;0;|
+2778;Matt Veach;;1.8;70;;Orthodox;15;4;0;|
+2779;Joe Vedepo;The Doctor;1.83;84;;Orthodox;11;5;0;|
+2780;Cain Velasquez;;1.85;109;196;Orthodox;14;2;0;|
+2781;David Velasquez;Little;1.65;66;;Orthodox;10;9;0;|
+2782;Bojan Velickovic;Serbian Steel;1.83;77;193;Southpaw;15;5;1;|
+2783;Karlos Vemola;;1.83;84;190;Orthodox;10;4;0;|
+2784;Jerrel Venetiaan;;1.85;88;;Orthodox;4;3;0;|
+2785;Scott Ventimiglia;Meant to Kill Ya;1.8;84;;;14;6;1;|
+2786;Brandon Vera;The Truth;1.91;104;193;Orthodox;12;7;0;|
+2787;Kerry Vera;;1.7;61;;Orthodox;2;0;0;|
+2788;Marlon Vera;Chito;1.73;61;178;Switch;10;3;1;|
+2789;Ernie Verdicia;;1.8;90;;Orthodox;0;1;0;|
+2790;Joe Veres;;1.7;70;;Orthodox;4;3;0;|
+2791;Renato Verissimo;Charuto;1.85;77;;Orthodox;7;5;0;|
+2792;Bryan Vetell;;1.91;120;;Southpaw;4;3;0;|
+2793;Marvin Vettori;The Italian Dream;1.83;84;188;Southpaw;12;3;0;|
+2794;Hugo Viana;Wolverine;1.68;61;170;Orthodox;8;4;0;|
+2795;Guilherme Viana;;1.93;93;;;7;3;0;|
+2796;Vitor Vianna;;;93;;Orthodox;12;1;1;|
+2797;James Vick;The Texecutioner;1.91;70;193;Orthodox;11;1;0;|
+2798;Milton Vieira;Miltinho;1.83;66;183;Orthodox;13;8;2;|
+2799;Reginaldo Vieira;;1.7;61;165;;14;5;0;|
+2800;Ketlen Vieira;Fenomeno;1.73;61;173;Orthodox;9;0;0;|
+2801;Steve Vigneault;Lionheart;1.78;84;;Orthodox;12;6;0;|
+2802;Alejandro Villalobos;;1.7;66;;;17;5;0;|
+2803;DeMarco Villalona;;1.75;84;;;1;3;0;|
+2804;Gian Villante;;1.91;93;193;Orthodox;15;9;0;|
+2805;Ruben Villareal;Warpath;1.93;120;;Orthodox;19;23;3;|
+2806;Pablo Villaseca;El Gallo;1.7;70;;;12;3;0;|
+2807;Joey Villasenor;Smokin' Joe;1.83;84;;Orthodox;28;9;0;|
+2808;Danillo Villefort;Indio;1.85;84;;Orthodox;13;4;0;|
+2809;Yuri Villefort;;1.83;77;185;Orthodox;6;3;0;|
+2810;Marcos Vinicius;Vina;1.75;57;178;Orthodox;20;6;1;|
+2811;Brandon Visher;The Viper;1.68;61;173;Orthodox;13;3;0;|
+2812;Falaniko Vitale;Niko;1.78;84;;Orthodox;29;10;0;|
+2813;Bobby Voelker;Vicious;1.83;77;190;Orthodox;24;12;0;|
+2814;Alexander Volkanovski;The Great;1.68;66;180;Orthodox;15;1;0;|
+2815;Jacob Volkmann;Christmas;1.75;70;180;Southpaw;15;4;0;|
+2816;Alexander Volkov;Drago;2.01;113;203;Orthodox;29;6;0;|
+2817;Jason Von Flue;Live Wire;1.83;77;;Orthodox;14;12;1;|
+2818;Milco Voorn;;;100;;Orthodox;20;10;1;|
+2819;Mark Vorgeas;;1.78;61;;;5;3;1;|
+2820;Igor Vovchanchyn;Ice Cold;1.73;93;;Orthodox;55;10;1;|
+2821;James Wade;;1.78;93;;;4;10;0;|
+2822;Chris Wade;;1.78;70;178;Orthodox;12;3;0;|
+2823;Neil Wain;Old School;1.78;110;;Orthodox;10;3;0;|
+2824;TJ Waldburger;The Modern Day Warrior;1.8;77;190;Orthodox;16;9;0;|
+2825;Chase Waldon;;1.85;84;190;Orthodox;11;2;0;|
+2826;Andre Walker;;1.8;93;;Southpaw;1;5;0;|
+2827;Herschel Walker;;1.85;98;;Orthodox;2;0;0;|
+2828;Donny Walker;Eagle Eye;1.75;61;;;15;8;0;|
+2829;Ben Wall;Manimal;1.78;70;185;Orthodox;7;2;1;|
+2830;Crafton Wallace;Blaze;1.83;84;;Orthodox;18;6;1;|
+2831;Rodney Wallace;Shonuff the Master;1.75;93;183;Switch;11;4;1;|
+2832;Jeremy Wallace;;1.75;;;;4;5;0;|
+2833;Randall Wallace;Braveheart;1.8;84;185;Orthodox;15;6;0;|
+2834;Jimmy Wallhead;Judo;1.78;77;185;Orthodox;29;11;0;|
+2835;Cory Walmsley;Hardcore;1.83;93;;Orthodox;8;2;0;|
+2836;Richard Walsh;Filthy Rich;1.83;77;185;;9;6;0;|
+2837;Patrick Walsh;The Beast of the East;1.8;84;180;;5;3;0;|
+2838;Erick Wanderlei;;1.85;93;;Orthodox;3;3;0;|
+2839;Dimitiri Wanderley;;;93;;Orthodox;5;2;0;|
+2840;Andy Wang;;1.68;70;;Orthodox;7;8;1;|
+2841;Sai Wang;The Fire Kylin;1.83;77;183;Southpaw;8;5;1;|
+2842;An Ying Wang;Smiley;1.83;77;;Orthodox;2;2;0;|
+2843;Curt Warburton;;1.83;70;185;Orthodox;7;3;0;|
+2844;Brennan Ward;The Irish Bad Boy;1.78;77;180;;14;5;0;|
+2845;Charlie Ward;Relentless;1.8;77;185;Orthodox;3;3;0;|
+2846;Terrion Ware;Flash;1.73;61;180;Orthodox;17;6;0;|
+2847;Joe Warren;;1.68;61;;Orthodox;7;3;0;|
+2848;Brian Warren;Mr. Unbreakable;1.83;84;;Orthodox;15;15;1;|
+2849;Merritt Warren;;1.78;70;;Southpaw;3;3;0;|
+2850;Idris Wasi;;1.83;84;;;2;14;0;|
+2851;Kengo Watanabe;;1.93;100;;Orthodox;8;13;3;|
+2852;Kazuhisa Watanabe;;1.68;63;;;0;1;0;|
+2853;Ron Waterman;H20;1.88;127;;Orthodox;16;6;2;|
+2854;Andy Waters;;1.83;77;;;1;2;0;|
+2855;Dominic Waters;Sho Nuff;1.85;77;201;Orthodox;9;5;0;|
+2856;Michelle Waterson;The Karate Hottie;1.6;52;157;Orthodox;14;5;0;|
+2857;Sam Watford;;;70;;;2;2;0;|
+2858;Blake Watkins;;;84;;;5;1;0;|
+2859;Kyle Watson;;1.83;70;;;13;7;1;|
+2860;Maka Watson;;;70;;;4;2;0;|
+2861;Walel Watson;The Gazelle;1.8;61;175;Orthodox;9;5;0;|
+2862;Tom Watson;Kong;1.85;84;185;Orthodox;17;9;0;|
+2863;Enrique Watson;;;84;;;3;1;0;|
+2864;Jonavin Webb;The Spyder;1.78;77;180;Orthodox;8;2;0;|
+2865;Stephanie Webber;;1.68;61;;;1;2;0;|
+2866;Emil Meek;Valhalla;1.8;77;188;Switch;9;2;1;|
+2867;Royston Wee;;1.7;61;170;Orthodox;4;1;0;|
+2868;Daniel Weichel;The Weasel;1.78;66;178;;39;9;0;|
+2869;Chris Weidman;The All-American;1.88;84;198;Orthodox;14;3;0;|
+2870;Mark Weir;The Wizard;1.88;84;;Southpaw;20;18;1;|
+2871;Christian Wellisch;The Hungarian Nightmare;1.88;106;196;Orthodox;8;5;0;|
+2872;Fabricio Werdum;Vai Cavalo;1.93;105;196;Orthodox;22;7;1;|
+2873;Mike Wessel;Juggernaut;1.83;118;;Orthodox;10;4;0;|
+2874;Dustin West;;1.8;77;;;4;4;0;|
+2875;Sheldon Westcott;;1.85;77;180;Southpaw;10;3;1;|
+2876;Aaron Wetherspoon;Slam;;77;;;8;4;0;|
+2877;Coty Wheeler;Ox;1.68;61;170;Orthodox;14;4;0;|
+2878;Vernon White;Tiger;1.83;93;;Southpaw;26;33;2;|
+2879;Steve White;;1.8;79;;;1;4;0;|
+2880;Alex White;The Spartan;1.83;70;180;Southpaw;12;3;0;|
+2881;Rob Whiteford;The Hammer;1.75;66;175;Southpaw;12;4;0;|
+2882;Mike Whitehead;;1.85;93;;Orthodox;27;7;0;|
+2883;Garett Whiteley;Goodnight;1.83;70;183;Orthodox;8;3;0;|
+2884;Mitch Whitesel;;1.75;84;;;16;20;0;|
+2885;Robert Whittaker;The Reaper;1.83;84;185;Orthodox;20;4;0;Champion Belt|
+2886;Adam Wieczorek;Siwy;1.96;113;206;Orthodox;8;1;0;|
+2887;Orlando Wiet;The Gladiator;1.78;77;;Southpaw;1;5;0;|
+2888;Jonathan Wiezorek;;1.91;113;;Southpaw;11;2;0;|
+2889;Justin Wilcox;Silverback;1.68;70;;Orthodox;11;6;0;|
+2890;Joe Wilk;The Nose;1.75;66;;;12;8;0;|
+2891;Aaron Wilkinson;The Daywalker;1.78;70;;;7;5;0;|
+2892;Mike Wilkinson;The Warrior;1.7;66;173;;9;2;0;|
+2893;Rob Wilkinson;Razor;1.91;84;203;Orthodox;11;1;0;|
+2894;James Wilks;Lightning;1.85;77;190;Orthodox;7;4;0;|
+2895;Tedd Williams;;1.85;125;;Orthodox;7;1;0;|
+2896;Pete Williams;El Duro;1.91;107;;Orthodox;12;6;0;|
+2897;Rubin Williams;Mr. Hollywood;1.85;84;;Orthodox;0;1;0;|
+2898;Carter Williams;The Beast;1.85;120;;Orthodox;4;4;0;|
+2899;Patrick Williams;The Animal;1.73;61;185;Orthodox;8;5;0;|
+2900;Tim Williams;The South Jersey Strangler;1.88;84;;;15;3;0;|
+2901;Karl Willis;;;;;;0;4;0;|
+2902;Justin Willis;Big Pretty;1.85;120;198;Southpaw;5;1;0;|
+2903;Chris Wilson;The Professor;1.85;77;190;Orthodox;16;8;0;|
+2904;Greg Wilson;;;70;;;2;2;0;|
+2905;Jonathan Wilson;Johnny Bravo;1.88;93;190;Southpaw;7;3;0;|
+2906;Sean Wilson;P-Town;1.73;66;;;36;29;0;|
+2907;Matt Wiman;;1.78;70;173;Orthodox;16;7;0;|
+2908;Eddie Wineland;;1.7;61;175;Orthodox;23;12;1;|
+2909;Andre Winner;;1.8;70;185;Orthodox;13;6;1;|
+2910;Eric Wisely;Little Lee;1.73;66;;Southpaw;19;8;1;|
+2911;Keith Wisniewski;The Polish Connection;1.83;77;190;Orthodox;28;13;1;|
+2912;Travis Wiuff;The Diesel;1.91;93;;Orthodox;64;14;0;|
+2913;Ray Wizard;;;;;;0;1;0;|
+2914;Brandon Wolff;;1.75;77;;Orthodox;7;5;0;|
+2915;Xue Do Won;;1.7;75;;;0;1;0;|
+2916;Tyron Woodley;The Chosen One;1.75;77;188;Orthodox;18;3;1;Champion Belt|
+2917;Salvador Woods;;1.8;77;;;5;10;0;|
+2918;Cal Worsham;;1.8;104;;Orthodox;11;10;0;|
+2919;Hunter Worsham;The Future;;84;;;4;2;0;|
+2920;Eric Wray;;1.83;77;;Orthodox;5;1;0;|
+2921;Justin Wren;The Viking;1.88;120;;Orthodox;11;2;0;|
+2922;JW Wright;;;59;;;1;0;0;|
+2923;Chris Wright;;;;;;5;1;1;|
+2924;Marcin Wrzosek;The Polish Zombie;1.75;70;;;10;4;0;|
+2925;Yanan Wu;;1.75;61;;;9;1;0;|
+2926;Rubens Xavier;Macula;1.91;100;;Orthodox;5;3;0;|
+2927;Jamie Yager;The Chosyn 1;1.85;84;;Orthodox;5;2;0;|
+2928;Eddie Yagin;The Filipino Phenom;1.7;66;;Orthodox;16;5;1;|
+2929;Rani Yahya;;1.68;61;170;Orthodox;24;9;0;|
+2930;Alexander Yakovlev;Thunder of the North;1.91;77;188;Southpaw;23;8;1;|
+2931;Keiichiro Yamamiya;;1.8;84;;Southpaw;40;27;10;|
+2932;Kenichi Yamamoto;;1.83;77;;Orthodox;5;10;2;|
+2933;Yoshihisa Yamamoto;;1.88;100;;Southpaw;14;24;1;|
+2934;Atsushi Yamamoto;;1.68;63;;Orthodox;15;7;3;|
+2935;Norifumi Yamamoto;Kid;1.63;61;168;Southpaw;18;6;0;|
+2936;Hiroko Yamanaka;Cat's Eye;1.8;61;;;12;3;0;|
+2937;Goiti Yamauchi;;1.78;66;;;21;3;0;|
+2938;Takeshi Yamazaki;;1.73;63;;Southpaw;15;12;3;|
+2939;Xiaonan Yan;Fury;1.65;52;;;7;1;0;|
+2940;Dongi Yang;The Ox;1.78;84;180;Southpaw;13;3;0;|
+2941;Jianping Yang;Tiger;1.7;66;165;Orthodox;7;4;1;|
+2942;Masutatsu Yano;;1.75;90;;Orthodox;2;4;1;|
+2943;Emmanuel Yarborough;;2.03;349;;Open;1;2;0;|
+2944;Cale Yarbrough;;1.85;84;;Orthodox;8;3;0;|
+2945;Tadao Yasuda;;1.93;141;;Orthodox;2;4;0;|
+2946;Yoshiaki Yatsu;;1.85;75;;Orthodox;0;2;0;|
+2947;Chris Yee;;1.75;84;;;4;6;0;|
+2948;Ashley Yoder;Spider Monkey;1.7;52;175;Southpaw;5;3;0;|
+2949;Hirotaka Yokoi;Kaibatsu-Kun;1.8;93;;Orthodox;11;5;0;|
+2950;Kazunori Yokota;;1.73;70;;Orthodox;14;5;3;|
+2951;John Yoo;;;61;;;0;1;0;|
+2952;Dong Sik Yoon;;1.83;84;;Orthodox;5;7;0;|
+2953;Yoshiyuki Yoshida;Zenko;1.8;77;178;Southpaw;13;6;0;|
+2954;Hidehiko Yoshida;;1.8;102;;Orthodox;9;8;1;|
+2955;Kaitlin Young;;1.75;61;;Orthodox;5;5;1;|
+2956;Artenus Young;;;93;;;7;4;0;|
+2957;Trenell Young;Savant;1.68;66;;Orthodox;9;8;0;|
+2958;Jason Young;Shotgun;1.75;66;185;Orthodox;8;7;0;|
+2959;Besam Yousef;;1.8;77;180;Orthodox;6;2;0;|
+2960;Han Ten Yun;;1.8;100;;;0;1;0;|
+2961;Rob Yundt;Monster;1.85;84;;Orthodox;9;4;0;|
+2962;Gilbert Yvel;The Hurricane;1.88;102;196;Orthodox;36;16;1;|
+2963;Luke Zachrich;;1.88;84;188;Orthodox;14;4;0;|
+2964;Anton Zafir;The Professor;1.8;77;183;Orthodox;7;3;0;|
+2965;Aiemann Zahabi;;1.73;61;173;Orthodox;7;0;0;|
+2966;Elizeu Zaleski dos Santos;Capoeira;1.8;77;185;Orthodox;17;5;0;|
+2967;Roger Zapata;Viva;1.8;77;188;Southpaw;4;3;0;|
+2968;Marius Zaromskis;The Whitemare;1.75;77;;Orthodox;15;7;0;|
+2969;Joao Zeferino;The Brazilian Samurai;1.8;77;185;Orthodox;13;6;0;|
+2970;Craig Zellner;Big Z;1.88;93;;Orthodox;4;3;0;|
+2971;Roman Zentsov;The Russian Hammer;1.85;104;;Orthodox;18;13;0;|
+2972;Carlos Zevallos;;1.83;93;;Orthodox;1;1;0;|
+2973;Tiequan Zhang;The Wolf;1.73;70;178;Orthodox;18;4;0;|
+2974;Zhang Lipeng;The Warrior;1.8;70;180;Southpaw;9;9;1;|
+2975;Yao Zhikui;The Conqueror;1.65;57;163;Orthodox;2;5;0;|
+2976;Mike Zichelle;;;93;;;8;4;0;|
+2977;James Zikic;The Messenger;1.88;93;;Orthodox;20;8;2;|
+2978;Errol Zimmerman;The Bonecrusher;1.91;84;;Orthodox;0;1;0;|
+2979;Cat Zingano;Alpha;1.68;61;173;Southpaw;9;2;0;|
+2980;Igor Zinoviev;Houdini;1.85;90;;Orthodox;4;1;2;|
+2981;Dave Zitanick;;;77;;;5;7;0;|
+2982;Alex Zuniga;;;66;;;4;3;0;|
+2983;George Zuniga;;1.75;84;;;3;1;0;|
+2984;Virgil Zwicker;RezDog;1.88;93;188;;14;4;1;|
